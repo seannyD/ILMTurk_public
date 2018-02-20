@@ -1,0 +1,598 @@
+---
+title: "Slide whistle stats"
+output: 
+  pdf_document:
+    toc: true
+---
+
+```{r echo=F,message=F}
+setwd("/Library/WebServer/Documents/ILMTurk/stats/R")
+```
+
+# Load libraries
+```{r}
+library(lme4)
+library(blme)
+library(lattice)
+library(gplots)
+library(party)
+library(influence.ME)
+library(Rmisc)
+```
+
+# Introduction
+
+In this document we test whether signallers avoid steep regions when the curvature is higher.
+
+# Load data
+
+```{r}
+signals_MT = read.csv("../Data/Signals_MT.csv",stringsAsFactors=F)
+signals_SONA = read.csv("../Data/Signals_SONA.csv",stringsAsFactors=F)
+
+signals_MT$run = "MT"
+signals_SONA$run = "SONA"
+```
+
+## Variables
+
+A description of the variables included in the datasets:
+
+-  averageSlope/averageSlope.hz:  average absolute difference in physical space/hz space between samples.  High value = lots of movement.  mean(abs(diff(sig)))
+-  propZero/propZero.hz:  proportion of times in which the difference between sample values was negligible.  High value = lots of time standing still.  sum(diff(sig)<5) / length(sig
+-  switches/switches.hz:  Number of changes in direction.  sum(abs((diff(diff(sig)>=0))))
+-  maxslope/maxslope.hz:  Maximum change in singal.  max(abs(diff(sig)))
+-  slope.move:  average slope change excluding zero.  mean(abs(diff(sig)[abs(diff(sig))>=5]))
+-  jerkyness: standard deviation between derivative of signal.  Low value = smoothly changing signal.  sd(abs(diff(sig)))
+-  prop.time.plateau:  Proportion of time spent in the plateau region (physical space only).  Steep regions are defined as: 0.1-0.3 and 0.5-0.7, all other values are plateau.  (the prop.time.plateau.hz variable should be ignored)
+-  switches.between.sections:  If the signal space is divided into three plateau regions and two steep regions, the number of times the signal switches from one region to another.
+
+-  steepness.sig.mean - the signal's average steepenss of curve.  For each change in a unit of physical space, what is the proportional change in the bark scale signal (perceptual difference)?  The steepness values are taken from the curve used to produce the signal.  So, any signal produced with zero curvature should have the same steepness.sig.mean.  The same signal drawn on different curvatures will have different values of steepness.sig.mean, in a way that's not easy to predict (high curvatures have more steep regions, but also more flat regions).
+-  steepness.sig.mean.max - same as steepness.sig.mean, but where the steepenss values are taken from the maximum curvature steepness, to normalise over curvature values.
+
+-  logfile:  The name of the log file used in the experiment
+-  chain: chain number (according to the online server)
+-  curvature:  value of the curvature c of the articulator mapping
+-  run:  source of the data (MT = mechanical turk, SONA = SONA)
+-  physSignal: the raw values of the physical signal recorded by the program, as a string of values separated by underscores.  Values are proportion of the way along the slider x 1000, where 0 is low and 1000 is high
+-  hzSignal:  the raw values of the signal in hz played to the participant. Same format as above, but in hz.
+-  numLearningRounds: the number of learning trials that the participant took to learn all 3 meanings (multiples of 3).  This is the total value for the participant, not per meaning.  For a given participant, this value is duplicated across the entries for each meaning.  (so to get the number of learning rounds for a given participant, you should just look at values for e.g. meaning==1)
+-  abortedReproductionAttempts:  The total number of times a player retries to produce a signal.  As above, the number is reproduced over the 3 meanings.  
+-  physSigDistinctiveness:  How distinctive are the three signals that a participant produced?  Split the time/signal space into a 10 x 10 grid.  Count the number of appearances the signal makes in each cell to get a matrix of numbers that represents the journey of the signal.  Do that for each signal.  Then for each signal pair, calculate the absolute difference between the two matrices.  Two very different signals will produce a high value.  Two identical signals will produce a value of zero.  Note that, because the time dimension is considered, two signals with the same trajectory but different speeds will look different.  See the function "compareSignals" in GetData.R.
+-  hzSigDistinctiveness: Same as above, but in hz space.
+-  dataFileHzSignal:  The file where the raw data is stored.
+-  dataFileHzSignal:  The file where the raw data is stored.
+-  chain2: A unique identifier for the diffusion chain (chain number, log file, curvature).  This should be used instead of 'chain', because 'chain' can have identical chain numbers for different curvature values.
+-  rawDataSource:  Source of the raw data.
+
+
+\newpage
+
+
+\newpage
+
+# SONA results
+
+We predict that speakers will avoid unstable regions of the articulator for stronger biases, and instead use the stable (quantal) ones.  Moreover, we expect that the effect will become more pronounced as generations go by, that is, that nonlinear biases get amplified over time. 
+
+Select dataset:
+
+```{r}
+dx = signals_SONA
+
+# remove cases without values
+dx = dx[!is.na(dx$prop.time.plateau),]
+```
+
+## Normalise variables
+
+```{r}
+# Center proportion of time on the plateau
+dx$prop.time.plateau.norm = dx$prop.time.plateau - mean(dx$prop.time.plateau)
+# Make a variable to identify participant
+dx$participant = paste(dx$chain2, dx$gen)
+# generation ranges from 1-10, but the model converges
+# better if it's centered around zero
+dx$gen = dx$gen - 5
+# Same with curvature (but make sure 0 represents an observed value)
+dx$curvature.center = dx$curvature - 0.2
+# Center steepness of the signal
+dx$steepness.sig.mean.max.norm = dx$steepness.sig.mean.max - mean(dx$steepness.sig.mean.max)
+```
+
+
+
+Some stats:
+
+```{r}
+# Datapoints:
+nrow(dx)
+# Number of chains:
+length(unique(dx$chain2))
+# Number of participants:
+length((unique(paste(dx$chain2,dx$gen))))
+```
+
+## Average time on the plateau
+
+Plot average time on the plateau by curavture value.
+
+```{r warning=F, message=F}
+plotmeans(prop.time.plateau~curvature, data=dx, 
+          ylab="Proporiton of time on the plateau", 
+          xlab='Curvature')
+```
+
+
+### Test fixed effects (SONA)
+
+```{r}
+# Null model
+#  Note: the full null model with all random slopes 
+#  has convergence issues
+m0= blmer(prop.time.plateau.norm~
+        1 + 
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx)
+
+# add curavture
+m1= blmer(prop.time.plateau.norm~
+        1 + 
+          curvature.center +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx)
+# add generation
+m2= blmer(prop.time.plateau.norm~
+        1 + 
+          curvature.center +
+          gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx)
+# add interaction between curvature and generation
+m3= blmer(prop.time.plateau.norm~
+        1 + 
+          curvature.center +
+          gen +
+          curvature.center : gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx)
+
+```
+
+Use model comparison to test the effect of each variable.
+
+```{r}
+anova(m0,m1,m2,m3)
+```
+
+Look inside final model:
+
+```{r}
+summary(m3)
+```
+
+How good is the fit?
+
+```{r}
+qqnorm(resid(m3))
+qqline(resid(m3))
+```
+
+Plot the interaction between generation and curvature.
+
+```{r}
+#sjp.lmer(m3, 'pred',c("gen",'curvature.center'))
+```
+
+Plot random effects
+
+```{r}
+dotplot(ranef(m3))
+```
+
+\newpage
+
+## Steepness measure
+
+Build a series of lmer models predicting the average steepness of signals (normalised using the maximum steepenss values) by curvature and generation.  We add a random effect for chain and meaning, with random slopes for curature and generation by chain.
+
+Plot mean steepenss by curvature.
+
+```{r warning=F, message=F}
+plotmeans(steepness.sig.mean.max~curvature, data=dx, 
+          ylab="Mean signal steepness", 
+          xlab='Curvature')
+```
+
+
+
+### Test fixed effects (SONA)
+
+```{r}
+# Null model
+m0= blmer(steepness.sig.mean.max.norm~
+        1 + 
+        (1| chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx)
+
+# add curavture
+m1= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+        (1| chain2) +
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx)
+# add generation
+m2= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+          gen +
+        (1| chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx)
+# add interaction between curvature and generation
+m3= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+          gen +
+          curvature.center : gen +
+        (1| chain2) +
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx)
+```
+
+Use model comparison to test the effect of each variable.
+
+```{r}
+anova(m0,m1,m2,m3)
+```
+
+Inside final model:
+
+```{r}
+summary(m3)
+```
+
+How good is the fit?
+
+```{r}
+qqnorm(resid(m3))
+qqline(resid(m3))
+```
+
+Plot the interaction between generation and curvature.
+
+```{r}
+#sjp.lmer(m3, 'pred',c("gen",'curvature.center'))
+```
+
+
+
+
+\newpage
+
+# Mechanical Turk results
+
+We predict speakers indeed will avoid unstable regions of the articulator for stronger biases, and instead use the stable (quantal) ones.  Moreover, we expect that the effect will become more pronounced as generations go by, that is, that nonlinear biases indeed get amplified over time. 
+
+Select dataset (use only MT for now):
+
+```{r}
+dx = signals_MT
+
+# remove cases without values
+dx = dx[!is.na(dx$prop.time.plateau),]
+
+# remove chains with only one generaion
+numOfGensPerChain = tapply(dx$gen,dx$chain2,function(X){length(unique(X))})
+
+dx = dx[!dx$chain2 %in%
+          names(numOfGensPerChain)[
+            which(numOfGensPerChain==1)],]
+
+```
+
+Center variables
+
+```{r}
+dx$prop.time.plateau.norm = dx$prop.time.plateau - mean(dx$prop.time.plateau)
+dx$steepness.sig.mean.max.norm = dx$steepness.sig.mean.max - mean(dx$steepness.sig.mean.max)
+
+dx$gen = dx$gen - 5
+dx$curvature.center = dx$curvature - 0.2
+
+dx$participant = paste(dx$chain2, dx$gen)
+
+
+```
+
+
+
+Some stats:
+
+```{r}
+# Datapoints:
+nrow(dx)
+# Number of chains:
+length(unique(dx$chain2))
+# Number of participants:
+length((unique(paste(dx$participant))))
+```
+
+
+## Average time on the plateau (MT)
+
+Plot average time on the plateau by curavture value.
+
+```{r warning=F, message=F}
+plotmeans(prop.time.plateau~curvature, data=dx, 
+          ylab="Proporiton of time on the plateau", 
+          xlab='Curvature')
+```
+
+
+### Test fixed effects (MT)
+
+```{r}
+
+bcontrol = lmerControl(optimizer = 'Nelder_Mead')
+
+# Null model
+#  Note: the full null model with all random slopes 
+#  has convergence issues
+m0= blmer(prop.time.plateau.norm~
+        1 + 
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+
+# add curavture
+m1= blmer(prop.time.plateau.norm~
+        1 + 
+          curvature.center +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+# add generation
+m2= blmer(prop.time.plateau.norm~
+        1 + 
+          curvature.center +
+          gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+# add interaction between curvature and generation
+m3= blmer(prop.time.plateau.norm~
+        1 + 
+          curvature.center +
+          gen +
+          curvature.center : gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+
+m4= blmer(prop.time.plateau.norm~
+        1 + 
+          curvature.center +
+          gen +
+          curvature.center : gen +
+          I(curvature.center^2) +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+
+m5= blmer(prop.time.plateau.norm~
+        1 + 
+          curvature.center +
+          gen +
+          curvature.center : gen +
+          I(curvature.center^2) +
+          I(curvature.center^2):gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+
+```
+
+Use model comparison to test the effect of each variable.
+
+```{r}
+anova(m0,m1,m2,m3,m4,m5)
+```
+
+```{r}
+summary(m3)
+```
+
+
+How good is the fit?
+
+```{r}
+qqnorm(resid(m3))
+qqline(resid(m3))
+```
+
+\newpage
+
+## Steepness measure (MT)
+
+Plot mean steepenss by curvature.
+
+```{r warning=F, message=F}
+plotmeans(steepness.sig.mean.max~curvature, data=dx, 
+          ylab="Mean signal steepness", 
+          xlab='Curvature')
+```
+
+
+
+
+### Test fixed effects (MT)
+
+```{r}
+# Null model
+m0= blmer(steepness.sig.mean.max.norm~
+        1 + 
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+
+# add curavture
+m1= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+        (1 | chain2) +
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+# add generation
+m2= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+          gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+# add interaction between curvature and generation
+m3= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+          gen +
+          curvature.center : gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+# Quadratic term of curvature
+m4= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+          gen +
+          curvature.center : gen +
+          I(curvature^2) +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+
+# Interaction between quadratic term of curvature and generation
+m5= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+          gen +
+          curvature.center : gen +
+          I(curvature^2) +
+          I(curvature^2):gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx,
+        control = bcontrol)
+```
+
+Use model comparison to test the effect of each variable.
+
+```{r}
+anova(m0,m1,m2,m3,m4,m5)
+```
+
+
+```{r}
+summary(m3)
+```
+
+
+How good is the fit?
+
+```{r}
+qqnorm(resid(m3))
+qqline(resid(m3))
+```
+
+
+```{r}
+dotplot(ranef(m3))
+```
+
+
+
+# Without curvature = 0.5
+
+```{r}
+m0= blmer(steepness.sig.mean.max.norm~
+        1 + 
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx[dx$curvature!=0.5,],
+        control = bcontrol)
+
+# add curavture
+m1= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+        (1 | chain2) +
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx[dx$curvature!=0.5,],
+        control = bcontrol)
+# add generation
+m2= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+          gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx[dx$curvature!=0.5,],
+        control = bcontrol)
+# add interaction between curvature and generation
+m3= blmer(steepness.sig.mean.max.norm~
+        1 + 
+          curvature.center +
+          gen +
+          curvature.center : gen +
+        (1 | chain2) + 
+        (1 | participant) +
+        (1 | meaning), 
+        data = dx[dx$curvature!=0.5,],
+        control = bcontrol)
+```
+
+```{r}
+anova(m0,m1,m2,m3)
+```
+
+

@@ -1,0 +1,22 @@
+
+The 'labial-palatal' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+AKAN (35) 	wj 	2.86%	
+ALLADIAN (36) 	wj 	2.78%	
+FRENCH (37) 	wj 	2.70%	
+GA (41) 	wj 	2.44%	
+LAKKIA (55) 	wj 	1.82%	
+MANDARIN (32) 	wj 	3.12%	
+
+These 6 languages are 1.33% of all languages in UPSID.
+
+
+The criterion 'labial-palatal' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+wj 	voiced labial-palatal approximant 	1.33%
+
+These 1 sounds make 0.11% of all 919 sounds in UPSID
+

@@ -1,0 +1,149 @@
+
+The 'uvular' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+ABIPON (20) 	RF, q 	10.00%	
+ACHUMAWI (23) 	X, q 	8.70%	
+AHTNA (35) 	G, RF, X, q', qh 	14.29%	
+ALEUT (27) 	RF, X, q 	11.11%	
+ARABIC (35) 	RF, X, q 	8.57%	
+ARCHI (91) 	RF, RF9, RFW, RFW9, X, X9, X9:, X:, XW, XW9, XW9:, XW:, qX, qX', qX':, qX9, qX9', qX9':, qXW, qXW', qXW9, qXW9' 	24.18%	
+ARMENIAN (36) 	RA, X 	5.56%	
+ATAYAL (26) 	q 	3.85%	
+AVAR (49) 	X, X:, qX':, qX: 	8.16%	
+AWIYA (35) 	G, GW, q, qW 	11.43%	
+BASHKIR (38) 	RF, q 	5.26%	
+BASQUE (28) 	X 	3.57%	
+BATAK (21) 	R 	4.76%	
+BATS (45) 	RF, X, q', qh 	8.89%	
+BELLA COOLA (31) 	X, XW, q, q', qW, qW' 	19.35%	
+BURUSHASKI (43) 	RF, X, q, qh 	9.30%	
+CHUKCHI (22) 	q 	4.55%	
+DAJU (30) 	X 	3.33%	
+DIEGUENO (34) 	q 	2.94%	
+EYAK (45) 	G, X, q', qh 	8.89%	
+FARSI (30) 	G, X 	6.67%	
+FRENCH (37) 	R 	2.70%	
+GELAO (43) 	q, qh 	4.65%	
+GEORGIAN (34) 	RF, X, q' 	8.82%	
+GERMAN (41) 	R 	2.44%	
+HAIDA (49) 	X, XW, q, q', qW, qW', qWh, qh 	16.33%	
+HAMER (35) 	q' 	2.86%	
+HINDI-URDU (61) 	RF, X, q 	4.92%	
+HMONG (56) 	Nq, Nqh, q, qh 	7.14%	
+HOPI (28) 	q 	3.57%	
+HUPA (35) 	q, q' 	5.71%	
+INUIT (22) 	RF, X:, q 	13.64%	
+IRAQW (45) 	q, qW 	4.44%	
+ITELMEN (32) 	X, q, q' 	9.38%	
+JACALTEC (32) 	X, q< 	6.25%	
+JAPANESE (20) 	nU 	5.00%	
+JAQARU (39) 	q, q', qh 	7.69%	
+K'EKCHI (26) 	q, q' 	7.69%	
+KABARDIAN (56) 	RF, RFW, X, XW, q', qW', qX, qXW 	14.29%	
+KAM (27) 	X 	3.70%	
+KET (25) 	q 	4.00%	
+KIRGHIZ (30) 	G, q 	6.67%	
+KLAMATH (37) 	G, q', qh 	8.11%	
+KORYAK (21) 	q 	4.76%	
+KUNIMAIPA (20) 	G 	5.00%	
+KURDISH (47) 	q 	2.13%	
+KURUKH (32) 	X 	3.12%	
+KWAKW'ALA (48) 	G, GW, X, XW, q', qW', qWh, qh 	16.67%	
+LAHU (35) 	q, qh 	5.71%	
+LAI (52) 	q, qh 	3.85%	
+LAK (69) 	G, GW, X, X:, XW, XW:, q', q:, qW', qW:, qWh, qh 	17.39%	
+LUISENO (26) 	q, qW 	7.69%	
+LUSHOOTSEED (37) 	X, XW, q, q', qW, qW' 	16.22%	
+MANDARIN (32) 	X 	3.12%	
+MOGHOL (29) 	R, q 	6.90%	
+MONGUOR (28) 	G, q 	7.14%	
+NAXI (49) 	X 	2.04%	
+NEO-ARAMAIC (40) 	RF, X, q 	7.50%	
+NEZ PERCE (30) 	q', qX 	6.67%	
+NIVKH (35) 	RF, X, q, qh 	11.43%	
+ORMURI (31) 	RF, X 	6.45%	
+PAIWAN (26) 	q 	3.85%	
+PASHTO (38) 	RF, X 	5.26%	
+POMO (32) 	X, q, q' 	9.38%	
+QUECHUA (36) 	q, q', qh 	8.33%	
+QUILEUTE (37) 	X, XW, q, q', qW, qW' 	16.22%	
+RUTUL (64) 	G, G9, GW, GW9, RF, RF9, RFW, RFW9, X, X9, XW, XW9, q', q9', q9h, qW', qW9', qW9h, qWh, qh 	31.25%	
+SELKUP (34) 	q 	2.94%	
+SHUSWAP (44) 	RA, RAW, RAW*, X, XW, q, q*, qW, qW* 	20.45%	
+SOMALI (32) 	G 	3.12%	
+SUI (54) 	RF, q, qh 	5.56%	
+TAMASHEQ (37) 	RF, X, q 	8.11%	
+TEHUELCHE (35) 	q 	2.86%	
+TLINGIT (48) 	G, GW, X, X', XW, XW', q, q', qW, qW' 	20.83%	
+TOTONAC (22) 	q 	4.55%	
+TSESHAHT (42) 	X, XW, q, q', qW, qW' 	14.29%	
+TSIMSHIAN (41) 	G, X, q, q' 	9.76%	
+UPPER CHEHALIS (34) 	X, XW, q, q', qW, qW' 	17.65%	
+UZBEK (30) 	RF, X, q 	10.00%	
+WINTU (35) 	X, q, q' 	8.57%	
+WOLOF (40) 	X, qX 	5.00%	
+YUKAGHIR (26) 	RF, q 	7.69%	
+YUPIK (36) 	RF, RFW, X, XW, q, qW 	16.67%	
+
+These 83 languages are 18.40% of all languages in UPSID.
+
+
+The criterion 'uvular' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+G 	voiced uvular plosive 	3.10%
+G9 	pharyngealized voiced uvular plosive 	0.22%
+GW 	labialized voiced uvular plosive 	1.11%
+GW9 	labialized pharyngealized voiced uvular plosive 	0.22%
+Nq 	prenasalized voiceless uvular plosive 	0.22%
+Nqh 	prenasalized voiceless aspirated uvular plosive 	0.22%
+R 	voiced uvular trill 	0.89%
+RA 	voiced uvular approximant 	0.44%
+RAW 	labialized voiced uvular approximant 	0.22%
+RAW* 	laryngealized labialized voiced uvular approximant 	0.22%
+RF 	voiced uvular fricative 	4.88%
+RF9 	pharyngealized voiced uvular fricative 	0.44%
+RFW 	voiced uvular fricative 	0.89%
+RFW9 	labialized pharyngealized voiced uvular fricative 	0.44%
+X 	voiceless uvular fricative 	9.76%
+X' 	voiceless uvular ejective fricative 	0.22%
+X9 	pharyngealized voiceless uvular fricative 	0.44%
+X9: 	long pharyngealized voiceless uvular fricative 	0.22%
+X: 	long voiceless uvular fricative 	0.89%
+XW 	labialized voiceless uvular fricative 	3.10%
+XW' 	labialized voiceless uvular ejective fricative 	0.22%
+XW9 	labialized pharyngealized voiceless uvular fricative 	0.44%
+XW9: 	long labialized pharyngealized voiceless uvular fricative 	0.22%
+XW: 	long labialized voiceless uvular fricative 	0.44%
+nU 	voiced uvular nasal 	0.22%
+q 	voiceless uvular plosive 	11.53%
+q' 	voiceless uvular ejective stop 	5.76%
+q* 	laryngealized voiceless uvular plosive 	0.22%
+q9' 	pharyngealized voiceless uvular ejective stop 	0.22%
+q9h 	pharyngealized voiceless aspirated uvular plosive 	0.22%
+q: 	long voiceless uvular plosive 	0.22%
+q< 	voiceless uvular implosive 	0.22%
+qW 	labialized voiceless uvular plosive 	2.66%
+qW' 	labialized voiceless uvular ejective stop 	2.44%
+qW* 	laryngealized labialized voiceless uvular plosive 	0.22%
+qW9' 	labialized pharyngealized voiceless uvular ejective stop 	0.22%
+qW9h 	labialized pharyngealized voiceless aspirated uvular plosive 	0.22%
+qW: 	long labialized voiceless uvular plosive 	0.22%
+qWh 	labialized voiceless aspirated uvular plosive 	0.89%
+qX 	voiceless uvular affricate 	0.89%
+qX' 	voiceless uvular ejective affricate 	0.22%
+qX': 	long voiceless uvular ejective affricate 	0.44%
+qX9 	pharyngealized voiceless uvular affricate 	0.22%
+qX9' 	pharyngealized voiceless uvular ejective affricate 	0.22%
+qX9': 	long pharyngealized voiceless uvular ejective affricate 	0.22%
+qX: 	long voiceless uvular affricate 	0.22%
+qXW 	labialized voiceless uvular affricate 	0.44%
+qXW' 	labialized voiceless uvular ejective affricate 	0.22%
+qXW9 	labialized pharyngealized voiceless uvular affricate 	0.22%
+qXW9' 	labialized pharyngealized voiceless uvular ejective affricate 	0.22%
+qh 	voiceless aspirated uvular plosive 	3.77%
+
+These 51 sounds make 5.55% of all 919 sounds in UPSID
+

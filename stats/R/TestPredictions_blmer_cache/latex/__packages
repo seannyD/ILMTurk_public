@@ -1,0 +1,15 @@
+base
+Matrix
+lme4
+blme
+lattice
+gplots
+mvtnorm
+modeltools
+zoo
+sandwich
+strucchange
+party
+influence.ME
+plyr
+Rmisc

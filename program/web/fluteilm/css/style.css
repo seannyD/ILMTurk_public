@@ -1,0 +1,159 @@
+*                               { margin: 0; padding: 0; }
+body                            { font: 12px "Lucida Grande", Sans-Serif; overflow:hidden; max-height:100%; max-width: 100%; background: white;}
+h2                              { color: #fa9f00; font: 30px Helvetica, Sans-Serif; margin: 0 0 10px 0; }
+#page-wrap                      { width: 500px; margin: 30px auto; position: relative; }
+
+
+#guessPanel					{position: absolute; left: 15%; top: 20%; width:60%; height:55%; z-index:4;}
+/** #option1							{position: absolute;  width:40%;  max-height: 50%; left:0%; top:0%; border: 0;}
+#option2							{position: absolute;  width:40%;   max-height: 50%;left:0%; top:50%; border: 0;}
+#option3							{position: absolute;  width:40%;  max-height: 50%; left:50%; top:0%; border: 0;}
+#option4							{position: absolute;  width:40%;   max-height: 50%;left:50%; top:50%; border: 0;} **/
+
+#option1							{position: absolute;  width:30%;   left:0%; top:0%; border: 0;}
+#option2							{position: absolute;  width:30%;  left:35%; top:0%; border: 0;}
+#option3							{position: absolute;  width:30%;   left:70%; top:0%; border: 0;}
+#option4							{position: absolute;  width:0%;   left:100%; top:100%; border: 0;}
+
+#instructions					{font-size: 14px; position: absolute; left:15%; top:5%; width: 50%; height: 15%;}
+
+#BigInstructions      {font-size: 14px; position: absolute; left:15%; top:5%; width: 50%; bottom: 25%; z-index: -100;}
+
+#imageStimulus				{position: absolute; left:20%; top:25%; width: 30%; height: auto;}
+#imageStimulusIMG				{width: 100%; height: auto;}
+
+#TextStimulus					{font-size: 22px; position: absolute;
+                        left:15%; top:50%; width: 50%; height: 15%;}
+
+#StartButton					{position: absolute; left: 20%; top: 77%;
+                     font-size: 28px; z-index:5;}
+#StartButtonImage    {height:10%;}
+
+#NextButton					{position: absolute; left: 20%; top: 77%; width: 25% z-index: 3;
+                     font-size: 14px;
+                     -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* IE/Edge */
+  user-select: none;           /* non-prefixed version, currently
+                                  not supported by any browser */}
+#NextButtonImage     {width: 100%}
+
+#RetryButton       {background-color: blue; position:absolute;
+                        font-size: 14px;
+                        right: 30%;
+                        top:30%;
+                        width: 20%;
+                        height: 15%;
+                        color: white;
+                        text-align: center;
+                        vertical-align: middle;
+                        line-height: -moz-block-height;
+                        z-index: 2;
+                        -webkit-touch-callout: none; /* iOS Safari */
+-webkit-user-select: none;   /* Chrome/Safari/Opera */
+-khtml-user-select: none;    /* Konqueror */
+-moz-user-select: none;      /* Firefox */
+-ms-user-select: none;       /* IE/Edge */
+user-select: none;           /* non-prefixed version, currently
+                                not supported by any browser */
+                        }
+
+#ListenAgain         {background-color: green; position:absolute;
+                        font-size: 18px;
+                        left: 55%; top: 80%;
+                        width: 20%;
+                        height: 15%;
+                        color: white;
+                        text-align: center;
+                        vertical-align: middle;
+                        line-height: -moz-block-height;
+                        z-index: 2;
+                        }
+
+
+#SlideWhistle					{position: absolute;
+                          top: 15%;
+                          left: 77%;
+                          height: 70%;
+                          width: 15%;
+                          text-align: center;
+                          background: red;}
+#SlideWhistleNode      {position: relative;
+                          bottom: 0;
+                          width:20%;
+                          margin-left: auto;
+                          }
+
+#robot                    { height: 10%;}
+
+#turkerCode          {font-size: 28px;}
+
+/* Old interface stuff */
+
+
+#chat-wrap                      { border: 1px solid #eee; margin: 0 0 15px 0; }
+#chat-area                      { height: 300px; overflow: auto; border: 1px solid #666; padding: 20px; background: white; }
+#chat-area span                 { color: white; background: #333; padding: 4px 8px; -moz-border-radius: 5px; -webkit-border-radius: 8px; margin: 0 5px 0 0; }
+#chat-area p                    { padding: 8px 0; border-bottom: 1px solid #ccc; }
+
+#name-area                      { position: absolute; top: 12px; right: 0; color: white; font: bold 12px "Lucida Grande", Sans-Serif; text-align: right; }
+#name-area span                 { color: #fa9f00; }
+
+#send-message-area p            { float: left; color: white; padding-top: 27px; font-size: 14px; }
+#sendie                         {position: relative; border: 3px solid #999; font: 20px "Lucida Grande", Sans-Serif; text-align:center; width: 100%; height:100%;}
+
+#leftStim						{position: absolute; left: 290px; top: 415px; width: 318px; height: 274px; }
+#leftStimImage					{src: ""; max-width:100%; max-height:100%;}
+#middleStim						{position: absolute; left: 0px; top: 0px; width: 0px; height: 0px; font: 50px "Lucida Grande", Sans-Serif; text-align:center; z-index: -1;}
+
+#middleStimTextExper			{position: absolute; left: 464px; top: 0px; width: 430px; height: 200px; font: 50px "Lucida Grande", Sans-Serif; text-align:center; z-index: 10;}
+
+#leftStimTest					{position: absolute; left: 290px; top: 422px; width: 318px; height: 274px;}
+#leftStimTestImage				{src: ""; max-width:100%; max-height:100%;}
+#typedInput						{position: absolute; left: 567px; top: 456px; width:211px; height:80px; font: 20px "Lucida Grande", Sans-Serif; text-align:center;}
+
+
+#middleStimTest					{position: absolute; left: 567px; top: 456px; width:211px; height:80px; font: 20px "Lucida Grande", Sans-Serif; text-align:center; vertical-align: middle;}
+
+#feedbakPanel					{position: absolute; left: 250px; top: 0px; width:100px; height:100px;}
+#feedbakPanelImage				{src: ""; max-width:100%; max-height:100%;}
+
+
+
+
+#rightStimTest					{position: absolute; left: 405px; top: 118px; width:182px; height: 132px;}
+#rightStimTestImage				{src: ""; max-width:100%; max-height:100%;}
+
+#backgroundImage				{position: absolute; left:0px; top:0px; width: 1280px; height: 800px; z-index:-2}
+
+#background						{position: absolute; left:0px; top:0px; width: 1480px; height: 800px; z-index:-2}
+
+#ScorePanel						{position: absolute; left:0px; top:0px; width:132px; height:55px; color: #FFFFFF; font: 28px "Lucida Grande", Sans-Serif; }
+
+#InfoPanel						{position: absolute; left:700px; top:300px; width:338px ;height:105px; color: #FFFFFF; font: 28px "Lucida Grande", Sans-Serif; text-align:center; z-index: -1;}
+
+#PlayPartnerSignal				{position: absolute; top: 137px; left: 405px; width: 124px; height: 125px;}
+
+#playPartnerSignalButton		{position: relative; width:95%;  border: 0;}
+
+#sendButtonDiv					{position: absolute; top: 107px; left: 712px; width: 166px; height:116px;}
+
+#sendButton						{position: relative; width:100%;  border: 0;}
+
+/**#retryButton					{position: absolute; top: 107px; left: 940px; width: 116px; height: 113px;}
+#retryButtonImage				{max-width:100%; max-height:100%;}**/
+
+#NextInst						{background:url('../images/backgrounds/Button_Next.png') no-repeat 0 0; position: absolute; left: 550px; top: 660px; width: 260px; height:127px; font-size: 28px; padding-top:45px; -moz-box-sizing: border-box;}
+#PrevInst						{background-color: green; position: absolute; left: 750px; top: 95px; width: 200px; height:75px; font-size: 28px;}
+
+
+
+#SynchButton					{background-color: orange; position: absolute; top: 40%; left: 30%; width: 40%; height: 30%; z-index:2}
+
+#timerCanvasDiv					{position: absolute; top: 10px; left: 850px; width:125px; height: 125px; z-index:-1}
+
+#AcceptAndProceedDiv			{position: absolute; top: 300px; left: 650px; height:200px; width:500px; z-index:-1}
+#askExperimentorButton			{font-size:30px;}
+#AgreeButton					{font-size:30px;}

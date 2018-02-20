@@ -1,0 +1,251 @@
+
+The 'dental' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+!XU (141) 	g|, g|h, g|x, g|x?, hn|?, hn|h, hn|x?, n|, n|h, |, |h, |x 	8.51%	
+ACOMA (51) 	dD, dDz, nD, nD*, rDT, rDT*, sD, sD', tD', tDh, tDs', tDsh 	23.53%	
+ALABAMA (17) 	tD 	5.88%	
+ALBANIAN (35) 	0D, 6D, dD, sD, tD, zD 	17.14%	
+ALEUT (27) 	6D 	3.70%	
+AMAHUACA (22) 	0D 	4.55%	
+ANDOKE (26) 	dD, rD, tD 	11.54%	
+ARABIC (35) 	dD, dD9, lD, nD, sD, sD9, tD, tD9, zD, zD9 	28.57%	
+ARAUCANIAN (26) 	0D, lD, nD, tD 	15.38%	
+ARMENIAN (36) 	lD, nD, sD, tD, tD', tDh, tDs, tDs', tDsh, zD 	27.78%	
+ARRERNTE (30) 	dDn, lD, nD, tD 	13.33%	
+AZERBAIJANI (33) 	dD, nD, tD 	9.09%	
+BAI (29) 	lD, nD, tD, tDh, zD 	17.24%	
+BASHKIR (38) 	0D 	2.63%	
+BATS (45) 	dD, dDz, sD, tD', tDh, tDs', tDsh, zD 	17.78%	
+BEJA (26) 	dD, nD, sD, tD 	15.38%	
+BELLA COOLA (31) 	nD, tD, tD' 	9.68%	
+BENGALI (43) 	dD, dDh, sD, tD, tDh 	11.63%	
+BERTA (29) 	0D 	3.45%	
+BRAHUI (33) 	dD, nD, tD 	9.09%	
+BRETON (45) 	dD, nD, tD 	6.67%	
+BULGARIAN (42) 	dD, dDJ, lD-, lDJ, sD, sDJ, tD, tDJ, tDs, tDsJ, zD, zDJ 	28.57%	
+BURMESE (46) 	0D, 6D 	4.35%	
+CAYUVAVA (33) 	dD 	3.03%	
+CHIPEWYAN (52) 	0D, 6D, tD0, tD0', tD0h 	9.62%	
+CUBEO (23) 	6D 	4.35%	
+DAFLA (24) 	lD 	4.17%	
+DAHALO (59) 	6D, dD, ndD, n|, tD, tD', | 	11.86%	
+DIEGUENO (34) 	lD, lDF, nD, sD, tD 	14.71%	
+DINKA (32) 	dD, nD, tD 	9.38%	
+DIYARI (25) 	lD, nD, tD 	12.00%	
+EWE (40) 	dD, dDz, tDh, tDs 	10.00%	
+FARSI (30) 	dD, nD, tDh 	10.00%	
+FIJIAN (30) 	6D, nD, ndD, tD 	13.33%	
+FINNISH (25) 	dD, lD, nD, tD 	16.00%	
+FRENCH (37) 	dD, lD, nD, sD, tD, zD 	16.22%	
+GA (41) 	tDh 	2.44%	
+GEORGIAN (34) 	tD, tD', tDh 	8.82%	
+GREEK (26) 	0D, 6D, dD, lD, nD, tD 	23.08%	
+GUAHIBO (29) 	tDh 	3.45%	
+GUARANI (36) 	6D, lD, nD, sD, tD 	13.89%	
+HADZA (62) 	dD, hn|?, nD, ndD, ntDh, n|, tD, tDh, |, |h 	16.13%	
+HINDI-URDU (61) 	dD, dDh, nD, nDh, tD, tDh 	9.84%	
+HMONG (56) 	hnD, nD, ntD, ntDh, ntDs, ntDsh, sD, tD, tDh, tDs, tDsh 	19.64%	
+HUASTECO (26) 	0D 	3.85%	
+HUNGARIAN (40) 	dD, dDz, lD, nD, rD, sD, tD, tDs, zD 	22.50%	
+IAI (52) 	0D, 6D 	3.85%	
+IK (44) 	dD, dD<, nD, tD 	9.09%	
+INUIT (22) 	hlDF:, lD, nD, tD 	18.18%	
+IRARUTU (19) 	nD, ndD, sD, tD 	21.05%	
+IRISH (69) 	dD, lD-, nD, tDh 	5.80%	
+ISOKO (37) 	dD, nD, tD 	8.11%	
+IVATAN (23) 	tD 	4.35%	
+JAPANESE (20) 	dD, nD, sD, tD, zD 	25.00%	
+JAVANESE (29) 	sD, tD, tDhh 	10.34%	
+JEBERO (23) 	nD, tD 	8.70%	
+JOMANG (21) 	dD 	4.76%	
+KABARDIAN (56) 	dD, dDz, hlDFJ, hlDFJ', lDFJ, nD, sD, tD', tDh, tDs, tDs', zD 	21.43%	
+KADUGLI (27) 	dD, dD<, tD 	11.11%	
+KALA LAGAW YA (24) 	dD, tD 	8.33%	
+KALKATUNGU (23) 	lD, nD, tD 	13.04%	
+KAREN (36) 	0D 	2.78%	
+KAROK (27) 	sD 	3.70%	
+KASHMIRI (55) 	dD, tD, tDh 	5.45%	
+KHARIA (36) 	dD, dDh, tD, tDh 	11.11%	
+KIOWA (42) 	dD, dlD, nD, tD, tD', tDh 	14.29%	
+KIRGHIZ (30) 	dD, tD 	6.67%	
+KOIARI (16) 	6D 	6.25%	
+KONKANI (37) 	dD, tD 	5.41%	
+KOREAN (32) 	nD, sD, sD*, tD, tD*, tDh 	18.75%	
+KOTA (28) 	dD, tDh 	7.14%	
+KOTOKO (36) 	tD0' 	2.78%	
+KOYA (24) 	dD, sD, tD 	12.50%	
+KUNAMA (26) 	dD, tD 	7.69%	
+KUNIMAIPA (20) 	dD 	5.00%	
+KURDISH (47) 	dD, nD, sD, tD, zD 	10.64%	
+LAKKIA (55) 	0D 	1.82%	
+LUGBARA (36) 	dD, dD*, tD 	8.33%	
+LUISENO (26) 	lD, nD, tD 	11.54%	
+LUO (32) 	dD6, tD0 	6.25%	
+MALAGASY (25) 	dD, dDz, tD, tDs 	16.00%	
+MANCHU (25) 	dD, lD, nD, sD, tD 	20.00%	
+MARI (33) 	6D 	3.03%	
+MAZATEC (33) 	6D 	3.03%	
+MIEN (41) 	dD, hnD, nD, tD, tDh 	12.20%	
+MIXE (23) 	dD, sD, tD 	13.04%	
+MIXTEC (25) 	6D 	4.00%	
+MORO (29) 	6D, dD, tD 	10.34%	
+MUNDARI (37) 	dD, dDh, lD, nD, tD, tDh 	16.22%	
+MURINHPATHA (25) 	dD, nD, tD 	12.00%	
+MURSI (26) 	0D 	3.85%	
+NAHUATL (20) 	nD, tD 	10.00%	
+NAMA (41) 	hn|?, hn|h, nD, n|, tD, tDsh, |, |xh 	19.51%	
+NAXI (49) 	dDz, ndDz, sD, tDs, tDsh, zD 	12.24%	
+NENETS (35) 	6D, 6DJ 	5.71%	
+NEO-ARAMAIC (40) 	dD, nD, tD 	7.50%	
+NEPALI (39) 	dD, dDh, nD, tD, tDh 	12.82%	
+NEZ PERCE (30) 	nD, nD*, tD, tD' 	13.33%	
+NGANASAN (29) 	6D 	3.45%	
+NGIYAMBAA (18) 	nD, tD 	11.11%	
+NICOBARESE (25) 	sD 	4.00%	
+NIMBORAN (18) 	dD, nD, rrD, sD, tD 	27.78%	
+NORWEGIAN (46) 	dD, nD, tDh 	6.52%	
+NUBIAN (21) 	dD, nD, tD 	14.29%	
+NUNGGUBUYU (23) 	lD, nD, tD 	13.04%	
+NYANGI (25) 	sD 	4.00%	
+NYIMANG (25) 	dD, tD 	8.00%	
+PAPAGO (24) 	dD, nD, sD, tD 	16.67%	
+PASHTO (38) 	dD, dDz, nD, tD, tDs 	13.16%	
+PHLONG (37) 	sD 	2.70%	
+POHNPEIAN (20) 	lD, nD, tD 	15.00%	
+POMO (32) 	tD, tD' 	6.25%	
+QUECHUA (36) 	6D 	2.78%	
+ROMANIAN (32) 	dD, lD, nD, rD, sD, tD, tDs, zD 	25.00%	
+RORO (14) 	nD, rD[, tD 	21.43%	
+RUKAI (27) 	0D, 6D, dD, tD 	14.81%	
+RUSSIAN (38) 	dD, dDJ, lD-, lDJ, nD, nDJ, rD, rDJ, sD, sDJ, tD, tDJ, zD, zDJ 	36.84%	
+SANDAWE (54) 	g|, n|, |, |?, |h 	9.26%	
+SELEPET (21) 	nD, ndD, tDh 	14.29%	
+SIERRA MIWOK (21) 	sD, tD 	9.52%	
+SINHALESE (36) 	dD, tD 	5.56%	
+SIONA (30) 	tD 	3.33%	
+SOMALI (32) 	dD, tDh 	6.25%	
+SPANISH (25) 	0D, 6D, lD, nD, sD, tD 	24.00%	
+TABI (33) 	0D, 6D, dD, tD 	12.12%	
+TACANA (22) 	6D 	4.55%	
+TAGALOG (23) 	dD, nD, tD 	13.04%	
+TAMA (30) 	dD, tD 	6.67%	
+TAMANG (29) 	lD, nD, rD, sD, tD, tDh, tDs, tDsh 	27.59%	
+TAMASHEQ (37) 	dD, dD9, lD, nD, rD, sD, tD, tD9, zD, zD9 	27.03%	
+TEHUELCHE (35) 	dD, hlD, lD, nD, rD, sD, tD, tD', tDs, tDs' 	28.57%	
+TELUGU (43) 	dD, tD 	4.65%	
+TEMEIN (25) 	dD, nD, tD 	12.00%	
+TEMNE (25) 	tD 	4.00%	
+THAI (30) 	dD, nD, sD, tD, tDh, tDs, tDsh 	23.33%	
+TIGRE (33) 	dD, nD, tD, tD' 	12.12%	
+TIWI (26) 	nD, ntD, tD 	11.54%	
+TLAPANEC (30) 	dD, nD, tD 	10.00%	
+TONKAWA (25) 	lD, nD 	8.00%	
+TRUMAI (24) 	lD, nD, rD, tD 	16.67%	
+TSESHAHT (42) 	tD, tD' 	4.76%	
+TULU (37) 	dD, lD, nD, tD 	10.81%	
+TURKISH (33) 	dD, nD, tD 	9.09%	
+TUVA (29) 	dD, dDz, lD, nD, sD, tD, tDs 	24.14%	
+TZELTAL (28) 	dD, lD, nD, sD, tD, tD', tDs, tDs' 	28.57%	
+UZBEK (30) 	dD, nD, tD 	10.00%	
+VIETNAMESE (36) 	lD, nD, tD, tDh 	11.11%	
+WAHGI (23) 	hlDF, nD, ndDz, tDs 	17.39%	
+WAPPO (35) 	dD, tD, tD' 	8.57%	
+WEST MAKIAN (23) 	dD, nD, tD 	13.04%	
+WINTU (35) 	0D 	2.86%	
+WOLOF (40) 	lD, lD: 	5.00%	
+YAKUT (34) 	nD, sD, zD 	8.82%	
+YANA (30) 	dD, nD, sD, tD', tDh 	16.67%	
+YANYUWA (32) 	lD, nD, ntD, tD 	12.50%	
+YAY (34) 	0D 	2.94%	
+YOLNGU (23) 	nD, tD 	8.70%	
+YULU (42) 	dD, dD<, dDz, lD, nD, ndD, nzD, rD, sD, tD, zD 	26.19%	
+
+These 158 languages are 35.03% of all languages in UPSID.
+
+
+The criterion 'dental' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+0D 	voiceless dental fricative 	3.99%
+6D 	voiced dental fricative 	4.88%
+6DJ 	palatalized voiced dental fricative 	0.22%
+dD 	voiced dental plosive 	17.74%
+dD* 	laryngealized voiced dental plosive 	0.22%
+dD6 	voiced dental affricate 	0.22%
+dD9 	pharyngealized voiced dental plosive 	0.44%
+dD< 	voiced dental implosive 	0.67%
+dDJ 	palatalized voiced dental plosive 	0.44%
+dDh 	breathy voiced dental plosive 	1.11%
+dDn 	nasally-released voiced dental plosive 	0.22%
+dDz 	voiced dental sibilant affricate 	2.22%
+dlD 	voiced prestopped dental lateral approximant 	0.22%
+g| 	voiced dental affricated click 	0.44%
+g|h 	breathy voiced dental affricated click 	0.22%
+g|x 	velar-fricated voiced dental affricated click 	0.22%
+g|x? 	glottalized velar-fricated voiced dental affricated click 	0.22%
+hlD 	voiceless dental lateral approximant 	0.22%
+hlDF 	voiceless dental lateral fricative 	0.22%
+hlDF: 	long voiceless dental lateral fricative 	0.22%
+hlDFJ 	palatalized voiceless dental lateral fricative 	0.22%
+hlDFJ' 	palatalized voiceless dental lateral ejective fricative 	0.22%
+hnD 	voiceless dental nasal 	0.44%
+hn|? 	glottalized nasalized voiceless dental affricated click 	0.67%
+hn|h 	nasalized voiceless aspirated dental affricated click 	0.44%
+hn|x? 	glottalized nasalized velar-fricated voiceless dental affricated click 	0.22%
+lD 	voiced dental lateral approximant 	7.54%
+lD- 	velarized voiced dental lateral approximant 	0.67%
+lD: 	long voiced dental lateral approximant 	0.22%
+lDF 	voiced dental lateral fricative 	0.22%
+lDFJ 	palatalized voiced dental lateral fricative 	0.22%
+lDJ 	palatalized voiced dental lateral approximant 	0.44%
+nD 	voiced dental nasal 	18.40%
+nD* 	laryngealized voiced dental nasal 	0.44%
+nDJ 	palatalized voiced dental nasal 	0.22%
+nDh 	breathy voiced dental nasal 	0.22%
+ndD 	prenasalized voiced dental plosive 	1.33%
+ndDz 	prenasalized voiced dental sibilant affricate 	0.44%
+ntD 	prenasalized voiceless dental plosive 	0.67%
+ntDh 	prenasalized voiceless aspirated dental plosive 	0.44%
+ntDs 	prenasalized voiceless dental sibilant affricate 	0.22%
+ntDsh 	prenasalized voiceless aspirated dental sibilant affricate 	0.22%
+nzD 	prenasalized voiced dental sibilant fricative 	0.22%
+n| 	nasalized voiced dental affricated click 	1.11%
+n|h 	nasalized breathy voiced dental affricated click 	0.22%
+rD 	voiced dental trill 	2.00%
+rDJ 	palatalized voiced dental trill 	0.22%
+rDT 	voiced dental tap 	0.22%
+rDT* 	laryngealized voiced dental tap 	0.22%
+rD[ 	voiced dental flap 	0.22%
+rrD 	voiced dental r-sound 	0.22%
+sD 	voiceless dental sibilant fricative 	9.31%
+sD' 	voiceless dental sibilant ejective fricative 	0.22%
+sD* 	laryngealized voiceless dental sibilant fricative 	0.22%
+sD9 	pharyngealized voiceless dental sibilant fricative 	0.22%
+sDJ 	palatalized voiceless dental sibilant fricative 	0.44%
+tD 	voiceless dental plosive 	23.50%
+tD' 	voiceless dental ejective stop 	3.55%
+tD* 	laryngealized voiceless dental plosive 	0.22%
+tD0 	voiceless dental affricate 	0.44%
+tD0' 	voiceless dental ejective affricate 	0.44%
+tD0h 	voiceless aspirated dental affricate 	0.22%
+tD9 	pharyngealized voiceless dental plosive 	0.44%
+tDJ 	palatalized voiceless dental plosive 	0.44%
+tDh 	voiceless aspirated dental plosive 	6.65%
+tDhh 	voiceless dental plosive with breathy release 	0.22%
+tDs 	voiceless dental sibilant affricate 	3.55%
+tDs' 	voiceless dental sibilant ejective affricate 	1.33%
+tDsJ 	palatalized voiceless dental sibilant affricate 	0.22%
+tDsh 	voiceless aspirated dental sibilant affricate 	1.77%
+zD 	voiced dental sibilant fricative 	3.77%
+zD9 	pharyngealized voiced dental sibilant fricative 	0.44%
+zDJ 	palatalized voiced dental sibilant fricative 	0.44%
+| 	voiceless dental affricated click 	1.11%
+|? 	glottalized voiceless dental affricated click 	0.22%
+|h 	voiceless aspirated dental affricated click 	0.67%
+|x 	velar-fricated voiceless dental affricated click 	0.22%
+|xh 	velarized voiceless aspirated dental affricated click 	0.22%
+
+These 78 sounds make 8.49% of all 919 sounds in UPSID
+

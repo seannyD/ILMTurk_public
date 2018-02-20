@@ -1,0 +1,64 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <title>ILM</title>
+
+    <link id="mystyle" rel="stylesheet" href="css/style_tablet.css" type="text/css" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+      <script type="text/javascript" src="js/tools.js"></script>
+	<script type="text/javascript" src="js/log/getClientDetails.js"></script>
+	<script type="text/javascript" src="js/parameters/parameters.js"></script>
+	<script type="text/javascript" src="js/server/talkToServer.js"></script>
+	<script type="text/javascript" src="js/server/handleData.js"></script>
+
+
+</head>
+
+<body onload="loadExperiment()">
+
+<div id="SlideWhistle"><img id="SlideWhistleNode" src="images/backgrounds/SlideWhistleNode.png"></div>
+
+<div id="StartButton" onClick="startExperiment()">
+  <img id="StartButtonImage" src="images/backgrounds/Button_Next.png">
+</div>
+<div id="NextButton" onClick="clickedNextButton()">
+  <img id="NextButtonImage" src="images/backgrounds/Button_Next.png">
+</div>
+
+<div id="RetryButton" onClick="pressRetryButton()">Retry</div>
+
+<div id="ListenAgain" onClick="listenAgain()">Listen Again</div>
+
+<div id="BigInstructions"></div>
+
+<div id="imageStimulus"><img id="imageStimulusIMG"></div>
+<div id="TextStimulus"></div>
+
+    <div id="guessPanel">
+    </div>
+
+<div id="instructions"></div>
+
+<audio id="exampleAudio" style="display:none" preload="auto">
+ <source src="audio/FluteSlider_example.ogg" type="audio/mp3">
+</audio>
+
+
+</body>
+
+	<script type="text/javascript" src="js/flute/Theremin.js"></script>
+	<script type="text/javascript" src="js/flute/soundSlider11_theremin.js"></script>
+
+  <script type="text/javascript" src="js/interface/messages.js"></script>
+	<script type="text/javascript" src="js/interface/interface.js"></script>
+	<script type="text/javascript" src="js/interface/interfaceHelper.js"></script>
+	<script type="text/javascript" src="js/interface/reproductionPhase.js"></script>
+	<script type="text/javascript" src="js/interface/learningPhase.js"></script>
+  <script type="text/javascript" src="js/interface/ParticipantQuestions.js"></script>
+	<script type="text/javascript" src="js/instructions/instructions.js"></script>
+
+
+</html>

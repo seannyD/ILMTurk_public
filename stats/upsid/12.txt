@@ -1,0 +1,366 @@
+
+The 'labial-velar' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+!XU (141) 	w 	0.71%	
+ABIPON (20) 	w 	5.00%	
+ACHUMAWI (23) 	w 	4.35%	
+ACOMA (51) 	w, w* 	3.92%	
+AGHEM (35) 	Nm, gb, kp, w 	11.43%	
+AHTNA (35) 	hw 	2.86%	
+AINU (16) 	w 	6.25%	
+AIZI (33) 	gb, kp, w 	9.09%	
+AKAWAIO (23) 	w 	4.35%	
+ALABAMA (17) 	w 	5.88%	
+ALAMBLAK (25) 	w 	4.00%	
+ALAWA (26) 	w 	3.85%	
+ALEUT (27) 	hw, w 	7.41%	
+ALLADIAN (36) 	gb, kp, w 	8.33%	
+AMAHUACA (22) 	w 	4.55%	
+AMELE (20) 	gb, w 	10.00%	
+AMHARIC (37) 	w 	2.70%	
+AMO (35) 	gb, kp, w 	8.57%	
+AMUESHA (26) 	w 	3.85%	
+AMUZGO (37) 	w 	2.70%	
+ANDAMANESE (24) 	w 	4.17%	
+ANGAATIHA (21) 	w 	4.76%	
+ANGAS (43) 	w 	2.33%	
+AO (20) 	w 	5.00%	
+ARABELA (18) 	w 	5.56%	
+ARABIC (35) 	w 	2.86%	
+ARAUCANIAN (26) 	w 	3.85%	
+ARCHI (91) 	w 	1.10%	
+ARRERNTE (30) 	w 	3.33%	
+ASHUSLAY (28) 	w 	3.57%	
+ASMAT (17) 	w 	5.88%	
+ATAYAL (26) 	w 	3.85%	
+AUCA (21) 	w 	4.76%	
+AVAR (49) 	w 	2.04%	
+AWIYA (35) 	w 	2.86%	
+AZANDE (35) 	gb, kp, w 	8.57%	
+BAINING (22) 	w 	4.55%	
+BAKAIRI (29) 	w 	3.45%	
+BAMBARA (35) 	w 	2.86%	
+BANDJALANG (16) 	w 	6.25%	
+BARASANO (23) 	w 	4.35%	
+BARDI (24) 	w 	4.17%	
+BARIBA (30) 	gb, kp, w 	10.00%	
+BASHKIR (38) 	w 	2.63%	
+BATAK (21) 	w 	4.76%	
+BEJA (26) 	w 	3.85%	
+BELLA COOLA (31) 	w 	3.23%	
+BERTA (29) 	w 	3.45%	
+BETE (37) 	gb, kp, w 	8.11%	
+BIROM (29) 	gb, kp, w 	10.34%	
+BISA (24) 	w 	4.17%	
+BOBO-FING (33) 	gb, kp, w 	9.09%	
+BORORO (20) 	w 	5.00%	
+BRETON (45) 	w 	2.22%	
+BRIBRI (27) 	w 	3.70%	
+BRUU (42) 	w 	2.38%	
+BURARRA (21) 	w 	4.76%	
+BURMESE (46) 	hw, w 	4.35%	
+BURUSHASKI (43) 	w 	2.33%	
+CACUA (22) 	hw, w 	9.09%	
+CADDO (23) 	w 	4.35%	
+CAMSA (28) 	w 	3.57%	
+CARIB (22) 	w 	4.55%	
+CAYAPA (28) 	w 	3.57%	
+CAYUVAVA (33) 	w 	3.03%	
+CHAM (32) 	w 	3.12%	
+CHAMORRO (26) 	w 	3.85%	
+CHANGZHOU (34) 	w 	2.94%	
+CHATINO (25) 	w 	4.00%	
+CHEROKEE (17) 	w 	5.88%	
+CHUAVE (17) 	w 	5.88%	
+CHUKCHI (22) 	w 	4.55%	
+CHUVASH (30) 	w 	3.33%	
+COFAN (35) 	w 	2.86%	
+CUNA (21) 	w 	4.76%	
+DADIBI (23) 	w 	4.35%	
+DAGBANI (29) 	Nm, gb, kp, w 	13.79%	
+DAGUR (29) 	w 	3.45%	
+DAHALO (59) 	w 	1.69%	
+DAJU (30) 	w 	3.33%	
+DAKOTA (36) 	w 	2.78%	
+DAN (39) 	gb, kp, w 	7.69%	
+DANGALEAT (28) 	w 	3.57%	
+DANI (24) 	w 	4.17%	
+DERA (17) 	w 	5.88%	
+DIEGUENO (34) 	w 	2.94%	
+DINKA (32) 	w 	3.12%	
+DIOLA (29) 	w 	3.45%	
+DIYARI (25) 	w 	4.00%	
+DIZI (30) 	w 	3.33%	
+DOAYO (34) 	gb, kp, w 	8.82%	
+DOGON (28) 	w 	3.57%	
+DYIRBAL (16) 	w 	6.25%	
+EFIK (20) 	kp, w 	10.00%	
+EJAGHAM (27) 	gb, kp, w 	11.11%	
+EKARI (15) 	w 	6.67%	
+EWE (40) 	gb, kp 	5.00%	
+EWONDO (34) 	Nmgb, gb, kp, w 	11.76%	
+EYAK (45) 	w 	2.22%	
+FARSI (30) 	w 	3.33%	
+FASU (21) 	w 	4.76%	
+FE?FE? (25) 	w 	4.00%	
+FRENCH (37) 	w 	2.70%	
+FUR (30) 	w 	3.33%	
+GA (41) 	Nm, gb, kp, w 	9.76%	
+GARAWA (22) 	w 	4.55%	
+GBEYA (43) 	Nm, Nmgb, gb, kp, w 	11.63%	
+GELAO (43) 	w 	2.33%	
+GUAJIRO (26) 	w 	3.85%	
+GUGU-YALANDYI (16) 	w 	6.25%	
+GWARI (26) 	gb, kp, w 	11.54%	
+HADZA (62) 	w 	1.61%	
+HAIDA (49) 	w, w* 	4.08%	
+HAKKA (22) 	w 	4.55%	
+HAMER (35) 	w 	2.86%	
+HAUSA (38) 	w 	2.63%	
+HAWAIIAN (13) 	w 	7.69%	
+HIGHLAND CHINANTEC (41) 	w 	2.44%	
+HIXKARYANA (23) 	w 	4.35%	
+HMONG (56) 	w 	1.79%	
+HOPI (28) 	hw, w 	7.14%	
+HUAVE (29) 	w 	3.45%	
+HUNGARIAN (40) 	w 	2.50%	
+HUPA (35) 	w 	2.86%	
+IAI (52) 	Nm, gb, hNm, hw, w 	9.62%	
+IBAN (25) 	w 	4.00%	
+IGBO (59) 	Nm, w 	3.39%	
+IK (44) 	w 	2.27%	
+IRANXE (39) 	hw, w 	5.13%	
+IRAQW (45) 	w 	2.22%	
+IRARUTU (19) 	w 	5.26%	
+IRISH (69) 	w 	1.45%	
+ISLAND CARIB (27) 	w 	3.70%	
+ISOKO (37) 	gb 	2.70%	
+ITONAMA (25) 	w 	4.00%	
+IVATAN (23) 	w 	4.35%	
+IWAM (17) 	w 	5.88%	
+JACALTEC (32) 	w 	3.12%	
+JAPANESE (20) 	w 	5.00%	
+JAQARU (39) 	w 	2.56%	
+JAVANESE (29) 	w 	3.45%	
+JEBERO (23) 	w 	4.35%	
+JINGPHO (30) 	w 	3.33%	
+JIVARO (23) 	w 	4.35%	
+JOMANG (21) 	w 	4.76%	
+K'EKCHI (26) 	w 	3.85%	
+KABARDIAN (56) 	w 	1.79%	
+KADUGLI (27) 	w 	3.70%	
+KAINGANG (27) 	w 	3.70%	
+KALA LAGAW YA (24) 	w 	4.17%	
+KALIAI (21) 	hw 	4.76%	
+KALKATUNGU (23) 	w 	4.35%	
+KAM (27) 	w 	3.70%	
+KANAKURU (35) 	w 	2.86%	
+KANURI (29) 	w 	3.45%	
+KAREN (36) 	w 	2.78%	
+KASHMIRI (55) 	w 	1.82%	
+KAWAIISU (31) 	w 	3.23%	
+KEFA (27) 	w 	3.70%	
+KERA (30) 	w 	3.33%	
+KEWA (20) 	w 	5.00%	
+KHANTY (32) 	w 	3.12%	
+KHARIA (36) 	w 	2.78%	
+KHASI (29) 	w 	3.45%	
+KHMU? (41) 	w, w* 	4.88%	
+KLAMATH (37) 	hw, w, w* 	8.11%	
+KLAO (27) 	gb, kp, w 	11.11%	
+KOHUMONO (38) 	gb, kph, w 	7.89%	
+KOLOKUMA IJO (37) 	gbW, kpW, w 	8.11%	
+KOMA (31) 	w 	3.23%	
+KONKANI (37) 	w 	2.70%	
+KONYAGI (46) 	w, w~ 	4.35%	
+KOREAN (32) 	w 	3.12%	
+KOTOKO (36) 	gb, kp, w 	8.33%	
+KPAN (34) 	gb, kp, w 	8.82%	
+KPELLE (34) 	gb, kp 	5.88%	
+KULLO (29) 	w 	3.45%	
+KUNAMA (26) 	w 	3.85%	
+KURDISH (47) 	w 	2.13%	
+KURUKH (32) 	w 	3.12%	
+KWAIO (21) 	w 	4.76%	
+KWAKW'ALA (48) 	w, w* 	4.17%	
+KWOMA (31) 	w 	3.23%	
+LAHU (35) 	w 	2.86%	
+LAI (52) 	hw, w* 	3.85%	
+LAK (69) 	w 	1.45%	
+LAKKIA (55) 	hw, w 	3.64%	
+LAME (38) 	w 	2.63%	
+LELEMI (34) 	gb, kp, w 	8.82%	
+LENAKEL (21) 	w 	4.76%	
+LUA (36) 	w 	2.78%	
+LUGBARA (36) 	gb, kp, w, w* 	11.11%	
+LUISENO (26) 	w 	3.85%	
+LUNGCHOW (32) 	w 	3.12%	
+LUO (32) 	w 	3.12%	
+LUSHOOTSEED (37) 	w 	2.70%	
+MAASAI (28) 	w 	3.57%	
+MABA (29) 	w 	3.45%	
+MAIDU (23) 	w 	4.35%	
+MALAGASY (25) 	w 	4.00%	
+MALAKMALAK (19) 	w 	5.26%	
+MAMBILA (25) 	w 	4.00%	
+MANDARIN (32) 	w 	3.12%	
+MARGI (34) 	w 	2.94%	
+MAZAHUA (60) 	hw, w, w* 	5.00%	
+MBA-NE (31) 	Nmgb, gb, kp, w 	12.90%	
+MBABARAM (24) 	w 	4.17%	
+MBUM (38) 	Nmgb, gb, kp, w 	10.53%	
+MIEN (41) 	hw, w 	4.88%	
+MOGHOL (29) 	w 	3.45%	
+MOR (19) 	w 	5.26%	
+MORO (29) 	w 	3.45%	
+MOVIMA (23) 	w 	4.35%	
+MOXO (25) 	w 	4.00%	
+MUMUYE (34) 	gb, kp, w 	8.82%	
+MUNDARI (37) 	w 	2.70%	
+MURINHPATHA (25) 	w 	4.00%	
+MURSI (26) 	w 	3.85%	
+NAMBAKAENGO (47) 	w 	2.13%	
+NAVAJO (47) 	w 	2.13%	
+NDUT (34) 	w 	2.94%	
+NERA (22) 	w 	4.55%	
+NEZ PERCE (30) 	w, w* 	6.67%	
+NGARINJIN (24) 	w 	4.17%	
+NGIYAMBAA (18) 	w 	5.56%	
+NGIZIM (40) 	w 	2.50%	
+NICOBARESE (25) 	w 	4.00%	
+NIVKH (35) 	w 	2.86%	
+NONI (33) 	w 	3.03%	
+NUNGGUBUYU (23) 	w 	4.35%	
+NYAH KUR (50) 	hw, w 	4.00%	
+NYANGI (25) 	w 	4.00%	
+NYIMANG (25) 	w 	4.00%	
+OGBIA (34) 	gb, kp, w 	8.82%	
+PAEZ (37) 	w 	2.70%	
+PANARE (25) 	w 	4.00%	
+PAPAGO (24) 	w 	4.17%	
+PASHTO (38) 	w 	2.63%	
+PAYA (28) 	w, w~ 	7.14%	
+PICURIS (38) 	w 	2.63%	
+POHNPEIAN (20) 	w 	5.00%	
+POMO (32) 	w 	3.12%	
+QAWASQAR (19) 	w 	5.26%	
+QUECHUA (36) 	w 	2.78%	
+QUILEUTE (37) 	w 	2.70%	
+RESIGARO (35) 	w 	2.86%	
+ROMANIAN (32) 	w 	3.12%	
+RUKAI (27) 	w 	3.70%	
+SA'BAN (26) 	w 	3.85%	
+SAMA (32) 	w 	3.12%	
+SANDAWE (54) 	w 	1.85%	
+SANGO (37) 	Nmgb, gb, kp, w 	10.81%	
+SEBEI (26) 	w 	3.85%	
+SEDANG (55) 	hw, w, w* 	5.45%	
+SELEPET (21) 	w 	4.76%	
+SELKUP (34) 	w 	2.94%	
+SENADI (36) 	gb, kp, w 	8.33%	
+SENECA (19) 	w 	5.26%	
+SENTANI (17) 	w 	5.88%	
+SHASTA (21) 	w 	4.76%	
+SHILHA (31) 	w 	3.23%	
+SHIRIANA (25) 	w 	4.00%	
+SHUSWAP (44) 	w, w* 	4.55%	
+SIERRA MIWOK (21) 	w 	4.76%	
+SIONA (30) 	w 	3.33%	
+SIRIONO (28) 	w 	3.57%	
+SOCOTRI (34) 	w 	2.94%	
+SOMALI (32) 	w 	3.12%	
+SONGHAI (24) 	w 	4.17%	
+SOUTHERN KIWAI (19) 	w 	5.26%	
+SOUTHERN NAMBIQUARA (43) 	w 	2.33%	
+SPANISH (25) 	w 	4.00%	
+SRE (37) 	w 	2.70%	
+SUENA (18) 	w 	5.56%	
+SUI (54) 	w, w* 	3.70%	
+TABI (33) 	w 	3.03%	
+TACANA (22) 	w 	4.55%	
+TAGALOG (23) 	w 	4.35%	
+TAISHAN (25) 	w 	4.00%	
+TAMA (30) 	w 	3.33%	
+TAMANG (29) 	w 	3.45%	
+TAMASHEQ (37) 	w 	2.70%	
+TAMPULMA (33) 	Nm, gb, kp, w 	12.12%	
+TARASCAN (39) 	w 	2.56%	
+TAROK (32) 	gb, kp, w 	9.38%	
+TEHUELCHE (35) 	w 	2.86%	
+TEKE (28) 	w 	3.57%	
+TEMEIN (25) 	w 	4.00%	
+TEMNE (25) 	gb, w 	8.00%	
+TERA (48) 	w 	2.08%	
+TETUN (19) 	w 	5.26%	
+THAI (30) 	w 	3.33%	
+TICUNA (29) 	w 	3.45%	
+TIDDIM CHIN (26) 	w* 	3.85%	
+TIGRE (33) 	w 	3.03%	
+TIRURAY (22) 	w 	4.55%	
+TIWI (26) 	w 	3.85%	
+TLAPANEC (30) 	w 	3.33%	
+TLINGIT (48) 	w 	2.08%	
+TOL (28) 	w 	3.57%	
+TONKAWA (25) 	w 	4.00%	
+TOTONAC (22) 	w 	4.55%	
+TRUMAI (24) 	w 	4.17%	
+TSESHAHT (42) 	w, w* 	4.76%	
+TSIMSHIAN (41) 	w, w* 	4.88%	
+TUNICA (24) 	w 	4.17%	
+TZELTAL (28) 	w 	3.57%	
+UPPER CHEHALIS (34) 	w 	2.94%	
+USAN (20) 	w 	5.00%	
+VIETNAMESE (36) 	w 	2.78%	
+WAHGI (23) 	w 	4.35%	
+WAPISHANA (25) 	w 	4.00%	
+WARAY (21) 	w 	4.76%	
+WARIS (22) 	w 	4.55%	
+WESTERN DESERT (20) 	w 	5.00%	
+WICHITA (29) 	w, w* 	6.90%	
+WIK-MUNKAN (18) 	w 	5.56%	
+WINTU (35) 	w 	2.86%	
+WIYOT (29) 	w 	3.45%	
+WOLOF (40) 	w 	2.50%	
+YAGUA (23) 	w 	4.35%	
+YANA (30) 	w 	3.33%	
+YANYUWA (32) 	w 	3.12%	
+YAQUI (22) 	w 	4.55%	
+YAREBA (18) 	w 	5.56%	
+YAWA (19) 	w 	5.26%	
+YAY (34) 	w 	2.94%	
+YESSAN-MAYO (20) 	w 	5.00%	
+YIDINY (16) 	w 	6.25%	
+YOLNGU (23) 	w 	4.35%	
+YORUBA (29) 	gb, kp, w 	10.34%	
+YUCATEC (30) 	w 	3.33%	
+YUCHI (46) 	w, w* 	4.35%	
+YUCUNA (21) 	w 	4.76%	
+YUKAGHIR (26) 	w 	3.85%	
+YULU (42) 	Nmgb, gb, kp, w 	9.52%	
+ZOQUE (22) 	w 	4.55%	
+ZULU (37) 	w 	2.70%	
+ZUNI (25) 	w 	4.00%	
+
+These 339 languages are 75.17% of all languages in UPSID.
+
+
+The criterion 'labial-velar' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+Nm 	voiced labial-velar nasal 	1.55%
+Nmgb 	prenasalized voiced labial-velar plosive 	1.33%
+gb 	voiced labial-velar plosive 	8.65%
+gbW 	labialized voiced labial-velar plosive 	0.22%
+hNm 	voiceless labial-velar nasal 	0.22%
+hw 	voiceless labial-velar approximant 	3.33%
+kp 	voiceless labial-velar plosive 	7.76%
+kpW 	labialized voiceless labial-velar plosive 	0.22%
+kph 	voiceless aspirated labial-velar plosive 	0.22%
+w 	voiced labial-velar approximant 	73.61%
+w* 	laryngealized voiced labial-velar approximant 	3.77%
+w~ 	nasalized voiced labial-velar approximant 	0.44%
+
+These 12 sounds make 1.31% of all 919 sounds in UPSID
+

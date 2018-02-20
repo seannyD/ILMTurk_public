@@ -1,0 +1,17 @@
+
+The 'velar-alveolar' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+ASHUSLAY (28) 	hxlF 	3.57%	
+
+These 1 languages are 0.22% of all languages in UPSID.
+
+
+The criterion 'velar-alveolar' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+hxlF 	voiceless velar-alveolar lateral fricative 	0.22%
+
+These 1 sounds make 0.11% of all 919 sounds in UPSID
+

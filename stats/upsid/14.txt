@@ -1,0 +1,37 @@
+
+The 'pharyngeal' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+ARABIC (35) 	9, H 	5.71%	
+ARCHI (91) 	9, H 	2.20%	
+ATAYAL (26) 	H 	3.85%	
+AVAR (49) 	99, H 	4.08%	
+BATS (45) 	99, H 	4.44%	
+BRAO (31) 	H 	3.23%	
+DAHALO (59) 	9, H 	3.39%	
+EWE (40) 	9, H 	5.00%	
+IRAQW (45) 	99, H 	4.44%	
+KABARDIAN (56) 	9, H 	3.57%	
+KURDISH (47) 	9, H 	4.26%	
+LAK (69) 	H 	1.45%	
+RUTUL (64) 	H 	1.56%	
+SHILHA (31) 	9, H 	6.45%	
+SOCOTRI (34) 	9, H 	5.88%	
+SOMALI (32) 	9, H 	6.25%	
+TAMA (30) 	H 	3.33%	
+TIGRE (33) 	9, H 	6.06%	
+TSESHAHT (42) 	H 	2.38%	
+
+These 19 languages are 4.21% of all languages in UPSID.
+
+
+The criterion 'pharyngeal' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+9 	voiced pharyngeal fricative 	2.22%
+99 	voiced pharyngeal plosive 	0.67%
+H 	voiceless pharyngeal fricative 	4.21%
+
+These 3 sounds make 0.33% of all 919 sounds in UPSID
+

@@ -1,0 +1,99 @@
+We now have:
+
+182 MTurk participants
+57 SONA participants
+33 Njmegen participants (from facebook link, so maybe not reliable)
+
+I wrote some scritps to extract some measures and made some graphs.  You can see everything on github (it's now a private repository, but I've made you collaborators):
+https://github.com/seannyD/ILMTurk
+
+The data has been compiled into csv files here:
+https://github.com/seannyD/ILMTurk/tree/master/stats/Data
+
+Overall summaries of the data can be found here:
+https://github.com/seannyD/ILMTurk/blob/master/stats/graphs/summary/Summary.pdf
+
+Meaning 3
+---------
+
+The thing I'm most interested in is meaning 3 - that's the one that rises, then stays on a steady tone in the middle of the 'steep' section.  Our prediction was that higher curvatures would lead to drifting away from the original position towards one of the plateaus.
+
+This graph visualises the signals (in PHYSICAL space) from the SONA data:
+(line colour = generation, with more yellow/white = later)
+https://github.com/seannyD/ILMTurk/blob/master/stats/graphs/summary/SONA_Meaning3_byCurvature.pdf
+
+As you can see, curvature 0 doesn't vary much, but the steady sections drift away from the 'steep' bit the higher the curvature gets.  Yay! 
+There's something weird going on with curvature = 0.5 - it behaves more like a curvature = 0 in many measures. 
+
+In the SONA data, when excluding curvature 0.5, curvature is a significant predictor of deviation from the initial generation, but there's no effect/interaction of generation.  The second part is a bit annoying - we really wanted to see a gradual drift:
+m3.0: meanSig.diff ~ 1 + (1 | chain2)
+m3.1: meanSig.diff ~ curvature + (1 | chain2)
+m3.2: meanSig.diff ~ curvature + gen + (1 | chain2)
+m3.3: meanSig.diff ~ curvature * gen + (1 | chain2)
+     Df    AIC    BIC  logLik deviance   Chisq Chi Df Pr(>Chisq)  
+m3.0  3 302.43 306.21 -148.22   296.43                            
+m3.1  4 293.84 298.87 -142.92   285.84 10.5928      1   0.001135 **
+m3.2  5 295.71 302.00 -142.86   285.71  0.1248      1   0.723936  
+m3.3  6 297.68 305.23 -142.84   285.68  0.0366      1   0.848260  
+
+You can see this result in a different way here (gray = steep part):
+https://github.com/seannyD/ILMTurk/blob/master/stats/graphs/summary/PlateauTime_SONA_meaning3.pdf
+
+You'll notice that some curvature values only have a few signals.  This is because some people mixed up the signals, and did a 2 when they should have done a 3.  This messes up the signals for the rest of the chain.  I tried automatically filtering the bad ones, but we'd have to go through the signal graphs manually and figure out what was going on:
+https://github.com/seannyD/ILMTurk/tree/master/stats/graphs/signalPlots
+
+It's interesting that this seems to happen more for the higher curvatures, though.
+
+
+For the MT data, a quick lmer test shows that there's a significant interaction between generation and curvature when predicting the deviation from the initial generation:
+m3.0.mt: meanSig.diff ~ 1 + (1 | chain2)
+m3.1.mt: meanSig.diff ~ curvature + (1 | chain2)
+m3.2.mt: meanSig.diff ~ curvature + gen + (1 | chain2)
+m3.3.mt: meanSig.diff ~ curvature * gen + (1 | chain2)
+        Df    AIC    BIC  logLik deviance   Chisq Chi Df Pr(>Chisq)  
+m3.0.mt  3 843.17 849.92 -418.59   837.17                            
+m3.1.mt  4 844.28 853.27 -418.14   836.28  0.8959      1   0.343871  
+m3.2.mt  5 839.29 850.53 -414.64   829.29  6.9923      1   0.008186 **
+m3.3.mt  6 831.02 844.51 -409.51   819.02 10.2688      1   0.001353 **
+
+(this result is stronger when excluding curvatures 0.5 and 0.4).
+However, it looks like deviation *decreases* over generations at higher curvatures? 
+Fixed effects:
+              Estimate Std. Error t value
+(Intercept)     48.454     32.196   1.505
+curvature      179.719    105.820   1.698
+gen             30.524      7.189   4.246
+curvature:gen  -72.630     22.047  -3.294
+
+
+Meaning 1 and 2
+--------------
+For the other meanings, we have different predictions about what measures will be affected:
+
+For meaning 1 (up) and meaning 2 (up then down) we should predict that higher curvatures cause more 'phoneme' like behaviour - i.e. more level tones (zero velocity) rather than smooth transitions.  For the SONA data, there's a significant interaction between generation and curvature when predicting the proportion of zero velocity:
+
+m0.zero: propZero ~ 1 + (1 | chain2) + (1 | meaning)
+m1.zero: propZero ~ curvature + (1 | chain2) + (1 | meaning)
+m2.zero: propZero ~ curvature + gen + (1 | chain2) + (1 | meaning)
+m3.zero: propZero ~ curvature * gen + (1 | chain2) + (1 | meaning)
+        Df     AIC     BIC logLik deviance   Chisq Chi Df Pr(>Chisq)   
+m0.zero  4 -78.881 -67.936 43.440  -86.881                             
+m1.zero  5 -77.878 -64.197 43.939  -87.878  0.9976      1  0.3178929   
+m2.zero  6 -80.140 -63.723 46.070  -92.140  4.2620      1  0.0389747 * 
+m3.zero  7 -90.041 -70.887 52.020 -104.041 11.9002      1  0.0005613 ***
+
+The same is true of the MTurk data, but only when excluding curvatures 0.4 and 0.5 (I suspect weird things are happening here). 
+m0.zero.mt: propZero ~ 1 + (1 | chain2) + (1 | meaning)
+m1.zero.mt: propZero ~ curvature + (1 | chain2) + (1 | meaning)
+m2.zero.mt: propZero ~ curvature + gen + (1 | chain2) + (1 | meaning)
+m3.zero.mt: propZero ~ curvature * gen + (1 | chain2) + (1 | meaning)
+           Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq) 
+m0.zero.mt  4 -81.724 -67.655 44.862  -89.724                          
+m1.zero.mt  5 -80.439 -62.851 45.219  -90.439 0.7142      1    0.39805 
+m2.zero.mt  6 -83.778 -62.673 47.889  -95.778 5.3390      1    0.02085 *
+m3.zero.mt  7 -86.243 -61.621 50.122 -100.243 4.4657      1    0.03458 *
+
+For the MTurk data, there's a significant interaction between generation and curvature when predicting the amount of time spent in the 'plateau' sections of the whistle (p = 0.07), but this isn't very robust.  However, I've defined 'plateau' vs 'steep' sections of the flute by looking at the nonlinear curve and putting in rough values by eye, rather than anything more principled.
+
+
+

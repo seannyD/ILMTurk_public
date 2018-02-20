@@ -1,0 +1,143 @@
+
+The 'retroflex' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+ACOMA (51) 	d.z, s., s.', t.s', t.sh 	9.80%	
+ALAWA (26) 	l., n., nd., t. 	15.38%	
+AMUESHA (26) 	t.sh, z. 	7.69%	
+AO (20) 	l.F 	5.00%	
+APINAYE (30) 	r.[ 	3.33%	
+ARAUCANIAN (26) 	6., t.0 	7.69%	
+ARMENIAN (36) 	6. 	2.78%	
+ARRERNTE (30) 	d.n, l., n., r.A, t. 	16.67%	
+AWIYA (35) 	d. 	2.86%	
+BARDI (24) 	l., n., r.A, t. 	16.67%	
+BASQUE (28) 	s., t.s 	7.14%	
+BEJA (26) 	d., t. 	7.69%	
+BENGALI (43) 	d., d.h, r.[, t., t.h 	11.63%	
+BURARRA (21) 	l., n., r.A, t. 	19.05%	
+BURUSHASKI (43) 	6., d., d.z, s., t., t.h, t.s, t.sh 	18.60%	
+CAMSA (28) 	s., t.s 	7.14%	
+CHAMORRO (26) 	r.A 	3.85%	
+CHUKCHI (22) 	6. 	4.55%	
+DAGUR (29) 	d.z, s., t.s, z. 	13.79%	
+DAJU (30) 	r.[ 	3.33%	
+DAN (39) 	d.< 	2.56%	
+DIYARI (25) 	d., l., n., r.A, t. 	20.00%	
+DYIRBAL (16) 	r.A 	6.25%	
+GARAWA (22) 	l., n., r.A, t. 	18.18%	
+GUAMBIANO (24) 	s., t.s 	8.33%	
+GUGU-YALANDYI (16) 	r.A 	6.25%	
+HAUSA (38) 	r.[ 	2.63%	
+HIGHLAND CHINANTEC (41) 	s., z. 	4.88%	
+HINDI-URDU (61) 	d., d.h, r.[~, t., t.h 	8.20%	
+HIXKARYANA (23) 	l.[ 	4.35%	
+HMONG (56) 	nt.s, nt.sh, s., t.s, t.sh, z. 	10.71%	
+HOPI (28) 	0. 	3.57%	
+HUARI (32) 	l.[ 	3.12%	
+IAI (52) 	d., hl., hn., l., n., t. 	11.54%	
+JACALTEC (32) 	s., t.s', t.sh 	9.38%	
+JAQARU (39) 	t.s, t.s', t.sh 	7.69%	
+KALIAI (21) 	r.[ 	4.76%	
+KALKATUNGU (23) 	l., n., r.A, t. 	17.39%	
+KANURI (29) 	l. 	3.45%	
+KASHMIRI (55) 	d., t., t.h 	5.45%	
+KHANTY (32) 	l., n., t.s 	9.38%	
+KHARIA (36) 	d., d.h, r.[, t., t.h 	13.89%	
+KHASI (29) 	l. 	3.45%	
+KHMER (42) 	r.[ 	2.38%	
+KONKANI (37) 	d., l., t. 	8.11%	
+KOTA (28) 	d., l., n., r.[, s., t.h 	21.43%	
+KOYA (24) 	d., n., t. 	12.50%	
+KUNIMAIPA (20) 	r.[ 	5.00%	
+KURUKH (32) 	d., r., t. 	9.38%	
+LELEMI (34) 	d. 	2.94%	
+LUISENO (26) 	s. 	3.85%	
+MABA (29) 	d., t. 	6.90%	
+MALAGASY (25) 	d.r, t.r 	8.00%	
+MANDARIN (32) 	s., t.s, t.sh, z. 	12.50%	
+MAUNG (22) 	l., n., r.[, t. 	18.18%	
+MAZATEC (33) 	nd.z, s., t.s 	9.09%	
+MBABARAM (24) 	r.[ 	4.17%	
+MORO (29) 	d., l.[, t. 	10.34%	
+MOVIMA (23) 	s. 	4.35%	
+MUNDARI (37) 	d., d.h, l., n., t., t.h 	16.22%	
+MURINHPATHA (25) 	d., l., n., r.[, t. 	20.00%	
+NAXI (49) 	d.z, nd.z, s., t.s, t.sh, z. 	12.24%	
+NEPALI (39) 	d., d.h, t., t.h 	10.26%	
+NGARINJIN (24) 	l., n., r.A, t. 	16.67%	
+NGIYAMBAA (18) 	r.A 	5.56%	
+NORWEGIAN (46) 	d., l., n., t.h 	8.70%	
+NUNGGUBUYU (23) 	l., n., r.A, t. 	17.39%	
+PAIWAN (26) 	d., l.[, s., t.s, z. 	19.23%	
+PAPAGO (24) 	d., l.[, s. 	12.50%	
+PASHTO (38) 	d., l.[, n., s., t., z. 	15.79%	
+POHNPEIAN (20) 	t.s 	5.00%	
+RUKAI (27) 	d., l., t. 	11.11%	
+SANGO (37) 	l.[ 	2.70%	
+SELKUP (34) 	t.s 	2.94%	
+SINHALESE (36) 	d., t. 	5.56%	
+SIONA (30) 	t.* 	3.33%	
+SOMALI (32) 	d.* 	3.12%	
+SOUTHERN NAMBIQUARA (43) 	l.[, l.[* 	4.65%	
+TACANA (22) 	s., t.s 	9.09%	
+TARASCAN (39) 	l., s. 	5.13%	
+TELUGU (43) 	d., d.h, l., n., s., t., t.h 	16.28%	
+TIWI (26) 	l., n., nt., r.A, t. 	19.23%	
+TSOU (21) 	s., t.s, z. 	14.29%	
+TULU (37) 	d., l., n., s., t. 	13.51%	
+WAPISHANA (25) 	z.* 	4.00%	
+WESTERN DESERT (20) 	l., n., r.A, t. 	20.00%	
+WICHITA (29) 	t.sh 	3.45%	
+WIYOT (29) 	r.A 	3.45%	
+YANYUWA (32) 	l., n., nt., r.[, t. 	15.62%	
+YIDINY (16) 	r.A 	6.25%	
+YOLNGU (23) 	l., n., r.A, r.[, t. 	21.74%	
+
+These 91 languages are 20.18% of all languages in UPSID.
+
+
+The criterion 'retroflex' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+0. 	voiceless retroflex fricative 	0.22%
+6. 	voiced retroflex fricative 	0.89%
+d. 	voiced retroflex plosive 	5.99%
+d.* 	laryngealized voiced retroflex plosive 	0.22%
+d.< 	voiced retroflex implosive 	0.22%
+d.h 	breathy voiced retroflex plosive 	1.33%
+d.n 	nasally-released voiced retroflex plosive 	0.22%
+d.r 	voiced retroflex affricated trill 	0.22%
+d.z 	voiced retroflex sibilant affricate 	0.89%
+hl. 	voiceless retroflex lateral approximant 	0.22%
+hn. 	voiceless retroflex nasal 	0.22%
+l. 	voiced retroflex lateral approximant 	5.99%
+l.F 	voiced retroflex lateral fricative 	0.22%
+l.[ 	voiced retroflex lateral flap 	1.77%
+l.[* 	laryngealized voiced retroflex lateral flap 	0.22%
+n. 	voiced retroflex nasal 	5.32%
+nd. 	prenasalized voiced retroflex plosive 	0.22%
+nd.z 	prenasalized voiced retroflex sibilant affricate 	0.44%
+nt. 	prenasalized voiceless retroflex plosive 	0.44%
+nt.s 	prenasalized voiceless retroflex sibilant affricate 	0.22%
+nt.sh 	prenasalized voiceless aspirated retroflex sibilant affricate 	0.22%
+r. 	voiced retroflex trill 	0.22%
+r.A 	voiced retroflex approximant 	3.77%
+r.[ 	voiced retroflex flap 	3.10%
+r.[~ 	nasalized voiced retroflex flap 	0.22%
+s. 	voiceless retroflex sibilant fricative 	5.10%
+s.' 	voiceless retroflex sibilant ejective fricative 	0.22%
+t. 	voiceless retroflex plosive 	7.54%
+t.* 	laryngealized voiceless retroflex plosive 	0.22%
+t.0 	voiceless retroflex affricate 	0.22%
+t.h 	voiceless aspirated retroflex plosive 	2.22%
+t.r 	voiceless retroflex affricated trill 	0.22%
+t.s 	voiceless retroflex sibilant affricate 	3.55%
+t.s' 	voiceless retroflex sibilant ejective affricate 	0.67%
+t.sh 	voiceless aspirated retroflex sibilant affricate 	2.00%
+z. 	voiced retroflex sibilant fricative 	2.00%
+z.* 	laryngealized voiced retroflex sibilant fricative 	0.22%
+
+These 37 sounds make 4.03% of all 919 sounds in UPSID
+

@@ -1,0 +1,514 @@
+
+The 'bilabial' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+!XU (141) 	b, b', m, m*, m:, mh, p, ph 	5.67%	
+ABIPON (20) 	m, p 	10.00%	
+ACHE (21) 	B, m, mb, p 	19.05%	
+ACHUMAWI (23) 	m, p 	8.70%	
+ACOMA (51) 	b, m, m*, p', ph 	9.80%	
+ADZERA (25) 	b, m, ph 	12.00%	
+AGHEM (35) 	b, m 	5.71%	
+AHTNA (35) 	b, m 	5.71%	
+AINU (16) 	m, p 	12.50%	
+AIZI (33) 	b, b<, m, p 	12.12%	
+AKAN (35) 	b, m, ph 	8.57%	
+AKAWAIO (23) 	b, m, p 	13.04%	
+ALABAMA (17) 	P, b, m, p 	23.53%	
+ALAMBLAK (25) 	P, b, m, ph 	16.00%	
+ALAWA (26) 	m, mb, p 	11.54%	
+ALBANIAN (35) 	b, m, p 	8.57%	
+ALEUT (27) 	hm, m 	7.41%	
+ALLADIAN (36) 	b, m, p 	8.33%	
+AMAHUACA (22) 	m, p 	9.09%	
+AMELE (20) 	b, m 	10.00%	
+AMHARIC (37) 	b, m, p, p' 	10.81%	
+AMO (35) 	b, m, p 	8.57%	
+AMUESHA (26) 	B, m, mJ, p, pJ 	19.23%	
+AMUZGO (37) 	B, m, mb, p 	10.81%	
+ANDAMANESE (24) 	b, m, p 	12.50%	
+ANDOKE (26) 	P, b, p 	11.54%	
+ANGAATIHA (21) 	m, p 	9.52%	
+ANGAS (43) 	b, b<, bJ, m, mJ, p, pJ 	16.28%	
+AO (20) 	m, p 	10.00%	
+APINAYE (30) 	mb, p 	6.67%	
+ARABELA (18) 	m, p 	11.11%	
+ARABIC (35) 	b, m 	5.71%	
+ARAUCANIAN (26) 	P, m, p 	11.54%	
+ARCHI (91) 	b, m, p', p:, ph 	5.49%	
+ARMENIAN (36) 	m, p, p', ph 	11.11%	
+ARRERNTE (30) 	bm, m, p 	10.00%	
+ASHUSLAY (28) 	m, p, p* 	10.71%	
+ASMAT (17) 	m, p 	11.76%	
+ATAYAL (26) 	B, m, p 	11.54%	
+AUCA (21) 	b, m, p 	14.29%	
+AVAR (49) 	b, m, p', ph 	8.16%	
+AWIYA (35) 	b, m, p 	8.57%	
+AZANDE (35) 	b, m, p 	8.57%	
+AZERBAIJANI (33) 	b, m, p 	9.09%	
+BAI (29) 	m, p, ph 	10.34%	
+BAINING (22) 	m, mb, p 	13.64%	
+BAKAIRI (29) 	b, m, p 	10.34%	
+BAMBARA (35) 	b, m, p 	8.57%	
+BANDJALANG (16) 	b, m 	12.50%	
+BARASANO (23) 	b, p 	8.70%	
+BARDI (24) 	m, p 	8.33%	
+BARIBA (30) 	b, m, p 	10.00%	
+BASHKIR (38) 	b, m, p 	7.89%	
+BASQUE (28) 	b, m, p 	10.71%	
+BATAK (21) 	b, m, p 	14.29%	
+BATS (45) 	B, P, b, m, p', ph 	13.33%	
+BEEMBE (26) 	m, p, ph 	11.54%	
+BEJA (26) 	b, m 	7.69%	
+BELLA COOLA (31) 	m, p, p' 	9.68%	
+BENGALI (43) 	b, bh, m, p, ph 	11.63%	
+BERTA (29) 	P, b, m, mb, p' 	17.24%	
+BETE (37) 	b, b<, m, p 	10.81%	
+BIROM (29) 	b, m, p 	10.34%	
+BISA (24) 	b, m, p 	12.50%	
+BOBO-FING (33) 	b, m, ph 	9.09%	
+BODO (21) 	b, m, p 	14.29%	
+BORORO (20) 	b, m, p 	15.00%	
+BRAHUI (33) 	b, m, p 	9.09%	
+BRAO (31) 	BA, b<, m, p, ph 	16.13%	
+BRETON (45) 	b, m, p 	6.67%	
+BRIBRI (27) 	b, m, p 	11.11%	
+BRUU (42) 	b, m, p, ph 	9.52%	
+BULGARIAN (42) 	b, bJ, m, mJ, p, pJ 	14.29%	
+BURARRA (21) 	m, p 	9.52%	
+BURMESE (46) 	b, hm, m, p, ph 	10.87%	
+BURUSHASKI (43) 	b, m, p, ph 	9.30%	
+CACUA (22) 	m, p 	9.09%	
+CADDO (23) 	b, m, p 	13.04%	
+CAMPA (19) 	B, m, p 	15.79%	
+CAMSA (28) 	b, m, p 	10.71%	
+CARIB (22) 	B, b, m, p 	18.18%	
+CAYAPA (28) 	P, b, m, p 	14.29%	
+CAYUVAVA (33) 	B, b, m, p 	12.12%	
+CHAM (32) 	b*, m, p, ph 	12.50%	
+CHAMORRO (26) 	b, m, p 	11.54%	
+CHANGZHOU (34) 	m, p, ph, phh 	11.76%	
+CHATINO (25) 	b, m, p 	12.00%	
+CHEROKEE (17) 	m 	5.88%	
+CHIPEWYAN (52) 	p 	1.92%	
+CHUAVE (17) 	b, m 	11.76%	
+CHUKCHI (22) 	m, p 	9.09%	
+CHUVASH (30) 	b, m, p 	10.00%	
+COFAN (35) 	B, b, m, p, ph 	14.29%	
+CUBEO (23) 	B, b, p 	13.04%	
+CUNA (21) 	b, m, p 	14.29%	
+DADIBI (23) 	m, p, ph 	13.04%	
+DAFLA (24) 	b, m, p 	12.50%	
+DAGBANI (29) 	b, m, p 	10.34%	
+DAGUR (29) 	b, m, p 	10.34%	
+DAHALO (59) 	B, b, b<, m, mb, p, p' 	11.86%	
+DAJU (30) 	b, b<, m, p 	13.33%	
+DAKOTA (36) 	b, m, p, p', ph 	13.89%	
+DAN (39) 	b, b<, m, p 	10.26%	
+DANGALEAT (28) 	b, b<, m, p 	14.29%	
+DANI (24) 	m, p 	8.33%	
+DERA (17) 	b, m, p 	17.65%	
+DIEGUENO (34) 	B, m, p 	8.82%	
+DINKA (32) 	b, m, p 	9.38%	
+DIOLA (29) 	b, m, p 	10.34%	
+DIYARI (25) 	m, p 	8.00%	
+DIZI (30) 	B, b, m 	10.00%	
+DOAYO (34) 	b, b<, m, p 	11.76%	
+DOGON (28) 	b, m, p 	10.71%	
+DYIRBAL (16) 	b, m 	12.50%	
+EFIK (20) 	b, m 	10.00%	
+EJAGHAM (27) 	B, b, m, p 	14.81%	
+EKARI (15) 	b, m, p 	20.00%	
+EPENA PEDEE (31) 	BA, b, p, ph 	12.90%	
+EVEN (27) 	BA, b, m, p 	14.81%	
+EWE (40) 	B, P, b, m, ph 	12.50%	
+EWONDO (34) 	b, m, mb 	8.82%	
+EYAK (45) 	m 	2.22%	
+FARSI (30) 	b, m, ph 	10.00%	
+FASU (21) 	P, m, p 	14.29%	
+FE?FE? (25) 	b, m 	8.00%	
+FIJIAN (30) 	B, m, mb, p 	13.33%	
+FINNISH (25) 	b, m, p 	12.00%	
+FRENCH (37) 	b, m, p 	8.11%	
+FUR (30) 	b, m, p 	10.00%	
+FUZHOU (21) 	m, p, ph 	14.29%	
+GA (41) 	b, m, ph 	7.32%	
+GADSUP (15) 	B, m, p 	20.00%	
+GARAWA (22) 	m, p 	9.09%	
+GBEYA (43) 	b, b<, m, m*, mb, p 	13.95%	
+GELAO (43) 	m, mp, p, ph 	9.30%	
+GEORGIAN (34) 	B, m, p, p', ph 	14.71%	
+GERMAN (41) 	b, m, p 	7.32%	
+GREEK (26) 	b, m, p 	11.54%	
+GUAHIBO (29) 	b, m, p 	10.34%	
+GUAJIRO (26) 	m, p 	7.69%	
+GUAMBIANO (24) 	BA, m, p 	12.50%	
+GUARANI (36) 	m, p 	5.56%	
+GUGU-YALANDYI (16) 	m, p 	12.50%	
+GWARI (26) 	b, b<, m, p 	15.38%	
+HADZA (62) 	b, m, mb, mph, p, p', ph 	11.29%	
+HAIDA (49) 	m, m*, p, ph 	8.16%	
+HAKKA (22) 	mb, p, ph 	13.64%	
+HAMER (35) 	b, b<, m, p 	11.43%	
+HAUSA (38) 	P, b, b<, m 	10.53%	
+HAWAIIAN (13) 	m, p 	15.38%	
+HIGHLAND CHINANTEC (41) 	P, hm, m, p 	9.76%	
+HINDI-URDU (61) 	BA, b, bh, m, mh, p, ph 	11.48%	
+HIXKARYANA (23) 	P, b, m, p 	17.39%	
+HMONG (56) 	hm, m, mp, mph, p, ph 	10.71%	
+HOPI (28) 	hm, m, p 	10.71%	
+HUARI (32) 	BA, b, m, p 	12.50%	
+HUASTECO (26) 	B, BA, m, p 	15.38%	
+HUAVE (29) 	P, b, m, mb, p 	17.24%	
+HUNGARIAN (40) 	b, m, p 	7.50%	
+HUPA (35) 	m 	2.86%	
+IAI (52) 	B, P, b, hm, m, p 	11.54%	
+IATE (30) 	m, p, ph 	10.00%	
+IBAN (25) 	b, m, p 	12.00%	
+IGBO (59) 	b, b<, bJ, bJh, bh, m, p, p<, pJ, pJh, ph 	18.64%	
+IK (44) 	b, b<, m, p 	9.09%	
+INUIT (22) 	B, m, p 	13.64%	
+IRANXE (39) 	b, bW, m, mW, p, pW 	15.38%	
+IRAQW (45) 	b, b<, m, p 	8.89%	
+IRARUTU (19) 	P, m, mb 	15.79%	
+IRISH (69) 	BJ, PJ, PW-, bJ, bW-, mJ, mW-, pJh, pW-h 	13.04%	
+ISLAND CARIB (27) 	b, m, p 	11.11%	
+ISOKO (37) 	BA, b, m, p, p< 	13.51%	
+ITELMEN (32) 	B, P, m, p, p' 	15.62%	
+ITONAMA (25) 	b, m, p 	12.00%	
+IVATAN (23) 	b, m, p 	13.04%	
+IWAM (17) 	m, p 	11.76%	
+JACALTEC (32) 	P, b<, m, ph 	12.50%	
+JAPANESE (20) 	b, m, p 	15.00%	
+JAPRERIA (24) 	b, m, p 	12.50%	
+JAQARU (39) 	m, p, p', ph 	10.26%	
+JAVANESE (29) 	m, p, phh 	10.34%	
+JEBERO (23) 	m, p 	8.70%	
+JINGPHO (30) 	b, m, p, ph 	13.33%	
+JIVARO (23) 	m, p 	8.70%	
+JOMANG (21) 	b, m 	9.52%	
+K'EKCHI (26) 	b*, m, p 	11.54%	
+KABARDIAN (56) 	b, m, p', ph 	7.14%	
+KADUGLI (27) 	b, b<, m, p 	14.81%	
+KAINGANG (27) 	mb, p 	7.41%	
+KALA LAGAW YA (24) 	b, m, p 	12.50%	
+KALIAI (21) 	B, m, mb, p 	19.05%	
+KALKATUNGU (23) 	m, p 	8.70%	
+KAM (27) 	m, mJ, p, pJ 	14.81%	
+KANAKURU (35) 	b, b*, m, mb, p 	14.29%	
+KANURI (29) 	P, b, m, p 	13.79%	
+KAREN (36) 	b<, m, p, ph 	11.11%	
+KAROK (27) 	BA, m, p 	11.11%	
+KASHMIRI (55) 	b, m, p, ph 	7.27%	
+KAWAIISU (31) 	b, m, p 	9.68%	
+KEFA (27) 	b, m, p, p' 	14.81%	
+KERA (30) 	b, b*, m, p 	13.33%	
+KET (25) 	b, m 	8.00%	
+KEWA (20) 	P, m, mb 	15.00%	
+KHALKHA (33) 	B, P, b, m, ph 	15.15%	
+KHANTY (32) 	m, p 	6.25%	
+KHARIA (36) 	b, bh, m, p, ph 	13.89%	
+KHASI (29) 	b, m, p, ph 	13.79%	
+KHMER (42) 	b<, m, p, ph 	9.52%	
+KHMU? (41) 	b<, m, p, ph 	9.76%	
+KIOWA (42) 	b, m, p, p', ph 	11.90%	
+KIRGHIZ (30) 	B, b, m, p 	13.33%	
+KLAMATH (37) 	b, hm, m, m*, p', ph 	16.22%	
+KLAO (27) 	b, p 	7.41%	
+KOHUMONO (38) 	B, b, b<, m, ph 	13.16%	
+KOIARI (16) 	b, m 	12.50%	
+KOLOKUMA IJO (37) 	b, m, p 	8.11%	
+KOMA (31) 	b, b<, m, p, p' 	16.13%	
+KOMI (33) 	b, m, p 	9.09%	
+KONKANI (37) 	b, p 	5.41%	
+KONYAGI (46) 	B, P, b, b<, m, mb, mp, p 	17.39%	
+KOREAN (32) 	m, p, p*, ph 	12.50%	
+KORYAK (21) 	BA, m, p 	14.29%	
+KOTA (28) 	b, m, ph 	10.71%	
+KOTOKO (36) 	b, b<, m, p 	11.11%	
+KOYA (24) 	b, m, p 	12.50%	
+KPAN (34) 	b, mb, p 	8.82%	
+KPELLE (34) 	b, b<, m, p 	11.76%	
+KULLO (29) 	b, m 	6.90%	
+KUNAMA (26) 	b, m 	7.69%	
+KUNIMAIPA (20) 	BA, b, m, p 	20.00%	
+KURDISH (47) 	b, m, p 	6.38%	
+KURUKH (32) 	b, m, p 	9.38%	
+KWAIO (21) 	P, m, mb 	14.29%	
+KWAKW'ALA (48) 	b, m, m*, p', ph 	10.42%	
+KWOMA (31) 	B, P, PW, m, mW, mb, mbW 	22.58%	
+LAHU (35) 	b, m, p, ph 	11.43%	
+LAI (52) 	m, mJ, mb, mbJ, p, pJ, pJh, ph 	15.38%	
+LAK (69) 	b, m, p', p:, ph 	7.25%	
+LAKKIA (55) 	BA, b*, hm, m, p, ph 	10.91%	
+LAME (38) 	b, b*, m, mb, p 	13.16%	
+LELEMI (34) 	b, m, p 	8.82%	
+LENAKEL (21) 	m, mW, p, pW 	19.05%	
+LITHUANIAN (52) 	b, bJ, m, mJ, p, pJ 	11.54%	
+LUA (36) 	b, b<, m, mb, p 	13.89%	
+LUE (31) 	b, m, p, ph 	12.90%	
+LUGBARA (36) 	b, b*, m, p 	11.11%	
+LUISENO (26) 	m, p 	7.69%	
+LUNGCHOW (32) 	b*, m, p, ph 	12.50%	
+LUO (32) 	b, m, p 	9.38%	
+LUSHOOTSEED (37) 	b, p, p' 	8.11%	
+MAASAI (28) 	b<, m, p 	10.71%	
+MABA (29) 	b, m 	6.90%	
+MAIDU (23) 	b<, m, p', ph 	17.39%	
+MALAGASY (25) 	b, m, p 	12.00%	
+MALAKMALAK (19) 	m, p 	10.53%	
+MAMBILA (25) 	b, m, p 	12.00%	
+MANCHU (25) 	b, m, p 	12.00%	
+MANDARIN (32) 	m, p, ph 	9.38%	
+MARANAO (17) 	b, m, p 	17.65%	
+MARGI (34) 	b, b<, m, p 	11.76%	
+MARI (33) 	B, m, p, pJ 	12.12%	
+MAUNG (22) 	m, p 	9.09%	
+MAXAKALI (20) 	mb, p 	10.00%	
+MAZAHUA (60) 	b<, hm, m, m*, p, ph 	10.00%	
+MAZATEC (33) 	B, b, m, p 	12.12%	
+MBA-NE (31) 	b, b<, mb, p 	12.90%	
+MBABARAM (24) 	b, m, mb 	12.50%	
+MBUM (38) 	b, b<, m, mb, p 	13.16%	
+MIEN (41) 	b, hm, m, p, ph 	12.20%	
+MIXE (23) 	m, p 	8.70%	
+MIXTEC (25) 	B, p 	8.00%	
+MOGHOL (29) 	b, m, p 	10.34%	
+MONGUOR (28) 	b, m, p 	10.71%	
+MOR (19) 	B, m, mb 	15.79%	
+MORO (29) 	b, m, p 	10.34%	
+MOVIMA (23) 	B, b<, m, p 	17.39%	
+MOXO (25) 	B, b, m, p 	16.00%	
+MUINANE (28) 	B, P, b, m, p 	17.86%	
+MUMUYE (34) 	b, b<, m, p 	11.76%	
+MUNDARI (37) 	b, bh, m, p, ph 	13.51%	
+MURINHPATHA (25) 	b, m, p 	12.00%	
+MURSI (26) 	b, b<, m, p 	15.38%	
+NAHUATL (20) 	BA, PA, m, p 	20.00%	
+NAMA (41) 	m, p 	4.88%	
+NAMBAKAENGO (47) 	m, mW, mb, mbW, p, pJ, pW, ph 	17.02%	
+NANAI (24) 	B, b, m, p 	16.67%	
+NASIOI (13) 	b, m, p 	23.08%	
+NAVAJO (47) 	m, p 	4.26%	
+NAXI (49) 	b, m, mb, p, ph 	10.20%	
+NDUT (34) 	b, b<, m, mb, p 	14.71%	
+NENETS (35) 	B, b, bJ, m, mJ, p, pJ 	20.00%	
+NEO-ARAMAIC (40) 	B, b, m, p 	10.00%	
+NEPALI (39) 	b, bh, m, p, ph 	12.82%	
+NERA (22) 	b, m 	9.09%	
+NEWARI (32) 	b, bh, m, mh, p, ph 	18.75%	
+NEZ PERCE (30) 	m, m*, p, p' 	13.33%	
+NGANASAN (29) 	b, m, p 	10.34%	
+NGARINJIN (24) 	m, p 	8.33%	
+NGIYAMBAA (18) 	m, p 	11.11%	
+NGIZIM (40) 	b, b*, m, mb, p 	12.50%	
+NICOBARESE (25) 	m, p 	8.00%	
+NIMBORAN (18) 	b, m, p 	16.67%	
+NIVKH (35) 	B, P, m, p, ph 	14.29%	
+NONI (33) 	b, m 	6.06%	
+NORWEGIAN (46) 	b, m, ph 	6.52%	
+NUBIAN (21) 	b, m 	9.52%	
+NUNGGUBUYU (23) 	m, p 	8.70%	
+NYAH KUR (50) 	b, hm, m, p, ph 	10.00%	
+NYANGI (25) 	b<, m, p 	12.00%	
+NYIMANG (25) 	b, m 	8.00%	
+OCAINA (34) 	B, P, b, m, m:, p 	17.65%	
+OGBIA (34) 	B, b, b<, m, p 	14.71%	
+OJIBWA (27) 	hp, m, p 	11.11%	
+ORMURI (31) 	BA, b, m, p 	12.90%	
+PACOH (33) 	BA, b*, m, p 	12.12%	
+PAEZ (37) 	B, PJ, m, mb, p 	13.51%	
+PAIWAN (26) 	b, m, p 	11.54%	
+PANARE (25) 	m, p 	8.00%	
+PAPAGO (24) 	b, m, p 	12.50%	
+PARAUK (77) 	b, bh, m, mh, p, ph 	7.79%	
+PASHTO (38) 	B, b, m, p 	10.53%	
+PAYA (28) 	b, m, p 	10.71%	
+PHLONG (37) 	b<, m, p, ph 	10.81%	
+PICURIS (38) 	b, m, p, p', ph 	13.16%	
+PIRAHA (11) 	b, p 	18.18%	
+PO-AI (35) 	m, p, ph 	8.57%	
+POHNPEIAN (20) 	m, mW, p, pW 	20.00%	
+POMO (32) 	b, m, p, p' 	12.50%	
+QAWASQAR (19) 	m, p 	10.53%	
+QUECHUA (36) 	B, P, m, p, p', ph 	16.67%	
+QUILEUTE (37) 	b, p, p' 	8.11%	
+RESIGARO (35) 	P, b, hm, m, p, ph 	17.14%	
+ROMANIAN (32) 	b, m, p 	9.38%	
+RORO (14) 	b, m, p 	21.43%	
+ROTOKAS (11) 	B, p 	18.18%	
+RUKAI (27) 	b, m, p 	11.11%	
+RUSSIAN (38) 	b, bJ, m, mJ, p, pJ 	15.79%	
+RUTUL (64) 	BA, b, m, p', ph 	7.81%	
+SA'BAN (26) 	b, m, p 	11.54%	
+SAAMI (45) 	BA, BAJ, b, bJ, m, mJ, p, pJ 	17.78%	
+SALIBA (32) 	B, P, b, m, p 	15.62%	
+SAMA (32) 	b, m, mb, mp, p 	15.62%	
+SANDAWE (54) 	b, m, p, p', ph 	9.26%	
+SANGO (37) 	b, b<, m, mb, p 	13.51%	
+SAVOSAVO (22) 	B, m, mb, p 	18.18%	
+SEBEI (26) 	m, p 	7.69%	
+SEDANG (55) 	b*, hm, m, m*, mb, p, ph 	12.73%	
+SELEPET (21) 	m, mb, ph 	14.29%	
+SELKUP (34) 	m, p 	5.88%	
+SENADI (36) 	b, m, p 	8.33%	
+SENECA (19) 	b, m 	10.53%	
+SENTANI (17) 	m, p 	11.76%	
+SHASTA (21) 	m, p, p' 	14.29%	
+SHILHA (31) 	b, m 	6.45%	
+SHIRIANA (25) 	m, p 	8.00%	
+SHUSWAP (44) 	m, m*, p, p* 	9.09%	
+SIERRA MIWOK (21) 	m, p 	9.52%	
+SINHALESE (36) 	P, b, m, p 	11.11%	
+SIONA (30) 	m, p, p* 	10.00%	
+SIRIONO (28) 	b, mb, p 	10.71%	
+SOCOTRI (34) 	b, m 	5.88%	
+SOMALI (32) 	b, m 	6.25%	
+SONGHAI (24) 	b, m 	8.33%	
+SOUTHERN KIWAI (19) 	b, m, p 	15.79%	
+SOUTHERN NAMBIQUARA (43) 	b<, p, p', ph 	9.30%	
+SPANISH (25) 	B, m, p 	12.00%	
+SRE (37) 	b, b<, hm, m, p, ph 	16.22%	
+SUENA (18) 	b, m, p 	16.67%	
+SUI (54) 	P, b, b*, hm, m, m*, p, ph 	14.81%	
+TABI (33) 	b, m, p 	9.09%	
+TACANA (22) 	B, b, m, p 	18.18%	
+TAGALOG (23) 	b, m, p 	13.04%	
+TAISHAN (25) 	m, p, ph 	12.00%	
+TAMA (30) 	b, b<, m 	10.00%	
+TAMANG (29) 	m, p, ph 	10.34%	
+TAMASHEQ (37) 	b, m 	5.41%	
+TAMPULMA (33) 	b, m, p 	9.09%	
+TAORIPI (14) 	m, p 	14.29%	
+TARASCAN (39) 	P, b, m, p, ph 	12.82%	
+TAROK (32) 	b, b<, m, p 	12.50%	
+TEHUELCHE (35) 	b, m, p, p' 	11.43%	
+TEKE (28) 	b, m, p 	10.71%	
+TELUGU (43) 	BA, BA:, b, bh, m, p, ph 	16.28%	
+TEMEIN (25) 	b, m, p 	12.00%	
+TEMNE (25) 	b, m, p 	12.00%	
+TERA (48) 	b, b<, bJ<, m, mb, p, pJ 	14.58%	
+TETUN (19) 	b, m, p 	15.79%	
+THAI (30) 	b, m, p, ph 	13.33%	
+TICUNA (29) 	b, m, p 	10.34%	
+TIDDIM CHIN (26) 	b, m, p, ph 	15.38%	
+TIGAK (17) 	B, b, m, p 	23.53%	
+TIGRE (33) 	b, m 	6.06%	
+TIRURAY (22) 	P, b, m 	13.64%	
+TIWI (26) 	m, mp, p 	11.54%	
+TLAPANEC (30) 	P, b, m, p 	13.33%	
+TLINGIT (48) 	b, p, p' 	6.25%	
+TOL (28) 	B, m, p, p*, ph 	17.86%	
+TONKAWA (25) 	m, p 	8.00%	
+TOTONAC (22) 	m, p 	9.09%	
+TRUMAI (24) 	hm, p 	8.33%	
+TSESHAHT (42) 	m, m*, p, p' 	9.52%	
+TSIMSHIAN (41) 	b, m, m*, p, p' 	12.20%	
+TSOU (21) 	b*, m, p 	14.29%	
+TULU (37) 	b, m, p 	8.11%	
+TUNICA (24) 	b, m, ph 	12.50%	
+TURKISH (33) 	b, m, p 	9.09%	
+TUVA (29) 	B, b, m, p 	13.79%	
+TZELTAL (28) 	b, m, p, p' 	14.29%	
+UPPER CHEHALIS (34) 	m, p, p' 	8.82%	
+USAN (20) 	b, m, mb, p 	20.00%	
+UZBEK (30) 	BA-, P, b, m, p 	16.67%	
+VANIMO (28) 	B, b, m, p 	14.29%	
+VIETNAMESE (36) 	b<, m, p 	8.33%	
+WAHGI (23) 	m, mb, p 	13.04%	
+WANTOAT (21) 	m, mb, p 	14.29%	
+WAPISHANA (25) 	b*, m, ph 	12.00%	
+WAPPO (35) 	b, m, m*, p, p' 	14.29%	
+WARAO (21) 	BA, b, m 	14.29%	
+WARAY (21) 	m, p, p: 	14.29%	
+WARIS (22) 	B, mb, p 	13.64%	
+WEST MAKIAN (23) 	P, b, m, p 	17.39%	
+WESTERN DESERT (20) 	m, p 	10.00%	
+WIK-MUNKAN (18) 	m, p 	11.11%	
+WINTU (35) 	b, m, p, p', ph 	14.29%	
+WIYOT (29) 	m, p, ph 	10.34%	
+WOISIKA (28) 	b, m, p 	10.71%	
+WOLOF (40) 	b, b:, m, m:, p 	12.50%	
+XIAMEN (25) 	b, m, p, ph 	16.00%	
+YAGARIA (23) 	b, m, p 	13.04%	
+YAGUA (23) 	m, p 	8.70%	
+YAKUT (34) 	b, m, p 	8.82%	
+YANA (30) 	b, m, p', ph 	13.33%	
+YANYUWA (32) 	m, mp, p 	9.38%	
+YAQUI (22) 	b, m, p 	13.64%	
+YAREBA (18) 	P, b, m 	16.67%	
+YAWA (19) 	b, m, p 	15.79%	
+YAY (34) 	b, m, p, ph 	11.76%	
+YESSAN-MAYO (20) 	P, m, mb 	15.00%	
+YIDINY (16) 	b, m 	12.50%	
+YOLNGU (23) 	m, p 	8.70%	
+YORUBA (29) 	b, m 	6.90%	
+YUCATEC (30) 	b*, m, p, p' 	13.33%	
+YUCHI (46) 	P, P', b, p, p', ph 	13.04%	
+YUCUNA (21) 	m, p, ph 	14.29%	
+YUKAGHIR (26) 	b, m, p 	11.54%	
+YULU (42) 	b, b<, m, mb, p 	11.90%	
+YUPIK (36) 	hm, m, p 	8.33%	
+ZOQUE (22) 	b, m, p 	13.64%	
+ZULU (37) 	b<, m, p, p', ph 	13.51%	
+ZUNI (25) 	m, p 	8.00%	
+
+These 450 languages are 99.78% of all languages in UPSID.
+
+
+The criterion 'bilabial' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+B 	voiced bilabial fricative 	11.97%
+BA 	voiced bilabial approximant 	4.21%
+BA- 	velarized voiced bilabial approximant 	0.22%
+BA: 	long voiced bilabial approximant 	0.22%
+BAJ 	palatalized voiced bilabial approximant 	0.22%
+BJ 	palatalized voiced bilabial fricative 	0.22%
+P 	voiceless bilabial fricative 	8.65%
+P' 	voiceless bilabial ejective fricative 	0.22%
+PA 	voiceless bilabial approximant 	0.22%
+PJ 	palatalized voiceless bilabial fricative 	0.44%
+PW 	labialized voiceless bilabial fricative 	0.22%
+PW- 	labialized velarized voiceless bilabial fricative 	0.22%
+b 	voiced bilabial plosive 	63.64%
+b' 	voiced bilabial ejective stop 	0.22%
+b* 	laryngealized voiced bilabial plosive 	3.33%
+b: 	long voiced bilabial plosive 	0.22%
+b< 	voiced bilabial implosive 	10.86%
+bJ 	palatalized voiced bilabial plosive 	1.77%
+bJ< 	palatalized voiced bilabial implosive 	0.22%
+bJh 	palatalized breathy voiced bilabial plosive 	0.22%
+bW 	labialized voiced bilabial plosive 	0.22%
+bW- 	labialized velarized voiced bilabial plosive 	0.22%
+bh 	breathy voiced bilabial plosive 	2.00%
+bm 	nasally-released voiced bilabial plosive 	0.22%
+hm 	voiceless bilabial nasal 	3.77%
+hp 	voiceless preaspirated bilabial plosive 	0.22%
+m 	voiced bilabial nasal 	94.24%
+m* 	laryngealized voiced bilabial nasal 	3.10%
+m: 	long voiced bilabial nasal 	0.67%
+mJ 	palatalized voiced bilabial nasal 	2.22%
+mW 	labialized voiced bilabial nasal 	1.11%
+mW- 	labialized velarized voiced bilabial nasal 	0.22%
+mb 	prenasalized voiced bilabial plosive 	10.64%
+mbJ 	prenasalized palatalized voiced bilabial plosive 	0.22%
+mbW 	prenasalized labialized voiced bilabial plosive 	0.44%
+mh 	breathy voiced bilabial nasal 	0.89%
+mp 	prenasalized voiceless bilabial plosive 	1.33%
+mph 	prenasalized voiceless aspirated bilabial plosive 	0.44%
+p 	voiceless bilabial plosive 	83.15%
+p' 	voiceless bilabial ejective stop 	9.76%
+p* 	laryngealized voiceless bilabial plosive 	1.11%
+p: 	long voiceless bilabial plosive 	0.67%
+p< 	voiceless bilabial implosive 	0.44%
+pJ 	palatalized voiceless bilabial plosive 	2.88%
+pJh 	palatalized voiceless aspirated bilabial plosive 	0.67%
+pW 	labialized voiceless bilabial plosive 	0.89%
+pW-h 	labialized velarized voiceless aspirated bilabial plosive 	0.22%
+ph 	voiceless aspirated bilabial plosive 	22.39%
+phh 	voiceless bilabial plosive with breathy release 	0.44%
+
+These 49 sounds make 5.33% of all 919 sounds in UPSID
+

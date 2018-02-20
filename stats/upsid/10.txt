@@ -1,0 +1,526 @@
+
+The 'velar' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+!XU (141) 	N, N9, g, g', gh, k, k', kh, x 	6.38%	
+ABIPON (20) 	gF, k 	10.00%	
+ACHE (21) 	Ng, k 	9.52%	
+ACHUMAWI (23) 	k, x 	8.70%	
+ACOMA (51) 	g, k', kh 	5.88%	
+ADZERA (25) 	N, g, gA, kh 	16.00%	
+AGHEM (35) 	N, g, gF, k 	11.43%	
+AHTNA (35) 	N, g, k', kh 	11.43%	
+AINU (16) 	k 	6.25%	
+AIZI (33) 	N, g, k 	9.09%	
+AKAN (35) 	g, kh 	5.71%	
+AKAWAIO (23) 	g, k 	8.70%	
+ALABAMA (17) 	k 	5.88%	
+ALAMBLAK (25) 	g, kh, x 	12.00%	
+ALAWA (26) 	N, Ng, k 	11.54%	
+ALBANIAN (35) 	g, k 	5.71%	
+ALEUT (27) 	N, gF, hN, k, x 	18.52%	
+ALLADIAN (36) 	g, k 	5.56%	
+AMAHUACA (22) 	k, x 	9.09%	
+AMELE (20) 	g, k 	10.00%	
+AMHARIC (37) 	g, gW, k, k', kW, kW' 	16.22%	
+AMO (35) 	N, g, k 	8.57%	
+AMUESHA (26) 	gF, k, x 	11.54%	
+AMUZGO (37) 	Ng, k, kJ, kW 	10.81%	
+ANDAMANESE (24) 	N, g, k 	12.50%	
+ANDOKE (26) 	k 	3.85%	
+ANGAATIHA (21) 	N, k 	9.52%	
+ANGAS (43) 	N, g, gF, k 	9.30%	
+AO (20) 	N, k 	10.00%	
+APINAYE (30) 	Ng, k 	6.67%	
+ARABELA (18) 	k 	5.56%	
+ARABIC (35) 	g, k 	5.71%	
+ARAUCANIAN (26) 	N, k 	7.69%	
+ARCHI (91) 	g, gW, k', k:, kW', kW:, kWh, kh 	8.79%	
+ARMENIAN (36) 	k, k', kh 	8.33%	
+ARRERNTE (30) 	N, gA, gn, k 	13.33%	
+ASHUSLAY (28) 	k, k*, klF, x 	14.29%	
+ASMAT (17) 	k 	5.88%	
+ATAYAL (26) 	N, gF, k, x 	15.38%	
+AUCA (21) 	N, g, k 	14.29%	
+AVAR (49) 	g, k', kh, kx':, kx:, x: 	12.24%	
+AWIYA (35) 	N, NW, g, gW, k, kW 	17.14%	
+AZANDE (35) 	g, k 	5.71%	
+AZERBAIJANI (33) 	g, gF, k, x 	12.12%	
+BAI (29) 	N, k, kh, x 	13.79%	
+BAINING (22) 	N, Ng, gF, k 	18.18%	
+BAKAIRI (29) 	g, k 	6.90%	
+BAMBARA (35) 	N, g, k 	8.57%	
+BANDJALANG (16) 	N, g 	12.50%	
+BARASANO (23) 	g, k 	8.70%	
+BARDI (24) 	N, k 	8.33%	
+BARIBA (30) 	g, k 	6.67%	
+BASHKIR (38) 	N, g, k, x 	10.53%	
+BASQUE (28) 	g, k 	7.14%	
+BATAK (21) 	N, g, k 	14.29%	
+BATS (45) 	g, k', kh 	6.67%	
+BEEMBE (26) 	kh 	3.85%	
+BEJA (26) 	g, gW, k, kW 	15.38%	
+BELLA COOLA (31) 	kW, kW', xW 	9.68%	
+BENGALI (43) 	N, g, gh, k, kh 	11.63%	
+BERTA (29) 	N, Ng, g, k' 	13.79%	
+BETE (37) 	N, NW, g, gA, k 	13.51%	
+BIROM (29) 	N, g, k 	10.34%	
+BISA (24) 	N, g, k 	12.50%	
+BOBO-FING (33) 	N, g, kh 	9.09%	
+BODO (21) 	N, g, k 	14.29%	
+BORORO (20) 	g, k 	10.00%	
+BRAHUI (33) 	g, gF, k, x 	12.12%	
+BRAO (31) 	N, g, k 	9.68%	
+BRETON (45) 	N, g, gF, k, x 	11.11%	
+BRIBRI (27) 	g, k, x 	11.11%	
+BRUU (42) 	N, k, kh 	7.14%	
+BULGARIAN (42) 	g, gJ, k, kJ, x 	11.90%	
+BURARRA (21) 	N, k 	9.52%	
+BURMESE (46) 	N, g, hN, k, kh 	10.87%	
+BURUSHASKI (43) 	N, g, k, kh 	9.30%	
+CACUA (22) 	N, k 	9.09%	
+CADDO (23) 	N, k, k' 	13.04%	
+CAMPA (19) 	k 	5.26%	
+CAMSA (28) 	g, k, x 	10.71%	
+CARIB (22) 	N, g, k 	13.64%	
+CAYAPA (28) 	N, g, k 	10.71%	
+CAYUVAVA (33) 	k 	3.03%	
+CHAM (32) 	N, k, kh 	9.38%	
+CHAMORRO (26) 	N, g, k 	11.54%	
+CHANGZHOU (34) 	N, k, kh, khh 	11.76%	
+CHATINO (25) 	g, k 	8.00%	
+CHEROKEE (17) 	g 	5.88%	
+CHIPEWYAN (52) 	gF, gFW, k, k', kW, kW', kxWh, kxh, x, xW 	19.23%	
+CHUAVE (17) 	g, k 	11.76%	
+CHUKCHI (22) 	N, gF, k 	13.64%	
+CHUVASH (30) 	g, k, x 	10.00%	
+COFAN (35) 	g, gA, gF, k, kh 	14.29%	
+CUBEO (23) 	k, x 	8.70%	
+CUNA (21) 	g, gW, k, kW 	19.05%	
+DADIBI (23) 	k, kh 	8.70%	
+DAFLA (24) 	N, g, k, x 	16.67%	
+DAGBANI (29) 	N, g, k 	10.34%	
+DAGUR (29) 	N, g, k, x 	13.79%	
+DAHALO (59) 	Ng, NgW, g, gW, k, k', kW, kW' 	13.56%	
+DAJU (30) 	N, g, k 	10.00%	
+DAKOTA (36) 	gF, k, k', kh, x, x' 	16.67%	
+DAN (39) 	g, k 	5.13%	
+DANGALEAT (28) 	N, g, k 	10.71%	
+DANI (24) 	k, kW 	8.33%	
+DERA (17) 	N, g, k 	17.65%	
+DIEGUENO (34) 	k, kW, x, xW 	11.76%	
+DINKA (32) 	N, g, k 	9.38%	
+DIOLA (29) 	N, g, k 	10.34%	
+DIYARI (25) 	N, k 	8.00%	
+DIZI (30) 	g, k, k' 	10.00%	
+DOAYO (34) 	N, g, k 	8.82%	
+DOGON (28) 	g, k 	7.14%	
+DYIRBAL (16) 	N, g 	12.50%	
+EFIK (20) 	N, k 	10.00%	
+EJAGHAM (27) 	N, g, k 	11.11%	
+EKARI (15) 	gL, k 	13.33%	
+EPENA PEDEE (31) 	g, k, kh 	9.68%	
+EVEN (27) 	N, g, k 	11.11%	
+EWE (40) 	N, g, gA, kh 	10.00%	
+EWONDO (34) 	N, Ng, g, k 	11.76%	
+EYAK (45) 	g, gW, k', kh, x, xW 	13.33%	
+FARSI (30) 	g, kh 	6.67%	
+FASU (21) 	k 	4.76%	
+FE?FE? (25) 	N, g, k 	12.00%	
+FIJIAN (30) 	N, Ng, gA, k 	13.33%	
+FINNISH (25) 	N, g, k 	12.00%	
+FRENCH (37) 	N, g, k 	8.11%	
+FUR (30) 	N, g, k 	10.00%	
+FUZHOU (21) 	N, k, kh, x 	19.05%	
+GA (41) 	N, g, kh 	7.32%	
+GADSUP (15) 	k 	6.67%	
+GARAWA (22) 	N, k 	9.09%	
+GBEYA (43) 	N, Ng, g, k 	9.30%	
+GELAO (43) 	N, Nk, k, kh, x 	11.63%	
+GEORGIAN (34) 	k, k', kh 	8.82%	
+GERMAN (41) 	N, g, k, x 	9.76%	
+GREEK (26) 	g, gF, k, x 	15.38%	
+GUAHIBO (29) 	k, x 	6.90%	
+GUAJIRO (26) 	k 	3.85%	
+GUAMBIANO (24) 	k, kW 	8.33%	
+GUARANI (36) 	N, NW, gF, gFW, k, kW, x, xW 	22.22%	
+GUGU-YALANDYI (16) 	N, k 	12.50%	
+GWARI (26) 	g, k 	7.69%	
+HADZA (62) 	N, Ng, g, k, k', kW, kW', kWh, kh 	14.52%	
+HAIDA (49) 	N, N*, k, k', kW, kW', kWh, kh, x, xW 	20.41%	
+HAKKA (22) 	Ng, k, kh 	13.64%	
+HAMER (35) 	N, g, g<, k 	11.43%	
+HAUSA (38) 	g, gJ, gW, k, k', kJ, kJ', kW, kW' 	23.68%	
+HAWAIIAN (13) 	k 	7.69%	
+HIGHLAND CHINANTEC (41) 	N, gF, hN, k, kW 	12.20%	
+HINDI-URDU (61) 	g, gh, k, kh 	6.56%	
+HIXKARYANA (23) 	k 	4.35%	
+HMONG (56) 	N, Nk, Nkh, k, kh 	8.93%	
+HOPI (28) 	N, NW, hN, k, kW 	17.86%	
+HUARI (32) 	g, k 	6.25%	
+HUASTECO (26) 	k, k', kW, kW' 	15.38%	
+HUAVE (29) 	Ng, NgW, gF, k, kW 	17.24%	
+HUNGARIAN (40) 	g, k 	5.00%	
+HUPA (35) 	N, x, xW 	8.57%	
+IAI (52) 	N, g, hN, k, x 	9.62%	
+IATE (30) 	k, kh 	6.67%	
+IBAN (25) 	N, g, k 	12.00%	
+IGBO (59) 	N, g, gF, gW, gWh, gh, k, kW, kWh, kh 	16.95%	
+IK (44) 	N, g, g<, k, k' 	11.36%	
+INUIT (22) 	N, gF, k, x: 	18.18%	
+IRANXE (39) 	k, kJ 	5.13%	
+IRAQW (45) 	N, NW, g, gW, k, kW, x, xW 	17.78%	
+IRARUTU (19) 	Ng, k 	10.53%	
+IRISH (69) 	N, NJ, g, gF, gJ, kJh, kh, x 	11.59%	
+ISLAND CARIB (27) 	g, k 	7.41%	
+ISOKO (37) 	NW, g, gF, gFW, k 	13.51%	
+ITELMEN (32) 	N, gF, k, k', x 	15.62%	
+ITONAMA (25) 	k, k' 	8.00%	
+IVATAN (23) 	N, g, k 	13.04%	
+IWAM (17) 	N, k 	11.76%	
+JACALTEC (32) 	N, k', kh 	9.38%	
+JAPANESE (20) 	g, k 	10.00%	
+JAPRERIA (24) 	k 	4.17%	
+JAQARU (39) 	N, k, k', kh, x 	12.82%	
+JAVANESE (29) 	N, k, khh 	10.34%	
+JEBERO (23) 	N, k, k* 	13.04%	
+JINGPHO (30) 	N, g, k, kh 	13.33%	
+JIVARO (23) 	k, x 	8.70%	
+JOMANG (21) 	N, g 	9.52%	
+K'EKCHI (26) 	k, k', x 	11.54%	
+KABARDIAN (56) 	gFJ, gJ, gW, kJ', kJh, kW', kWh, xJ, xW 	16.07%	
+KADUGLI (27) 	N, g, k 	11.11%	
+KAINGANG (27) 	Ng, k 	7.41%	
+KALA LAGAW YA (24) 	N, g, k 	12.50%	
+KALIAI (21) 	N, Ng, k 	14.29%	
+KALKATUNGU (23) 	N, k 	8.70%	
+KAM (27) 	N, NW, k, kW 	14.81%	
+KANAKURU (35) 	N, Ng, g, gA, k 	14.29%	
+KANURI (29) 	g, k 	6.90%	
+KAREN (36) 	N, gF, k, kh, x 	13.89%	
+KAROK (27) 	k, x 	7.41%	
+KASHMIRI (55) 	g, k, kh 	5.45%	
+KAWAIISU (31) 	N, gF, gFW, k, kW 	16.13%	
+KEFA (27) 	g, k, k' 	11.11%	
+KERA (30) 	N, g, k 	10.00%	
+KET (25) 	N, k 	8.00%	
+KEWA (20) 	g, x 	10.00%	
+KHALKHA (33) 	g, kh, x 	9.09%	
+KHANTY (32) 	N, gF, k 	9.38%	
+KHARIA (36) 	N, g, gh, k, kh 	13.89%	
+KHASI (29) 	N, k, kh 	10.34%	
+KHMER (42) 	N, k, kh 	7.14%	
+KHMU? (41) 	N, k, kh 	7.32%	
+KIOWA (42) 	g, k, k', kh 	9.52%	
+KIRGHIZ (30) 	N, g, k, x 	13.33%	
+KLAMATH (37) 	g, k', kh 	8.11%	
+KOHUMONO (38) 	N, NW, g, gW, kWh, kh 	15.79%	
+KOIARI (16) 	g, k 	12.50%	
+KOLOKUMA IJO (37) 	N, g, k 	8.11%	
+KOMA (31) 	N, g, k, k' 	12.90%	
+KOMI (33) 	g, k 	6.06%	
+KONKANI (37) 	g, k 	5.41%	
+KONYAGI (46) 	N, NW, Nk, NkW, g, gW, k, kW, x, xW 	21.74%	
+KOREAN (32) 	N, k, k*, kh 	12.50%	
+KORYAK (21) 	N, gF, k 	14.29%	
+KOTA (28) 	N, g, kh 	10.71%	
+KOTOKO (36) 	g, k, k' 	8.33%	
+KOYA (24) 	g, k 	8.33%	
+KPAN (34) 	Ng, g, gF, k, x 	14.71%	
+KPELLE (34) 	N, g, gF, gW, k, kW 	17.65%	
+KULLO (29) 	g, k, k' 	10.34%	
+KUNAMA (26) 	N, g, k 	11.54%	
+KUNIMAIPA (20) 	N, g, k 	15.00%	
+KURDISH (47) 	N, g, gF, k, x 	10.64%	
+KURUKH (32) 	g, k 	6.25%	
+KWAIO (21) 	N, NW, Ng, NgW, x, xW 	28.57%	
+KWAKW'ALA (48) 	gW, kW', kWh, xW 	8.33%	
+KWOMA (31) 	Ng, NgW, k, kW 	12.90%	
+LAHU (35) 	N, g, gF, k, kh 	14.29%	
+LAI (52) 	N, gF, k, kJ, kW, kWh, kh, x 	15.38%	
+LAK (69) 	g, k', k:, kW', kW:, kWh, kh, x, x:, xW, xW: 	15.94%	
+LAKKIA (55) 	N, NJ, NW, hNJ, k, kJ, kJh, kW, kWh, kh 	18.18%	
+LAME (38) 	N, Ng, g, k 	10.53%	
+LELEMI (34) 	N, g, k 	8.82%	
+LENAKEL (21) 	N, gA, k 	14.29%	
+LITHUANIAN (52) 	g, gJ, k, kJ, x 	9.62%	
+LUA (36) 	Ng, g, k 	8.33%	
+LUE (31) 	N, k, kW, kWh, kh 	16.13%	
+LUGBARA (36) 	g, k 	5.56%	
+LUISENO (26) 	N, k, kW, x, xW 	19.23%	
+LUNGCHOW (32) 	N, k, kh 	9.38%	
+LUO (32) 	N, g, k 	9.38%	
+LUSHOOTSEED (37) 	g, gW, k, k', kW, kW', xW 	18.92%	
+MAASAI (28) 	N, g<, k 	10.71%	
+MABA (29) 	N, g, k 	10.34%	
+MAIDU (23) 	k', kh 	8.70%	
+MALAGASY (25) 	g, k 	8.00%	
+MALAKMALAK (19) 	N, k 	10.53%	
+MAMBILA (25) 	N, g, k 	12.00%	
+MANCHU (25) 	N, g, k, x 	16.00%	
+MANDARIN (32) 	N, k, kh 	9.38%	
+MARANAO (17) 	N, g, k 	17.65%	
+MARGI (34) 	N, g, gF, k, x 	14.71%	
+MARI (33) 	N, gF, k, x 	12.12%	
+MAUNG (22) 	N, gF, k 	13.64%	
+MAXAKALI (20) 	Ng, k 	10.00%	
+MAZAHUA (60) 	g, gW, k, k', kW, kW', kWh, kh 	13.33%	
+MAZATEC (33) 	Ng, gF, k 	9.09%	
+MBA-NE (31) 	Ng, g, k 	9.68%	
+MBABARAM (24) 	N, NW, Ng, NgW, g, gW 	25.00%	
+MBUM (38) 	N, Ng, g, k 	10.53%	
+MIEN (41) 	N, g, hN, k, kh 	12.20%	
+MIXE (23) 	g, k 	8.70%	
+MIXTEC (25) 	N, k, kW 	12.00%	
+MOGHOL (29) 	N, g, k, x 	13.79%	
+MONGUOR (28) 	N, g, k, x 	14.29%	
+MOR (19) 	Ng, k 	10.53%	
+MORO (29) 	N, g, k 	10.34%	
+MOVIMA (23) 	k, kW 	8.70%	
+MOXO (25) 	N, k 	8.00%	
+MUINANE (28) 	g, k, x 	10.71%	
+MUMUYE (34) 	NW, g, k 	8.82%	
+MUNDARI (37) 	N, g, gh, k, kh 	13.51%	
+MURINHPATHA (25) 	N, g, k 	12.00%	
+MURSI (26) 	N, g, k 	11.54%	
+NAHUATL (20) 	k, kW 	10.00%	
+NAMA (41) 	k, kxh, x 	7.32%	
+NAMBAKAENGO (47) 	N, NW, Ng, NgW, k, kJ, kW, kh 	17.02%	
+NANAI (24) 	N, g, k, x 	16.67%	
+NASIOI (13) 	k 	7.69%	
+NAVAJO (47) 	gF, k, k', kWh, kh, x 	12.77%	
+NAXI (49) 	Ng, g, gF, k, kh 	10.20%	
+NDUT (34) 	N, Ng, g, gF, k 	14.71%	
+NENETS (35) 	N, k, x 	8.57%	
+NEO-ARAMAIC (40) 	g, k 	5.00%	
+NEPALI (39) 	N, g, gh, k, kh 	12.82%	
+NERA (22) 	N, g, k 	13.64%	
+NEWARI (32) 	g, gh, k, kh 	12.50%	
+NEZ PERCE (30) 	k, k', x 	10.00%	
+NGANASAN (29) 	N, g, k, kx 	13.79%	
+NGARINJIN (24) 	N, k 	8.33%	
+NGIYAMBAA (18) 	N, k 	11.11%	
+NGIZIM (40) 	Ng, NgW, g, gW, k, kW 	15.00%	
+NICOBARESE (25) 	N, k 	8.00%	
+NIMBORAN (18) 	N, g, k 	16.67%	
+NIVKH (35) 	N, gF, k, kh, x 	14.29%	
+NONI (33) 	N, g, gA, k 	12.12%	
+NORWEGIAN (46) 	N, g, kh 	6.52%	
+NUBIAN (21) 	g, k 	9.52%	
+NUNGGUBUYU (23) 	N, k 	8.70%	
+NYAH KUR (50) 	N, k, kh 	6.00%	
+NYANGI (25) 	N, g<, k 	12.00%	
+NYIMANG (25) 	N, g, k 	12.00%	
+OCAINA (34) 	g, k, x 	8.82%	
+OGBIA (34) 	g, gF, k 	8.82%	
+OJIBWA (27) 	hk, k 	7.41%	
+ORMURI (31) 	g, k, x 	9.68%	
+PACOH (33) 	N, k 	6.06%	
+PAEZ (37) 	Ng, gF, k 	8.11%	
+PAIWAN (26) 	N, g, k 	11.54%	
+PANARE (25) 	k 	4.00%	
+PAPAGO (24) 	g, k 	8.33%	
+PARAUK (77) 	N, Nh, g, gh, k, kh 	7.79%	
+PASHTO (38) 	g, k 	5.26%	
+PAYA (28) 	k, kW 	7.14%	
+PHLONG (37) 	N, gF, k, kh, x 	13.51%	
+PICURIS (38) 	g, k, k', kW, kW', x, xW 	18.42%	
+PIRAHA (11) 	g, k 	18.18%	
+PO-AI (35) 	N, k, kh 	8.57%	
+POHNPEIAN (20) 	N, k 	10.00%	
+POMO (32) 	k, k', x 	9.38%	
+QAWASQAR (19) 	k, k', x 	15.79%	
+QUECHUA (36) 	gF, k, k', kh 	11.11%	
+QUILEUTE (37) 	g, k, k', kW, kW', x, xW 	18.92%	
+RESIGARO (35) 	g, k, kh 	8.57%	
+ROMANIAN (32) 	g, k 	6.25%	
+RORO (14) 	k 	7.14%	
+ROTOKAS (11) 	g, k 	18.18%	
+RUKAI (27) 	N, g, k 	11.11%	
+RUSSIAN (38) 	g, k, kJ, x 	10.53%	
+RUTUL (64) 	g, gF, gW, k', kW', kWh, kh, x, xW 	14.06%	
+SA'BAN (26) 	N, g, k 	11.54%	
+SAAMI (45) 	N, NJ, g, gJ, k, kJ 	13.33%	
+SALIBA (32) 	g, gW, k, kW, x 	15.62%	
+SAMA (32) 	N, Nk, g, k 	12.50%	
+SANDAWE (54) 	N, g, k, k', kh, x 	11.11%	
+SANGO (37) 	Ng, g, k 	8.11%	
+SAVOSAVO (22) 	N, Ng, gF, k 	18.18%	
+SEBEI (26) 	N, k 	7.69%	
+SEDANG (55) 	N, N*, Ng, hN, k, kh 	10.91%	
+SELEPET (21) 	N, Ng, kh 	14.29%	
+SELKUP (34) 	N, gF, k 	8.82%	
+SENADI (36) 	N, g, k 	8.33%	
+SENECA (19) 	k 	5.26%	
+SENTANI (17) 	k 	5.88%	
+SHASTA (21) 	k, k', x 	14.29%	
+SHILHA (31) 	g, gF, k, k9, x 	16.13%	
+SHIRIANA (25) 	k 	4.00%	
+SHUSWAP (44) 	gA, gA*, k, k*, kW, kW*, x, xW 	18.18%	
+SIERRA MIWOK (21) 	N, k 	9.52%	
+SINHALESE (36) 	N, g, k 	8.33%	
+SIONA (30) 	k, k*, kW, kW* 	13.33%	
+SIRIONO (28) 	Ng, k, kJ 	10.71%	
+SOCOTRI (34) 	g, k, k' 	8.82%	
+SOMALI (32) 	g, kh, x 	9.38%	
+SONGHAI (24) 	N, g, k 	12.50%	
+SOUTHERN KIWAI (19) 	g, k 	10.53%	
+SOUTHERN NAMBIQUARA (43) 	k, k', kW, kW', kWh, kh 	13.95%	
+SPANISH (25) 	gF, k, x 	12.00%	
+SRE (37) 	N, g, k, kh 	10.81%	
+SUENA (18) 	g, k 	11.11%	
+SUI (54) 	N, N*, NW, gF, gF*, hN, hNW, k, kW, kWh, kh, x 	22.22%	
+TABI (33) 	N, g, k 	9.09%	
+TACANA (22) 	k 	4.55%	
+TAGALOG (23) 	N, g, k 	13.04%	
+TAISHAN (25) 	N, k, kW, kWh, kh 	20.00%	
+TAMA (30) 	N, g, k 	10.00%	
+TAMANG (29) 	N, k, kh 	10.34%	
+TAMASHEQ (37) 	g, k 	5.41%	
+TAMPULMA (33) 	N, g, k 	9.09%	
+TAORIPI (14) 	k 	7.14%	
+TARASCAN (39) 	N, g, k, kW, kWh, kh, x 	17.95%	
+TAROK (32) 	N, g, k 	9.38%	
+TEHUELCHE (35) 	k, k', x 	8.57%	
+TEKE (28) 	N, g, k 	10.71%	
+TELUGU (43) 	g, gh, k, kh 	9.30%	
+TEMEIN (25) 	N, g, k 	12.00%	
+TEMNE (25) 	k 	4.00%	
+TERA (48) 	N, Ng, NgW, g, g<, gF, gFW, gW, k, kW, x, xW 	25.00%	
+TETUN (19) 	k 	5.26%	
+THAI (30) 	N, k, kh 	10.00%	
+TICUNA (29) 	N, g, k, kW 	13.79%	
+TIDDIM CHIN (26) 	N, g, k, x 	15.38%	
+TIGAK (17) 	N, g, k 	17.65%	
+TIGRE (33) 	g, k, k' 	9.09%	
+TIRURAY (22) 	N, g, k 	13.64%	
+TIWI (26) 	N, Nk, gF, k 	15.38%	
+TLAPANEC (30) 	g, k 	6.67%	
+TLINGIT (48) 	g, gW, k, k', kW, kW', x, x', xW, xW' 	20.83%	
+TOL (28) 	N, k, k*, kh 	14.29%	
+TONKAWA (25) 	k, kW, x, xW 	16.00%	
+TOTONAC (22) 	k 	4.55%	
+TRUMAI (24) 	k, x: 	8.33%	
+TSESHAHT (42) 	k, k', kW, kW', x, xW 	14.29%	
+TSIMSHIAN (41) 	g, gA, gA*, gJ, gW, k, k', kJ, kJ', kW, kW' 	26.83%	
+TSOU (21) 	N, k 	9.52%	
+TULU (37) 	N, g, k, x 	10.81%	
+TUNICA (24) 	g, kh 	8.33%	
+TURKISH (33) 	g, gF, k 	9.09%	
+TUVA (29) 	N, g, k 	10.34%	
+TZELTAL (28) 	g, k', kh 	10.71%	
+UPPER CHEHALIS (34) 	k, k', kW, kW', xW 	14.71%	
+USAN (20) 	Ng, g 	10.00%	
+UZBEK (30) 	N, g, k 	10.00%	
+VIETNAMESE (36) 	N, gF, k, x 	11.11%	
+WAHGI (23) 	N, Ng, hLF, k 	17.39%	
+WANTOAT (21) 	N, NW, Ng, NgW, k, kW 	28.57%	
+WAPISHANA (25) 	g, kh 	8.00%	
+WAPPO (35) 	g, k, k' 	8.57%	
+WARAO (21) 	k, kW 	9.52%	
+WARAY (21) 	N, k, k: 	14.29%	
+WARIS (22) 	Ng, k, x 	13.64%	
+WEST MAKIAN (23) 	N, g, k 	13.04%	
+WESTERN DESERT (20) 	N, k 	10.00%	
+WICHITA (29) 	k, k', kW, kWh, kh 	17.24%	
+WIK-MUNKAN (18) 	N, k 	11.11%	
+WINTU (35) 	k, k', x 	8.57%	
+WIYOT (29) 	gA, k, kW, kWh, kh 	17.24%	
+WOISIKA (28) 	N, g, k 	10.71%	
+WOLOF (40) 	N, g, k 	7.50%	
+XIAMEN (25) 	N, g, k, kh 	16.00%	
+YAGARIA (23) 	L, g, k 	13.04%	
+YAGUA (23) 	k 	4.35%	
+YAKUT (34) 	N, g, k 	8.82%	
+YANA (30) 	g, k', kh, x 	13.33%	
+YANYUWA (32) 	N, NJ, Nk, NkJ, k, kJ 	18.75%	
+YAQUI (22) 	g, k 	9.09%	
+YAREBA (18) 	g, k 	11.11%	
+YAWA (19) 	k 	5.26%	
+YAY (34) 	N, k, kh 	8.82%	
+YESSAN-MAYO (20) 	Ng, NgW, kW, kh 	20.00%	
+YIDINY (16) 	N, g 	12.50%	
+YOLNGU (23) 	N, k 	8.70%	
+YORUBA (29) 	g, k 	6.90%	
+YUCATEC (30) 	k, k' 	6.67%	
+YUCHI (46) 	g, k, k', kh 	8.70%	
+YUCUNA (21) 	k 	4.76%	
+YUKAGHIR (26) 	N, g, k 	11.54%	
+YULU (42) 	N, Ng, g, k 	9.52%	
+YUPIK (36) 	N, NW, gF, gFW, hN, hNW, k, kW, x, xW 	27.78%	
+ZOQUE (22) 	N, g, k 	13.64%	
+ZULU (37) 	k, k', kh, klF' 	10.81%	
+ZUNI (25) 	k', kW', kWh, kh 	16.00%	
+
+These 449 languages are 99.56% of all languages in UPSID.
+
+
+The criterion 'velar' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+L 	voiced velar lateral approximant 	0.22%
+N 	voiced velar nasal 	52.55%
+N* 	laryngealized voiced velar nasal 	0.67%
+N9 	pharyngealized voiced velar nasal 	0.22%
+NJ 	palatalized voiced velar nasal 	0.89%
+NW 	labialized voiced velar nasal 	3.77%
+Ng 	prenasalized voiced velar plosive 	9.98%
+NgW 	prenasalized labialized voiced velar plosive 	2.22%
+Nh 	breathy voiced velar nasal 	0.22%
+Nk 	prenasalized voiceless velar plosive 	1.33%
+NkJ 	prenasalized palatalized voiceless velar plosive 	0.22%
+NkW 	prenasalized labialized voiceless velar plosive 	0.22%
+Nkh 	prenasalized voiceless aspirated velar plosive 	0.22%
+g 	voiced velar plosive 	56.10%
+g' 	voiced velar ejective stop 	0.22%
+g< 	voiced velar implosive 	1.11%
+gA 	voiced velar approximant 	2.66%
+gA* 	laryngealized voiced velar approximant 	0.44%
+gF 	voiced velar fricative 	12.20%
+gF* 	laryngealized voiced velar fricative 	0.22%
+gFJ 	palatalized voiced velar fricative 	0.22%
+gFW 	labialized voiced velar fricative 	1.33%
+gJ 	palatalized voiced velar plosive 	1.55%
+gL 	laterally-released voiced velar plosive 	0.22%
+gW 	labialized voiced velar plosive 	5.32%
+gWh 	labialized breathy voiced velar plosive 	0.22%
+gh 	breathy voiced velar plosive 	2.22%
+gn 	nasally-released voiced velar plosive 	0.22%
+hLF 	voiceless velar lateral fricative 	0.22%
+hN 	voiceless velar nasal 	2.00%
+hNJ 	palatalized voiceless velar nasal 	0.22%
+hNW 	labialized voiceless velar nasal 	0.44%
+hk 	voiceless preaspirated velar plosive 	0.22%
+k 	voiceless velar plosive 	89.36%
+k' 	voiceless velar ejective stop 	13.97%
+k* 	laryngealized voiceless velar plosive 	1.33%
+k9 	pharyngealized voiceless velar plosive 	0.22%
+k: 	long voiceless velar plosive 	0.67%
+kJ 	palatalized voiceless velar plosive 	2.88%
+kJ' 	palatalized voiceless velar ejective stop 	0.67%
+kJh 	palatalized voiceless aspirated velar plosive 	0.67%
+kW 	labialized voiceless velar plosive 	13.30%
+kW' 	labialized voiceless velar ejective stop 	5.10%
+kW* 	laryngealized labialized voiceless velar plosive 	0.44%
+kW: 	long labialized voiceless velar plosive 	0.44%
+kWh 	labialized voiceless aspirated velar plosive 	4.66%
+kh 	voiceless aspirated velar plosive 	22.84%
+khh 	voiceless velar plosive with breathy release 	0.44%
+klF 	voiceless velar plosive with alveolar lateral fricative release 	0.22%
+klF' 	voiceless velar lateral ejective affricate 	0.22%
+kx 	voiceless velar affricate 	0.22%
+kx': 	long voiceless velar ejective affricate 	0.22%
+kx: 	long voiceless velar affricate 	0.22%
+kxWh 	labialized voiceless aspirated velar affricate 	0.22%
+kxh 	voiceless aspirated velar affricate 	0.44%
+x 	voiceless velar fricative 	20.84%
+x' 	voiceless velar ejective fricative 	0.44%
+x: 	long voiceless velar fricative 	0.89%
+xJ 	palatalized voiceless velar fricative 	0.22%
+xW 	labialized voiceless velar fricative 	5.54%
+xW' 	labialized voiceless velar ejective fricative 	0.22%
+xW: 	long labialized voiceless velar fricative 	0.22%
+
+These 62 sounds make 6.75% of all 919 sounds in UPSID
+

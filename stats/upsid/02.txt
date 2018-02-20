@@ -1,0 +1,236 @@
+
+The 'labiodental' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+ADZERA (25) 	f 	4.00%	
+AGHEM (35) 	bv, f 	5.71%	
+AIZI (33) 	f, v 	6.06%	
+AKAN (35) 	f 	2.86%	
+ALBANIAN (35) 	f, v 	5.71%	
+ALLADIAN (36) 	f, v 	5.56%	
+AMELE (20) 	f 	5.00%	
+AMHARIC (37) 	f 	2.70%	
+AMO (35) 	f, v 	5.71%	
+ANGAS (43) 	f, v 	4.65%	
+APINAYE (30) 	v 	3.33%	
+ARABIC (35) 	f 	2.86%	
+ARMENIAN (36) 	f, v 	5.56%	
+ASHUSLAY (28) 	f 	3.57%	
+ASMAT (17) 	f 	5.88%	
+AVAR (49) 	f 	2.04%	
+AWIYA (35) 	f 	2.86%	
+AZANDE (35) 	f, v 	5.71%	
+AZERBAIJANI (33) 	f, v 	6.06%	
+BAI (29) 	f, v 	6.90%	
+BAMBARA (35) 	f 	2.86%	
+BARIBA (30) 	f 	3.33%	
+BASHKIR (38) 	f, v 	5.26%	
+BASQUE (28) 	f 	3.57%	
+BEEMBE (26) 	f, pf, pfh, v 	15.38%	
+BEJA (26) 	f 	3.85%	
+BETE (37) 	f, v 	5.41%	
+BIROM (29) 	f, v 	6.90%	
+BISA (24) 	f, v 	8.33%	
+BOBO-FING (33) 	f, v 	6.06%	
+BRAHUI (33) 	f, v 	6.06%	
+BRAO (31) 	v 	3.23%	
+BRETON (45) 	f, v 	4.44%	
+BULGARIAN (42) 	f, fJ, v, vJ 	9.52%	
+BURUSHASKI (43) 	f 	2.33%	
+CAMSA (28) 	f 	3.57%	
+CHAMORRO (26) 	f 	3.85%	
+CHANGZHOU (34) 	f, v 	5.88%	
+CHUAVE (17) 	f 	5.88%	
+CHUVASH (30) 	f 	3.33%	
+COFAN (35) 	f 	2.86%	
+DAGBANI (29) 	f, v 	6.90%	
+DAGUR (29) 	f 	3.45%	
+DAHALO (59) 	f, v 	3.39%	
+DAN (39) 	f, v 	5.13%	
+DIOLA (29) 	f 	3.45%	
+DIZI (30) 	f 	3.33%	
+DOAYO (34) 	f, v 	5.88%	
+EFIK (20) 	f 	5.00%	
+EJAGHAM (27) 	f 	3.70%	
+EWE (40) 	f, v 	5.00%	
+EWONDO (34) 	f, mv, v 	8.82%	
+FARSI (30) 	f, v 	6.67%	
+FE?FE? (25) 	f, v 	8.00%	
+FIJIAN (30) 	f 	3.33%	
+FINNISH (25) 	f, v 	8.00%	
+FRENCH (37) 	f, v 	5.41%	
+FUR (30) 	f 	3.33%	
+GA (41) 	f, v 	4.88%	
+GBEYA (43) 	f, v, v[ 	6.98%	
+GELAO (43) 	f, v 	4.65%	
+GERMAN (41) 	f, pf, v 	7.32%	
+GREEK (26) 	f, v 	7.69%	
+GUAHIBO (29) 	f, v 	6.90%	
+GUARANI (36) 	f, v 	5.56%	
+GWARI (26) 	f, v 	7.69%	
+HADZA (62) 	f 	1.61%	
+HAKKA (22) 	f 	4.55%	
+HINDI-URDU (61) 	f 	1.64%	
+HMONG (56) 	f, v 	3.57%	
+HOPI (28) 	v 	3.57%	
+HUARI (32) 	f 	3.12%	
+HUNGARIAN (40) 	f, v 	5.00%	
+IAI (52) 	f 	1.92%	
+IGBO (59) 	f, v 	3.39%	
+IK (44) 	f 	2.27%	
+INUIT (22) 	f: 	4.55%	
+IRAQW (45) 	f 	2.22%	
+ISLAND CARIB (27) 	f 	3.70%	
+ISOKO (37) 	f, v, vh 	8.11%	
+IVATAN (23) 	v 	4.35%	
+KABARDIAN (56) 	f, f', v 	5.36%	
+KADUGLI (27) 	f 	3.70%	
+KANURI (29) 	f 	3.45%	
+KAROK (27) 	f 	3.70%	
+KAWAIISU (31) 	v 	3.23%	
+KEFA (27) 	f 	3.70%	
+KERA (30) 	f, v 	6.67%	
+KHMER (42) 	vA 	2.38%	
+KIRGHIZ (30) 	f 	3.33%	
+KLAO (27) 	f 	3.70%	
+KOHUMONO (38) 	f, v 	5.26%	
+KOIARI (16) 	f 	6.25%	
+KOLOKUMA IJO (37) 	f, v 	5.41%	
+KOMI (33) 	v 	3.03%	
+KONKANI (37) 	f 	2.70%	
+KORYAK (21) 	v 	4.76%	
+KOTA (28) 	v 	3.57%	
+KOTOKO (36) 	f, pf' 	5.56%	
+KOYA (24) 	vA 	4.17%	
+KPAN (34) 	f, v 	5.88%	
+KPELLE (34) 	f, v 	5.88%	
+KULLO (29) 	f 	3.45%	
+KUNAMA (26) 	f 	3.85%	
+KURDISH (47) 	f, v 	4.26%	
+LAHU (35) 	f, v 	5.71%	
+LAI (52) 	f, v, vJ 	5.77%	
+LAKKIA (55) 	f 	1.82%	
+LAME (38) 	f, v 	5.26%	
+LELEMI (34) 	f, v 	5.88%	
+LENAKEL (21) 	f 	4.76%	
+LITHUANIAN (52) 	v, vJ 	3.85%	
+LUE (31) 	f, v 	6.45%	
+LUGBARA (36) 	f, v 	5.56%	
+LUISENO (26) 	v 	3.85%	
+LUNGCHOW (32) 	f 	3.12%	
+LUO (32) 	f 	3.12%	
+MABA (29) 	f 	3.45%	
+MALAGASY (25) 	f, v 	8.00%	
+MAMBILA (25) 	bv, f 	8.00%	
+MANCHU (25) 	f 	4.00%	
+MANDARIN (32) 	f 	3.12%	
+MARGI (34) 	f, v 	5.88%	
+MARI (33) 	f 	3.03%	
+MBA-NE (31) 	f, v 	6.45%	
+MBUM (38) 	bD, f, mv, v 	10.53%	
+MIEN (41) 	f 	2.44%	
+MIXE (23) 	v 	4.35%	
+MOGHOL (29) 	f 	3.45%	
+MONGUOR (28) 	v 	3.57%	
+MORO (29) 	f 	3.45%	
+MOXO (25) 	f 	4.00%	
+MUMUYE (34) 	f, v 	5.88%	
+NAMBAKAENGO (47) 	v 	2.13%	
+NAXI (49) 	f, v 	4.08%	
+NDUT (34) 	f 	2.94%	
+NEO-ARAMAIC (40) 	f 	2.50%	
+NERA (22) 	f 	4.55%	
+NGIZIM (40) 	f, v 	5.00%	
+NICOBARESE (25) 	f 	4.00%	
+NONI (33) 	f 	3.03%	
+NORWEGIAN (46) 	f, vA 	4.35%	
+NUBIAN (21) 	f 	4.76%	
+OGBIA (34) 	f, v 	5.88%	
+ORMURI (31) 	f 	3.23%	
+PAIWAN (26) 	v 	3.85%	
+PARAUK (77) 	f, v, vh 	3.90%	
+PASHTO (38) 	f 	2.63%	
+PHLONG (37) 	fW, vW 	5.41%	
+PO-AI (35) 	f, v 	5.71%	
+POMO (32) 	f 	3.12%	
+QAWASQAR (19) 	f 	5.26%	
+ROMANIAN (32) 	f, v 	6.25%	
+RUKAI (27) 	v 	3.70%	
+RUSSIAN (38) 	f, fJ, v, vJ 	10.53%	
+SAAMI (45) 	f, fJ 	4.44%	
+SANDAWE (54) 	f 	1.85%	
+SANGO (37) 	f, mv, v 	8.11%	
+SENADI (36) 	f, v 	5.56%	
+SENTANI (17) 	f 	5.88%	
+SHILHA (31) 	f 	3.23%	
+SINHALESE (36) 	vA 	2.78%	
+SOCOTRI (34) 	f 	2.94%	
+SOMALI (32) 	f 	3.12%	
+SONGHAI (24) 	f 	4.17%	
+SPANISH (25) 	f 	4.00%	
+TABI (33) 	f 	3.03%	
+TAGALOG (23) 	f 	4.35%	
+TAISHAN (25) 	f 	4.00%	
+TAMA (30) 	f 	3.33%	
+TAMASHEQ (37) 	f 	2.70%	
+TAMPULMA (33) 	f, v 	6.06%	
+TAORIPI (14) 	f 	7.14%	
+TARASCAN (39) 	f 	2.56%	
+TAROK (32) 	f, v 	6.25%	
+TEKE (28) 	bv, f, mD, pf 	14.29%	
+TELUGU (43) 	f 	2.33%	
+TEMNE (25) 	f 	4.00%	
+TERA (48) 	f, v, vJ 	6.25%	
+TETUN (19) 	f 	5.26%	
+THAI (30) 	f 	3.33%	
+TICUNA (29) 	f 	3.45%	
+TIDDIM CHIN (26) 	v 	3.85%	
+TIGRE (33) 	f 	3.03%	
+TRUMAI (24) 	f 	4.17%	
+TSOU (21) 	f, v 	9.52%	
+TULU (37) 	vA 	2.70%	
+TURKISH (33) 	f, v 	6.06%	
+TUVA (29) 	f 	3.45%	
+UZBEK (30) 	f 	3.33%	
+VIETNAMESE (36) 	f, v 	5.56%	
+WAPPO (35) 	f 	2.86%	
+WINTU (35) 	f 	2.86%	
+WOISIKA (28) 	f, vA 	7.14%	
+WOLOF (40) 	f 	2.50%	
+YAGARIA (23) 	v 	4.35%	
+YAKUT (34) 	f, v 	5.88%	
+YAQUI (22) 	f 	4.55%	
+YAY (34) 	f 	2.94%	
+YORUBA (29) 	f 	3.45%	
+YULU (42) 	f, mv, v 	7.14%	
+YUPIK (36) 	f, v 	5.56%	
+ZULU (37) 	f, v 	5.41%	
+
+These 203 languages are 45.01% of all languages in UPSID.
+
+
+The criterion 'labiodental' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+bD 	voiced labiodental plosive 	0.22%
+bv 	voiced labiodental affricate 	0.67%
+f 	voiceless labiodental fricative 	39.91%
+f' 	voiceless labiodental ejective fricative 	0.22%
+f: 	long voiceless labiodental fricative 	0.22%
+fJ 	palatalized voiceless labiodental fricative 	0.67%
+fW 	labialized voiceless labiodental fricative 	0.22%
+mD 	voiced labiodental nasal 	0.22%
+mv 	prenasalized voiced labiodental fricative 	0.89%
+pf 	voiceless labiodental affricate 	0.67%
+pf' 	voiceless labiodental ejective affricate 	0.22%
+pfh 	voiceless aspirated labiodental affricate 	0.22%
+v 	voiced labiodental fricative 	21.06%
+vA 	voiced labiodental approximant 	1.33%
+vJ 	palatalized voiced labiodental fricative 	1.11%
+vW 	labialized voiced labiodental fricative 	0.22%
+v[ 	voiced labiodental flap 	0.22%
+vh 	breathy voiced labiodental fricative 	0.44%
+
+These 18 sounds make 1.96% of all 919 sounds in UPSID
+

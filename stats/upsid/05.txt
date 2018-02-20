@@ -1,0 +1,409 @@
+
+The 'alveolar' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+!XU (141) 	/, /h, /x, d, d', d-, dz', dz-, dzh, g/, g/h, g/x, g/x?, hn/?, hn/h, hn/x?, n, n/, n/h, r[, s, t, t', t-, th, ts, ts', ts-, tsh, z 	21.28%	
+ACHUMAWI (23) 	l, s, t 	13.04%	
+AGHEM (35) 	d, dz, l, n, s, t, ts, z 	22.86%	
+AHTNA (35) 	d, dlF, dz, hlF, lF, n, s, t', th, tlF', tlFh, ts', tsh, z 	40.00%	
+AINU (16) 	n, r[, s, t 	25.00%	
+AIZI (33) 	d, l, n, s, t, z 	18.18%	
+AKAN (35) 	d, n, r, s, th 	14.29%	
+ALABAMA (17) 	s 	5.88%	
+ALAMBLAK (25) 	d, n, rT, s, th 	20.00%	
+ALAWA (26) 	l, n, nd, r, rA, t 	23.08%	
+ALBANIAN (35) 	l, l-, n 	8.57%	
+ALLADIAN (36) 	d, l, n, r[, s, t, z 	19.44%	
+AMELE (20) 	d, l, n, s, t 	25.00%	
+AMHARIC (37) 	r[ 	2.70%	
+AMO (35) 	d, l, n, r, s, t, ts, z 	22.86%	
+AMUESHA (26) 	lJ, n, s, t, tsh 	19.23%	
+AMUZGO (37) 	l, n, nd, r, r[, s, t, ts 	21.62%	
+ANGAATIHA (21) 	l[, n, t 	14.29%	
+ANGAS (43) 	d, d<, l, n, r, s, t, z 	18.60%	
+AO (20) 	l, n, s, t, z 	25.00%	
+APINAYE (30) 	nd, t 	6.67%	
+ARABIC (35) 	r 	2.86%	
+ARAUCANIAN (26) 	l, n, s, t 	15.38%	
+ARMENIAN (36) 	r 	2.78%	
+ARRERNTE (30) 	dn, l, n, r[, t 	16.67%	
+ASHUSLAY (28) 	klF 	3.57%	
+ASMAT (17) 	n, r[, s, t 	23.53%	
+AUCA (21) 	d, n, t 	14.29%	
+AZANDE (35) 	d, l[, n, s, t, z 	17.14%	
+AZERBAIJANI (33) 	r[, s, z 	9.09%	
+BAINING (22) 	l, n, nd, r[, s, t 	27.27%	
+BAMBARA (35) 	d, l, n, rT, s, t, z 	20.00%	
+BANDJALANG (16) 	d, l, n, r 	25.00%	
+BARASANO (23) 	d, r[, s, t 	17.39%	
+BARDI (24) 	l, n, r, t 	16.67%	
+BARIBA (30) 	d, l, n, r[, s, t, z 	23.33%	
+BASHKIR (38) 	d, l, n, r, s, t, ts, z 	21.05%	
+BATS (45) 	hlF, l, n, r 	8.89%	
+BEEMBE (26) 	l, n, s, t, th, ts, tsh 	26.92%	
+BELLA COOLA (31) 	s, ts, ts' 	9.68%	
+BENGALI (43) 	l, n, r[ 	6.98%	
+BETE (37) 	d, l, n, s, t, z 	16.22%	
+BIROM (29) 	d, l, n, r, s, t, z 	24.14%	
+BISA (24) 	d, l, n, r, s, t, z 	29.17%	
+BOBO-FING (33) 	d, l, n, r[, s, th, z 	21.21%	
+BODO (21) 	d, l, n, r[, s, t, z 	33.33%	
+BRAHUI (33) 	d, l, r, r[, s, t, z 	21.21%	
+BRAO (31) 	d<, n, r[, s, t, th 	19.35%	
+BRETON (45) 	l, s, z 	6.67%	
+BULGARIAN (42) 	n, nJ, r, rJ 	9.52%	
+BURARRA (21) 	l, n, r[, t 	19.05%	
+CACUA (22) 	l, n, t 	13.64%	
+CAMPA (19) 	n, r[, s, t, ts 	26.32%	
+CAMSA (28) 	d, l, n, r[, s, t, ts 	25.00%	
+CARIB (22) 	r[ 	4.55%	
+CAYAPA (28) 	d, l, n, rr, s, t, ts 	25.00%	
+CAYUVAVA (33) 	n, r[, s, t 	12.12%	
+CHAM (32) 	d*, l, n, r[, t, th 	18.75%	
+CHAMORRO (26) 	d, dz, l, n, t, ts 	23.08%	
+CHEROKEE (17) 	d, dz, l, n 	23.53%	
+CHUAVE (17) 	d, n, r[, s, t 	29.41%	
+CUBEO (23) 	d, t 	8.70%	
+DADIBI (23) 	n, r[, s, t, th 	21.74%	
+DAFLA (24) 	r 	4.17%	
+DAHALO (59) 	d, d<, dz, n, nd, ndz, rr, s, t, t', ts, ts' 	20.34%	
+DAJU (30) 	d, d<, l, n, r, s, t 	23.33%	
+DAN (39) 	d, l, n, s, t, z 	15.38%	
+DIEGUENO (34) 	hlF, l, n, r, rA, s, t 	20.59%	
+DINKA (32) 	d, l, n, r, t 	15.62%	
+DIOLA (29) 	d, l, n, r[, s, t 	20.69%	
+DIYARI (25) 	l, n, r, rT, t 	20.00%	
+DOGON (28) 	rT 	3.57%	
+DYIRBAL (16) 	d, l, n, r 	25.00%	
+EFIK (20) 	d, n, s, t 	20.00%	
+EJAGHAM (27) 	d, n, r[, s, t 	18.52%	
+EKARI (15) 	d, n, t 	20.00%	
+EPENA PEDEE (31) 	d, r, r[, s, t, th 	19.35%	
+EVEN (27) 	s 	3.70%	
+EWONDO (34) 	d, dz, l, n, nd, ndz, s, t, ts, z 	29.41%	
+FARSI (30) 	l, r, s, z 	13.33%	
+FASU (21) 	n, r[, s, t 	19.05%	
+FIJIAN (30) 	l, nr, r, s 	13.33%	
+FINNISH (25) 	s 	4.00%	
+FUR (30) 	d, l, n, r, s, t 	20.00%	
+GA (41) 	d, l, n, r, s, z 	14.63%	
+GADSUP (15) 	d, t 	13.33%	
+GARAWA (22) 	l, n, r, t 	18.18%	
+GBEYA (43) 	d, d<, l, n, n*, nd, r[, t 	18.60%	
+GEORGIAN (34) 	s, ts, ts', tsh, z 	14.71%	
+GERMAN (41) 	d, l, n, s, t, ts, z 	17.07%	
+GREEK (26) 	dz, r[, s, ts, z 	19.23%	
+GUAHIBO (29) 	d, l, n, r, s, t, ts 	24.14%	
+GUAMBIANO (24) 	l, n, r[, s, t, ts 	25.00%	
+GUARANI (36) 	r[, s 	5.56%	
+GWARI (26) 	d, l, n, r[, s, t, z 	26.92%	
+HADZA (62) 	#, #h, dz, hlF, hn#?, l, n#, ndz, s, tlF, tlF', tlFh, ts, ts', tsh 	24.19%	
+HAMER (35) 	d, d<, l, n, r[, s, t, ts, z 	25.71%	
+HAUSA (38) 	d, d<, l, n, r, s, s*, t, z 	23.68%	
+HIXKARYANA (23) 	d, n, r[, s, t 	21.74%	
+HMONG (56) 	hl, l 	3.57%	
+HOPI (28) 	hn, n, s, t 	14.29%	
+HUASTECO (26) 	l, n, t, t', ts, ts' 	23.08%	
+HUPA (35) 	hlF, l, n, s, t, t', th, tlF', ts, ts', tsh 	31.43%	
+IAI (52) 	rA 	1.92%	
+IBAN (25) 	d, l, n, r, s, t 	24.00%	
+IGBO (59) 	t< 	1.69%	
+IK (44) 	dz, r, s, ts, ts', z 	13.64%	
+IRAQW (45) 	d, d<, hlF, l, n, rr, s, s:, t, tlF', ts' 	24.44%	
+IRISH (69) 	d, hl-, hlJ, hn-, hnJ, hr[-, hr[J, l-, lJ, n-, nJ, r[-, r[J, s, th 	21.74%	
+ISOKO (37) 	d, l, n, r, rA, r[, s, t, z 	24.32%	
+ITELMEN (32) 	hlFJ, l, lFJ 	9.38%	
+IVATAN (23) 	d, l, n, r, s 	21.74%	
+IWAM (17) 	n, rr, s, t 	23.53%	
+JACALTEC (32) 	l, n, r[, s, t', th, ts', tsh 	25.00%	
+JAPANESE (20) 	r[ 	5.00%	
+JAPRERIA (24) 	l[ 	4.17%	
+JAQARU (39) 	l, n, r[, s, t, t', th, ts, ts', tsh 	25.64%	
+JAVANESE (29) 	r, t, thh, ts, tshh 	17.24%	
+JEBERO (23) 	l, rA, r[, r[*, s 	21.74%	
+JOMANG (21) 	d, l, n, rr, s 	23.81%	
+K'EKCHI (26) 	l, n, s, t, t', ts, ts' 	26.92%	
+KABARDIAN (56) 	r 	1.79%	
+KADUGLI (27) 	d, l, n, r, s, t 	22.22%	
+KAINGANG (27) 	nd, rr, t 	11.11%	
+KALA LAGAW YA (24) 	d, l, n, r, s, t, z 	29.17%	
+KALIAI (21) 	r 	4.76%	
+KALKATUNGU (23) 	l, n, r[, t 	17.39%	
+KAM (27) 	l, lJ, n, s, t 	18.52%	
+KANAKURU (35) 	d, d*, l, lF, n, nd, rA, t 	22.86%	
+KANURI (29) 	d, l, n, r[, s, t, z 	24.14%	
+KAREN (36) 	6, l 	5.56%	
+KAROK (27) 	r[, s 	7.41%	
+KASHMIRI (55) 	dz, l, n, r, s, ts, tsh 	12.73%	
+KERA (30) 	d, d*, l, n, r, s, t, z 	26.67%	
+KEWA (20) 	l[, n, nd, r[, s, t 	30.00%	
+KHARIA (36) 	r[ 	2.78%	
+KIOWA (42) 	s, ts, ts', z 	9.52%	
+KIRGHIZ (30) 	l, n, r, s, ts, z 	20.00%	
+KLAMATH (37) 	d, hl, hn, l, l*, n, n*, s, t', th 	27.03%	
+KOHUMONO (38) 	d, n, r, s, t, th, z 	18.42%	
+KOIARI (16) 	d, n, r[, t 	25.00%	
+KOLOKUMA IJO (37) 	d, l, n, r[, s, t, z 	18.92%	
+KOMA (31) 	d, d<, l, n, r, s, s', t, t' 	29.03%	
+KONKANI (37) 	l, n, r[, s 	10.81%	
+KONYAGI (46) 	d, d<, l, l~, n, nd, nt, r, s, t 	21.74%	
+KOREAN (32) 	l 	3.12%	
+KOTA (28) 	d, l, n, r, th 	17.86%	
+KOTOKO (36) 	d, d<, hlF, l, n, r, s, t 	22.22%	
+KOYA (24) 	l, n, r[ 	12.50%	
+KPAN (34) 	d, dz, nd, rr, s, t, ts, z 	23.53%	
+KPELLE (34) 	d, l, n, r[, s, t, z 	20.59%	
+KUNAMA (26) 	l, n, r, s 	15.38%	
+KURDISH (47) 	l9, s9 	4.26%	
+KWAIO (21) 	l, n, nd, s, t 	23.81%	
+KWAKW'ALA (48) 	d, dlF, dz, hlF, l, l*, n, n*, s, t', th, tlF', tlFh, ts', tsh 	31.25%	
+KWOMA (31) 	n, nd, r[, s, t 	16.13%	
+LAME (38) 	d, d*, dz, hlF, l, lF, n, nd, ndz, r[, s, t, ts, z 	36.84%	
+LELEMI (34) 	d, dz, l, n, s, t, ts 	20.59%	
+LENAKEL (21) 	l, n, r[, s, t 	23.81%	
+LITHUANIAN (52) 	l, lJ, n, nJ, r, rJ, s, sJ, z 	17.31%	
+LUA (36) 	d, d<, l, n, nd, r[, s, t 	22.22%	
+LUE (31) 	d, l, n, s, t, th 	19.35%	
+LUGBARA (36) 	dz, l[, n, r, s, ts, z 	19.44%	
+LUO (32) 	d, l, n, r[, s, t 	18.75%	
+LUSHOOTSEED (37) 	d, dz, hlF, s, t, t', tlF', ts, ts' 	24.32%	
+MAASAI (28) 	d<, hr, l, n, r[, s, t 	25.00%	
+MABA (29) 	l, n, r, s, z 	17.24%	
+MAIDU (23) 	d<, l, n, s, t', th 	26.09%	
+MALAKMALAK (19) 	l, n, r, rA, t 	26.32%	
+MAMBILA (25) 	d, l, n, s, t 	20.00%	
+MANDARIN (32) 	n 	3.12%	
+MARANAO (17) 	d, l, n, r[, t 	29.41%	
+MARGI (34) 	d, d<, dz, hlF, l, lF, n, r, s, t, ts, z 	35.29%	
+MAUNG (22) 	l, n, r, rA, t 	22.73%	
+MAXAKALI (20) 	nd, t 	10.00%	
+MAZATEC (33) 	n, ndz, ts 	9.09%	
+MBUM (38) 	d, d<, l, n, nd, r, s, t 	21.05%	
+MIXE (23) 	n, t0 	8.70%	
+MORO (29) 	l, n, r, s 	13.79%	
+MOVIMA (23) 	d<, hlF, l, n, r[, t 	26.09%	
+MOXO (25) 	d, l, n, r[, s, t, ts 	28.00%	
+MUINANE (28) 	d, n, rr, rrJ, s, t 	21.43%	
+MUMUYE (34) 	d, l, n, r, s, t, z 	20.59%	
+MUNDARI (37) 	r, s 	5.41%	
+MURINHPATHA (25) 	d, l, n, r, t 	20.00%	
+NAHUATL (20) 	l, s, tlF, ts 	20.00%	
+NAMA (41) 	#, #xh, /, /xh, hn#?, hn#h, hn/?, hn/h, n#, n/, r, s 	29.27%	
+NAXI (49) 	d, l, n, nd, t, th 	12.24%	
+NEO-ARAMAIC (40) 	l, r[, s, z 	10.00%	
+NEPALI (39) 	dz, dzh, l, r[, s, ts, tsh 	17.95%	
+NEZ PERCE (30) 	hlF, l, l*, s, t, t' 	20.00%	
+NGARINJIN (24) 	l, n, r, r[, t 	20.83%	
+NGIYAMBAA (18) 	l, n, rT, t 	22.22%	
+NGIZIM (40) 	d, d*, hlF, l, lF, n, nd, r, r[, s, t, z 	30.00%	
+NICOBARESE (25) 	l, n, r, r[, t 	20.00%	
+NIVKH (35) 	hr, l, n, r, s, t, th, z 	22.86%	
+NORWEGIAN (46) 	l, r[, s 	6.52%	
+NUBIAN (21) 	r, s 	9.52%	
+NUNGGUBUYU (23) 	l, n, r, t 	17.39%	
+NYANGI (25) 	d<, hlF, l, n, r, t 	24.00%	
+NYIMANG (25) 	d, l, l[, n, rr, s, t 	28.00%	
+OCAINA (34) 	dJ, dz, n, n:, r[, s, t, tJ, ts 	26.47%	
+OJIBWA (27) 	ht, n, t 	11.11%	
+PACOH (33) 	d*, l, n, r, t 	15.15%	
+PAEZ (37) 	l[, l[J, n, nd, ndJ, nz, r[, s, t, tJ, ts 	29.73%	
+PASHTO (38) 	r, s, z 	7.89%	
+PHLONG (37) 	d<, l, n, r, t, th 	16.22%	
+POHNPEIAN (20) 	r, s 	10.00%	
+POMO (32) 	d, t, t', ts, ts' 	15.62%	
+QAWASQAR (19) 	l, n, r[, s, t, t' 	31.58%	
+QUILEUTE (37) 	d, hlF, l, s, t, t', tlF, tlF', ts, ts' 	27.03%	
+RESIGARO (35) 	d, dJ, dz, hn, n, s, t, tJ, th, ts, tsh 	31.43%	
+ROTOKAS (11) 	rT, t 	18.18%	
+RUKAI (27) 	l, n, r, s, ts 	18.52%	
+RUSSIAN (38) 	ts 	2.63%	
+SA'BAN (26) 	d, l, n, r[, s, t 	23.08%	
+SALIBA (32) 	d, l, n, r, r[, s, t 	21.88%	
+SANDAWE (54) 	#, #?, #h, d, dlF, dz, g#, hlF, l, n, n#, r[, s, t, t', th, tlF, tlF', ts, ts', tsh 	38.89%	
+SANGO (37) 	l 	2.70%	
+SAVOSAVO (22) 	l, n, nd, r[, s, t, z 	31.82%	
+SELEPET (21) 	l, r[, s 	14.29%	
+SIERRA MIWOK (21) 	l, n, t 	14.29%	
+SINHALESE (36) 	l, n, r[, s 	11.11%	
+SIONA (30) 	n, s, s* 	10.00%	
+SOMALI (32) 	l, n, r[, s 	12.50%	
+SONGHAI (24) 	d, l, n, rr, s, t, z 	29.17%	
+SOUTHERN NAMBIQUARA (43) 	n, s, s*, t, t' 	11.63%	
+SPANISH (25) 	r, rT 	8.00%	
+SRE (37) 	d, d<, hn, l, n, s, t, th 	21.62%	
+SUI (54) 	ts, tsh 	3.70%	
+TABI (33) 	l, n, r, s, z 	15.15%	
+TACANA (22) 	d, n, r[, r[F, t 	22.73%	
+TAGALOG (23) 	l, r[, s 	13.04%	
+TAMA (30) 	d<, l, n, r, r[, s 	20.00%	
+TAMANG (29) 	t0, t0h 	6.90%	
+TAMPULMA (33) 	d, l, n, r, s, t, z 	21.21%	
+TARASCAN (39) 	d, r, rA, t, th, ts, tsh 	17.95%	
+TEKE (28) 	d, l, n, s, t 	17.86%	
+TELUGU (43) 	dz, l, n, r[, s, ts 	13.95%	
+TEMEIN (25) 	d, l, r, s, t 	20.00%	
+TEMNE (25) 	d, l, n, r, s, t 	24.00%	
+TERA (48) 	d, d<, hlF, l, lF, n, nd, r, s, t, z 	22.92%	
+THAI (30) 	r[ 	3.33%	
+TIDDIM CHIN (26) 	d, l, l*, n, s, t, th, ts, z 	34.62%	
+TIGAK (17) 	lF, n, r, s, t 	29.41%	
+TIGRE (33) 	l, r, s, ts', z 	15.15%	
+TIRURAY (22) 	d, l, n, r, s, t 	27.27%	
+TIWI (26) 	l, n, nt, r[, t 	19.23%	
+TLAPANEC (30) 	r, s, ts 	10.00%	
+TOL (28) 	s, ts, ts*, tsh 	14.29%	
+TOTONAC (22) 	hlF, l, n, s, t, ts 	27.27%	
+TRUMAI (24) 	s, t, t<, ts 	16.67%	
+TSESHAHT (42) 	s, ts, ts' 	7.14%	
+TSIMSHIAN (41) 	d, dz, hlF, l, l*, n, n*, s, t, t', ts, ts' 	29.27%	
+TULU (37) 	r, s 	5.41%	
+TUNICA (24) 	d, l, n, r, s, th 	25.00%	
+TURKISH (33) 	r, s, z 	9.09%	
+TUVA (29) 	r 	3.45%	
+TZELTAL (28) 	r[, s, ts, ts' 	14.29%	
+UPPER CHEHALIS (34) 	n, s, t, t', ts, ts' 	17.65%	
+USAN (20) 	d, n, nd, s, t 	25.00%	
+UZBEK (30) 	l, r[, s, z 	13.33%	
+VANIMO (28) 	d, l, n, s, t 	17.86%	
+VIETNAMESE (36) 	d<, s, z 	8.33%	
+WAHGI (23) 	hlF, n, nd, t 	17.39%	
+WAPISHANA (25) 	d, d*, r[, s, th 	20.00%	
+WAPPO (35) 	t, t' 	5.71%	
+WARAO (21) 	l[, n, s, t 	19.05%	
+WARAY (21) 	l, n, r, t, t: 	23.81%	
+WESTERN DESERT (20) 	l, n, r[, t 	20.00%	
+WIK-MUNKAN (18) 	l, n, r, t 	22.22%	
+WINTU (35) 	d, n, rA, s, t, t', th, tlF, tlF', ts' 	28.57%	
+WIYOT (29) 	rA 	3.45%	
+WOLOF (40) 	d, n, n:, s, t 	12.50%	
+YAGARIA (23) 	d, n, s, t 	17.39%	
+YAGUA (23) 	n, r[, t, ts 	17.39%	
+YANYUWA (32) 	l, n, nt, r, t 	15.62%	
+YAQUI (22) 	d, l, n, r[, s, t 	27.27%	
+YAREBA (18) 	d, dz, n, r[, s, t 	33.33%	
+YAWA (19) 	d, n, nJ, r[, s, sJ, t 	36.84%	
+YESSAN-MAYO (20) 	l, n, nd, r, s, th 	30.00%	
+YIDINY (16) 	d, l, n, r 	25.00%	
+YOLNGU (23) 	l, n, r, t 	17.39%	
+YORUBA (29) 	d, l, n, r[, s, t 	20.69%	
+YUCATEC (30) 	l, s, ts, ts' 	13.33%	
+YUCUNA (21) 	l[, n, r[, s, t, th 	28.57%	
+ZOQUE (22) 	d, l, n, s, t, ts 	27.27%	
+ZULU (37) 	#, /s, hlF, l, lF, n, r, s, t, t', th, z 	32.43%	
+
+These 288 languages are 63.86% of all languages in UPSID.
+
+
+The criterion 'alveolar' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+# 	voiceless alveolar lateral affricated click 	0.89%
+#? 	glottalized voiceless alveolar lateral affricated click 	0.22%
+#h 	voiceless aspirated alveolar lateral affricated click 	0.44%
+#xh 	velar-fricated voiceless aspirated alveolar lateral affricated click 	0.22%
+/ 	voiceless alveolar click 	0.44%
+/h 	voiceless aspirated alveolar click 	0.22%
+/s 	voiceless alveolar affricated click 	0.22%
+/x 	velar-fricated voiceless alveolar click 	0.22%
+/xh 	velar-fricated voiceless aspirated alveolar click 	0.22%
+6 	voiced alveolar fricative 	0.22%
+d 	voiced alveolar plosive 	26.61%
+d' 	voiced alveolar ejective stop 	0.22%
+d* 	laryngealized voiced alveolar plosive 	1.55%
+d- 	velarized voiced alveolar plosive 	0.22%
+d< 	voiced alveolar implosive 	5.10%
+dJ 	palatalized voiced alveolar plosive 	0.44%
+dlF 	voiced alveolar lateral affricate 	0.67%
+dn 	nasally-released voiced alveolar plosive 	0.22%
+dz 	voiced alveolar sibilant affricate 	5.32%
+dz' 	voiced alveolar sibilant ejective affricate 	0.22%
+dz- 	velarized voiced alveolar sibilant affricate 	0.22%
+dzh 	breathy voiced alveolar sibilant affricate 	0.44%
+g# 	voiced alveolar lateral affricated click 	0.22%
+g/ 	voiced alveolar click 	0.22%
+g/h 	breathy voiced alveolar click 	0.22%
+g/x 	velar-fricated voiced alveolar click 	0.22%
+g/x? 	glottalized velar-fricated voiced alveolar click 	0.22%
+hl 	voiceless alveolar lateral approximant 	0.44%
+hl- 	velarized voiceless alveolar lateral approximant 	0.22%
+hlF 	voiceless alveolar lateral fricative 	4.88%
+hlFJ 	palatalized voiceless alveolar lateral fricative 	0.22%
+hlJ 	palatalized voiceless alveolar lateral approximant 	0.22%
+hn 	voiceless alveolar nasal 	0.89%
+hn#? 	glottalized nasalized voiceless alveolar lateral affricated click 	0.44%
+hn#h 	nasalized voiceless aspirated alveolar lateral affricated click 	0.22%
+hn- 	velarized voiceless alveolar nasal 	0.22%
+hn/? 	glottalized nasalized voiceless alveolar click 	0.44%
+hn/h 	nasalized voiceless aspirated alveolar click 	0.44%
+hn/x? 	glottalized nasalized velarized voiceless alveolar click 	0.22%
+hnJ 	palatalized voiceless alveolar nasal 	0.22%
+hr 	voiceless alveolar trill 	0.44%
+hr[- 	velarized voiceless alveolar flap 	0.22%
+hr[J 	palatalized voiceless alveolar flap 	0.22%
+ht 	voiceless preaspirated alveolar plosive 	0.22%
+klF 	voiceless velar plosive with alveolar lateral fricative release 	0.22%
+l 	voiced alveolar lateral approximant 	38.58%
+l* 	laryngealized voiced alveolar lateral approximant 	1.11%
+l- 	velarized voiced alveolar lateral approximant 	0.44%
+l9 	pharyngealized voiced alveolar lateral approximant 	0.22%
+lF 	voiced alveolar lateral fricative 	1.77%
+lFJ 	palatalized voiced alveolar lateral fricative 	0.22%
+lJ 	palatalized voiced alveolar lateral approximant 	0.89%
+l[ 	voiced alveolar lateral flap 	2.00%
+l[J 	palatalized voiced alveolar lateral flap 	0.22%
+l~ 	nasalized voiced alveolar lateral approximant 	0.22%
+n 	voiced alveolar nasal 	44.79%
+n# 	nasalized voiced alveolar lateral affricated click 	0.67%
+n* 	laryngealized voiced alveolar nasal 	0.89%
+n- 	velarized voiced alveolar nasal 	0.22%
+n/ 	nasalized voiced alveolar click 	0.44%
+n/h 	nasalized breathy voiced alveolar click 	0.22%
+n: 	long voiced alveolar nasal 	0.44%
+nJ 	palatalized voiced alveolar nasal 	0.89%
+nd 	prenasalized voiced alveolar plosive 	5.76%
+ndJ 	prenasalized palatalized voiced alveolar plosive 	0.22%
+ndz 	prenasalized voiced alveolar sibilant affricate 	1.11%
+nr 	prenasalized voiced alveolar trill 	0.22%
+nt 	prenasalized voiceless alveolar plosive 	0.67%
+nz 	prenasalized voiced alveolar sibilant fricative 	0.22%
+r 	voiced alveolar trill 	21.06%
+rA 	voiced alveolar approximant 	2.44%
+rJ 	palatalized voiced alveolar trill 	0.44%
+rT 	voiced alveolar tap 	1.55%
+r[ 	voiced alveolar flap 	20.18%
+r[* 	glottalized voiced alveolar flap 	0.22%
+r[- 	velarized voiced alveolar flap 	0.22%
+r[F 	voiced alveolar fricative flap 	0.22%
+r[J 	palatalized voiced alveolar flap 	0.22%
+rr 	voiced alveolar r-sound 	2.22%
+rrJ 	palatalized voiced alveolar r-sound 	0.22%
+s 	voiceless alveolar sibilant fricative 	43.46%
+s' 	voiceless alveolar sibilant ejective fricative 	0.22%
+s* 	laryngealized voiceless alveolar sibilant fricative 	0.67%
+s9 	pharyngealized voiceless alveolar sibilant fricative 	0.22%
+s: 	long voiceless alveolar sibilant fricative 	0.22%
+sJ 	palatalized voiceless alveolar sibilant fricative 	0.44%
+t 	voiceless alveolar plosive 	40.13%
+t' 	voiceless alveolar ejective stop 	5.32%
+t- 	velarized voiceless alveolar plosive 	0.22%
+t0 	voiceless alveolar affricate 	0.44%
+t0h 	voiceless aspirated alveolar affricate 	0.22%
+t: 	long voiceless alveolar plosive 	0.22%
+t< 	voiceless alveolar implosive 	0.44%
+tJ 	palatalized voiceless alveolar plosive 	0.67%
+th 	voiceless aspirated alveolar plosive 	7.54%
+thh 	voiceless alveolar plosive with breathy release 	0.22%
+tlF 	voiceless alveolar lateral affricate 	1.11%
+tlF' 	voiceless alveolar lateral ejective affricate 	2.00%
+tlFh 	voiceless aspirated alveolar lateral affricate 	0.67%
+ts 	voiceless alveolar sibilant affricate 	13.75%
+ts' 	voiceless alveolar sibilant ejective affricate 	5.76%
+ts* 	laryngealized voiceless alveolar sibilant affricate 	0.22%
+ts- 	velarized voiceless alveolar sibilant affricate 	0.22%
+tsh 	voiceless aspirated alveolar sibilant affricate 	3.77%
+tshh 	voiceless aspirated alveolar sibilant affricate with breathy release 	0.22%
+z 	voiced alveolar sibilant fricative 	13.75%
+
+These 106 sounds make 11.53% of all 919 sounds in UPSID
+

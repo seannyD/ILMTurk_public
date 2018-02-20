@@ -1,0 +1,360 @@
+
+The 'glottal' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+!XU (141) 	hh 	0.71%	
+ABIPON (20) 	h 	5.00%	
+ACHUMAWI (23) 	?, h 	8.70%	
+ACOMA (51) 	?, h 	3.92%	
+ADZERA (25) 	?, h 	8.00%	
+AGHEM (35) 	? 	2.86%	
+AHTNA (35) 	?, h 	5.71%	
+AINU (16) 	h 	6.25%	
+AKAN (35) 	h 	2.86%	
+ALABAMA (17) 	h 	5.88%	
+ALBANIAN (35) 	h 	2.86%	
+ALEUT (27) 	h 	3.70%	
+ALLADIAN (36) 	h 	2.78%	
+AMAHUACA (22) 	?, h 	9.09%	
+AMELE (20) 	?, h 	10.00%	
+AMHARIC (37) 	h, hW 	5.41%	
+AMO (35) 	h 	2.86%	
+AMUESHA (26) 	? 	3.85%	
+AMUZGO (37) 	?, h 	5.41%	
+ANDOKE (26) 	?, h 	7.69%	
+ANGAATIHA (21) 	? 	4.76%	
+ANGAS (43) 	h 	2.33%	
+AO (20) 	? 	5.00%	
+APINAYE (30) 	? 	3.33%	
+ARABELA (18) 	h 	5.56%	
+ARABIC (35) 	?, h 	5.71%	
+ARCHI (91) 	?, h 	2.20%	
+ARMENIAN (36) 	h 	2.78%	
+ASHUSLAY (28) 	? 	3.57%	
+ATAYAL (26) 	? 	3.85%	
+AVAR (49) 	h 	2.04%	
+AZANDE (35) 	h 	2.86%	
+AZERBAIJANI (33) 	h 	3.03%	
+BAKAIRI (29) 	h 	3.45%	
+BAMBARA (35) 	h 	2.86%	
+BARASANO (23) 	h 	4.35%	
+BARIBA (30) 	h 	3.33%	
+BASHKIR (38) 	?, h 	5.26%	
+BATAK (21) 	h 	4.76%	
+BATS (45) 	?, h 	4.44%	
+BEEMBE (26) 	h 	3.85%	
+BEJA (26) 	?, h 	7.69%	
+BELLA COOLA (31) 	?, h 	6.45%	
+BENGALI (43) 	h 	2.33%	
+BERTA (29) 	?, h 	6.90%	
+BIROM (29) 	h 	3.45%	
+BOBO-FING (33) 	h 	3.03%	
+BODO (21) 	h 	4.76%	
+BRAHUI (33) 	?, h 	6.06%	
+BRAO (31) 	? 	3.23%	
+BRETON (45) 	h 	2.22%	
+BRUU (42) 	?, h 	4.76%	
+BURMESE (46) 	?, h 	4.35%	
+BURUSHASKI (43) 	h 	2.33%	
+CACUA (22) 	?, h 	9.09%	
+CADDO (23) 	?, h 	8.70%	
+CAMPA (19) 	h 	5.26%	
+CARIB (22) 	?, h 	9.09%	
+CAYAPA (28) 	?, h 	7.14%	
+CAYUVAVA (33) 	h 	3.03%	
+CHAM (32) 	?, h 	6.25%	
+CHAMORRO (26) 	?, h 	7.69%	
+CHANGZHOU (34) 	?, h, hh 	8.82%	
+CHATINO (25) 	?, h 	8.00%	
+CHEROKEE (17) 	?, h 	11.76%	
+CHIPEWYAN (52) 	?, h 	3.85%	
+CHUKCHI (22) 	? 	4.55%	
+COFAN (35) 	?, h 	5.71%	
+DADIBI (23) 	h 	4.35%	
+DAFLA (24) 	hh 	4.17%	
+DAHALO (59) 	?, h 	3.39%	
+DAJU (30) 	h 	3.33%	
+DAKOTA (36) 	h 	2.78%	
+DANI (24) 	?, h 	8.33%	
+DIEGUENO (34) 	? 	2.94%	
+DIOLA (29) 	h 	3.45%	
+DIZI (30) 	h 	3.33%	
+DOAYO (34) 	h 	2.94%	
+DOGON (28) 	h 	3.57%	
+EPENA PEDEE (31) 	?, h 	6.45%	
+EYAK (45) 	?, h 	4.44%	
+FARSI (30) 	?, h 	6.67%	
+FASU (21) 	h 	4.76%	
+FE?FE? (25) 	?, h 	8.00%	
+FIJIAN (30) 	? 	3.33%	
+FINNISH (25) 	h 	4.00%	
+FUR (30) 	h 	3.33%	
+GA (41) 	h 	2.44%	
+GADSUP (15) 	? 	6.67%	
+GBEYA (43) 	?, h 	4.65%	
+GELAO (43) 	h 	2.33%	
+GEORGIAN (34) 	h 	2.94%	
+GERMAN (41) 	h 	2.44%	
+GUAHIBO (29) 	h 	3.45%	
+GUAJIRO (26) 	?, h 	7.69%	
+GUARANI (36) 	? 	2.78%	
+GWARI (26) 	h 	3.85%	
+HADZA (62) 	?, h 	3.23%	
+HAIDA (49) 	?, h 	4.08%	
+HAKKA (22) 	h 	4.55%	
+HAMER (35) 	h 	2.86%	
+HAUSA (38) 	?, h 	5.26%	
+HAWAIIAN (13) 	?, h 	15.38%	
+HIGHLAND CHINANTEC (41) 	? 	2.44%	
+HINDI-URDU (61) 	?, hh 	3.28%	
+HIXKARYANA (23) 	h 	4.35%	
+HMONG (56) 	h 	1.79%	
+HOPI (28) 	?, h 	7.14%	
+HUARI (32) 	?, h 	6.25%	
+HUASTECO (26) 	?, h 	7.69%	
+HUAVE (29) 	h 	3.45%	
+HUNGARIAN (40) 	h 	2.50%	
+HUPA (35) 	?, h, hW 	8.57%	
+IAI (52) 	h 	1.92%	
+IATE (30) 	?, hh 	6.67%	
+IBAN (25) 	?, h 	8.00%	
+IGBO (59) 	h, hW 	3.39%	
+IK (44) 	h 	2.27%	
+IRANXE (39) 	?, h 	5.13%	
+IRAQW (45) 	?, h 	4.44%	
+IRISH (69) 	h 	1.45%	
+ISLAND CARIB (27) 	h 	3.70%	
+ISOKO (37) 	h 	2.70%	
+ITELMEN (32) 	? 	3.12%	
+ITONAMA (25) 	?, h 	8.00%	
+IVATAN (23) 	h 	4.35%	
+IWAM (17) 	h 	5.88%	
+JACALTEC (32) 	?, h 	6.25%	
+JAPANESE (20) 	h 	5.00%	
+JAPRERIA (24) 	?, h 	8.33%	
+JAVANESE (29) 	?, h 	6.90%	
+JEBERO (23) 	? 	4.35%	
+JINGPHO (30) 	?, h 	6.67%	
+JIVARO (23) 	? 	4.35%	
+K'EKCHI (26) 	? 	3.85%	
+KABARDIAN (56) 	?, ?W, hh 	5.36%	
+KAINGANG (27) 	?, h 	7.41%	
+KALIAI (21) 	h 	4.76%	
+KAM (27) 	? 	3.70%	
+KANURI (29) 	?, h 	6.90%	
+KAREN (36) 	?, hh 	5.56%	
+KAROK (27) 	?, h 	7.41%	
+KASHMIRI (55) 	hh 	1.82%	
+KAWAIISU (31) 	?, h, hW 	9.68%	
+KEFA (27) 	?, h 	7.41%	
+KERA (30) 	?, h 	6.67%	
+KET (25) 	?, h 	8.00%	
+KHARIA (36) 	hh 	2.78%	
+KHASI (29) 	?, h 	6.90%	
+KHMER (42) 	?, h 	4.76%	
+KHMU? (41) 	?, h 	4.88%	
+KIOWA (42) 	?, h 	4.76%	
+KLAMATH (37) 	?, h 	5.41%	
+KOHUMONO (38) 	h 	2.63%	
+KOIARI (16) 	h 	6.25%	
+KOMA (31) 	?, h 	6.45%	
+KONKANI (37) 	h 	2.70%	
+KOREAN (32) 	h 	3.12%	
+KORYAK (21) 	? 	4.76%	
+KOTOKO (36) 	?, h 	5.56%	
+KOYA (24) 	h 	4.17%	
+KULLO (29) 	?, h 	6.90%	
+KUNAMA (26) 	h 	3.85%	
+KURDISH (47) 	? 	2.13%	
+KURUKH (32) 	?, h 	6.25%	
+KWAIO (21) 	? 	4.76%	
+KWAKW'ALA (48) 	?, h 	4.17%	
+KWOMA (31) 	?, h 	6.45%	
+LAHU (35) 	?, h 	5.71%	
+LAI (52) 	?, h 	3.85%	
+LAK (69) 	?, h 	2.90%	
+LAKKIA (55) 	?, h 	3.64%	
+LAME (38) 	?, h, hh 	7.89%	
+LELEMI (34) 	h 	2.94%	
+LENAKEL (21) 	h 	4.76%	
+LUA (36) 	?, h 	5.56%	
+LUE (31) 	?, h 	6.45%	
+LUGBARA (36) 	?, h 	5.56%	
+LUISENO (26) 	?, h 	7.69%	
+LUNGCHOW (32) 	?, h 	6.25%	
+LUO (32) 	?, h 	6.25%	
+LUSHOOTSEED (37) 	?, h 	5.41%	
+MABA (29) 	? 	3.45%	
+MAIDU (23) 	h 	4.35%	
+MALAGASY (25) 	h 	4.00%	
+MAMBILA (25) 	h 	4.00%	
+MARANAO (17) 	?, h 	11.76%	
+MARGI (34) 	? 	2.94%	
+MAXAKALI (20) 	?, h 	10.00%	
+MAZAHUA (60) 	?, h 	3.33%	
+MAZATEC (33) 	?, h 	6.06%	
+MBUM (38) 	h 	2.63%	
+MIEN (41) 	?, h 	4.88%	
+MIXE (23) 	? 	4.35%	
+MIXTEC (25) 	?, h 	8.00%	
+MOGHOL (29) 	?, h 	6.90%	
+MONGUOR (28) 	h 	3.57%	
+MOR (19) 	?, h 	10.53%	
+MOVIMA (23) 	?, h 	8.70%	
+MOXO (25) 	?, h 	8.00%	
+MUINANE (28) 	? 	3.57%	
+MUMUYE (34) 	h 	2.94%	
+MUNDARI (37) 	?, h 	5.41%	
+MURSI (26) 	h 	3.85%	
+NAHUATL (20) 	? 	5.00%	
+NAMA (41) 	?, h 	4.88%	
+NASIOI (13) 	? 	7.69%	
+NAVAJO (47) 	?, h 	4.26%	
+NDUT (34) 	?, h 	5.88%	
+NENETS (35) 	?, ?? 	5.71%	
+NEO-ARAMAIC (40) 	?, h 	5.00%	
+NEPALI (39) 	h 	2.56%	
+NERA (22) 	h 	4.55%	
+NEWARI (32) 	hh 	3.12%	
+NEZ PERCE (30) 	?, h 	6.67%	
+NGANASAN (29) 	? 	3.45%	
+NGIZIM (40) 	h 	2.50%	
+NICOBARESE (25) 	h 	4.00%	
+NIMBORAN (18) 	h 	5.56%	
+NIVKH (35) 	h 	2.86%	
+NONI (33) 	? 	3.03%	
+NORWEGIAN (46) 	h 	2.17%	
+NUBIAN (21) 	h 	4.76%	
+NYAH KUR (50) 	?, h 	4.00%	
+OCAINA (34) 	?, h 	5.88%	
+OJIBWA (27) 	? 	3.70%	
+ORMURI (31) 	h 	3.23%	
+PACOH (33) 	?, h 	6.06%	
+PAEZ (37) 	?, h 	5.41%	
+PAIWAN (26) 	? 	3.85%	
+PANARE (25) 	? 	4.00%	
+PAPAGO (24) 	?, h 	8.33%	
+PASHTO (38) 	h 	2.63%	
+PAYA (28) 	?, h 	7.14%	
+PHLONG (37) 	?, h 	5.41%	
+PICURIS (38) 	?, h 	5.26%	
+PIRAHA (11) 	?, h 	18.18%	
+PO-AI (35) 	?, h 	5.71%	
+POMO (32) 	?, h 	6.25%	
+QUECHUA (36) 	h 	2.78%	
+QUILEUTE (37) 	?, h 	5.41%	
+RESIGARO (35) 	?, h 	5.71%	
+ROMANIAN (32) 	h 	3.12%	
+RORO (14) 	?, h 	14.29%	
+RUKAI (27) 	?, h 	7.41%	
+RUTUL (64) 	?, ?9, h 	4.69%	
+SA'BAN (26) 	?, h 	7.69%	
+SAAMI (45) 	h, hJ 	4.44%	
+SALIBA (32) 	?, h 	6.25%	
+SAMA (32) 	?, h 	6.25%	
+SANDAWE (54) 	?, h 	3.70%	
+SANGO (37) 	h 	2.70%	
+SEDANG (55) 	?, h 	3.64%	
+SELEPET (21) 	h 	4.76%	
+SENADI (36) 	? 	2.78%	
+SENECA (19) 	?, h 	10.53%	
+SENTANI (17) 	h 	5.88%	
+SHASTA (21) 	?, h 	9.52%	
+SHILHA (31) 	h 	3.23%	
+SHIRIANA (25) 	h 	4.00%	
+SHUSWAP (44) 	?, h 	4.55%	
+SIERRA MIWOK (21) 	?, h 	9.52%	
+SINHALESE (36) 	hh 	2.78%	
+SIONA (30) 	?, h, hW 	10.00%	
+SIRIONO (28) 	h 	3.57%	
+SOCOTRI (34) 	?, h 	5.88%	
+SOMALI (32) 	?, h 	6.25%	
+SOUTHERN KIWAI (19) 	? 	5.26%	
+SOUTHERN NAMBIQUARA (43) 	?, h, h* 	6.98%	
+SRE (37) 	?, h 	5.41%	
+SUI (54) 	?, h 	3.70%	
+TABI (33) 	?, h 	6.06%	
+TACANA (22) 	? 	4.55%	
+TAGALOG (23) 	?, h 	8.70%	
+TAISHAN (25) 	h 	4.00%	
+TAMA (30) 	h 	3.33%	
+TAMANG (29) 	h 	3.45%	
+TAMASHEQ (37) 	h 	2.70%	
+TAMPULMA (33) 	h 	3.03%	
+TAORIPI (14) 	h 	7.14%	
+TARASCAN (39) 	?, h 	5.13%	
+TAROK (32) 	h 	3.12%	
+TEHUELCHE (35) 	?, h 	5.71%	
+TEKE (28) 	h 	3.57%	
+TELUGU (43) 	hh 	2.33%	
+TEMNE (25) 	?, h 	8.00%	
+TETUN (19) 	?, h 	10.53%	
+THAI (30) 	?, h 	6.67%	
+TICUNA (29) 	? 	3.45%	
+TIDDIM CHIN (26) 	?, h 	7.69%	
+TIGRE (33) 	?, h 	6.06%	
+TIRURAY (22) 	?, h 	9.09%	
+TLAPANEC (30) 	?, h 	6.67%	
+TLINGIT (48) 	? 	2.08%	
+TOL (28) 	?, h 	7.14%	
+TONKAWA (25) 	?, h 	8.00%	
+TOTONAC (22) 	?, h 	9.09%	
+TRUMAI (24) 	?, h 	8.33%	
+TSESHAHT (42) 	?, ?9, h 	7.14%	
+TSIMSHIAN (41) 	?, h 	4.88%	
+TSOU (21) 	?, h 	9.52%	
+TUNICA (24) 	?, h 	8.33%	
+TURKISH (33) 	?, h 	6.06%	
+TZELTAL (28) 	?, h 	7.14%	
+UPPER CHEHALIS (34) 	?, h 	5.88%	
+USAN (20) 	? 	5.00%	
+UZBEK (30) 	h 	3.33%	
+VANIMO (28) 	hh 	3.57%	
+VIETNAMESE (36) 	?, h 	5.56%	
+WAPISHANA (25) 	?, h 	8.00%	
+WAPPO (35) 	?, h 	5.71%	
+WARAO (21) 	h 	4.76%	
+WEST MAKIAN (23) 	h 	4.35%	
+WICHITA (29) 	?, hh 	6.90%	
+WIK-MUNKAN (18) 	? 	5.56%	
+WINTU (35) 	?, h 	5.71%	
+WIYOT (29) 	? 	3.45%	
+WOISIKA (28) 	h 	3.57%	
+WOLOF (40) 	? 	2.50%	
+XIAMEN (25) 	?, h 	8.00%	
+YAGARIA (23) 	?, h 	8.70%	
+YAGUA (23) 	h 	4.35%	
+YANA (30) 	?, h 	6.67%	
+YAQUI (22) 	?, h 	9.09%	
+YAY (34) 	?, h 	5.88%	
+YESSAN-MAYO (20) 	h 	5.00%	
+YOLNGU (23) 	? 	4.35%	
+YORUBA (29) 	h 	3.45%	
+YUCATEC (30) 	?, h 	6.67%	
+YUCHI (46) 	?, h 	4.35%	
+YUCUNA (21) 	?, h 	9.52%	
+YULU (42) 	?, h 	4.76%	
+YUPIK (36) 	h 	2.78%	
+ZOQUE (22) 	?, h 	9.09%	
+ZULU (37) 	h, hh 	5.41%	
+ZUNI (25) 	?, h 	8.00%	
+
+These 336 languages are 74.50% of all languages in UPSID.
+
+
+The criterion 'glottal' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+? 	voiceless glottal plosive 	47.89%
+?9 	pharyngealized voiceless glottal plosive 	0.44%
+?? 	voiced glottal plosive 	0.22%
+?W 	labialized voiceless glottal plosive 	0.22%
+h 	voiceless glottal fricative 	61.86%
+h* 	laryngealized voiceless glottal fricative 	0.22%
+hJ 	palatalized voiceless glottal fricative 	0.22%
+hW 	labialized voiceless glottal fricative 	1.11%
+hh 	voiced glottal fricative 	3.55%
+
+These 9 sounds make 0.98% of all 919 sounds in UPSID
+

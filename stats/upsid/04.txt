@@ -1,0 +1,321 @@
+
+The 'dental/alveolar' sounds occur in these languages:
+
+Language (sounds)	Sound	% of sounds in language
+ABIPON (20) 	"l, "n, "rr, "t 	20.00%	
+ACHE (21) 	"l[, "nd, "t 	14.29%	
+ACHUMAWI (23) 	"n, "rr 	8.70%	
+ADZERA (25) 	"d, "dz, "n, "r, "s, "th, "tsh 	28.00%	
+AKAWAIO (23) 	"d, "n, "rr, "s, "t, "z 	26.09%	
+ALABAMA (17) 	"hlF, "l, "n 	17.65%	
+ALBANIAN (35) 	"dz, "r, "ts 	8.57%	
+ALEUT (27) 	"hlF, "hn, "l, "n, "t, "ts 	22.22%	
+AMAHUACA (22) 	"n, "r[, "s, "t 	18.18%	
+AMHARIC (37) 	"d, "l, "n, "s, "sW, "t, "t', "z 	21.62%	
+AMUESHA (26) 	"r[ 	3.85%	
+ANDAMANESE (24) 	"d, "l, "n, "rA, "t 	20.83%	
+APINAYE (30) 	"s 	3.33%	
+ARABELA (18) 	"n, "r, "s, "t 	22.22%	
+ARCHI (91) 	"d, "dW, "hlF, "hlF:, "hlFW, "hlFW:, "l, "lF, "n, "rr, "s, "s:, "sW, "sW:, "t', "t:, "tWh, "th, "tlF', "tlFW', "tlFWh, "tlFh, "ts', "ts':, "tsW', "tsWh, "tsh, "z, "zW 	31.87%	
+ASHUSLAY (28) 	"l, "n, "s, "t, "t*, "ts, "ts* 	25.00%	
+ATAYAL (26) 	"l, "n, "r[, "s, "t, "ts 	23.08%	
+AVAR (49) 	"d, "hlF, "hlF:, "l, "n, "rr, "s, "s:, "t', "th, "tlF':, "tlF:, "ts', "ts':, "ts:, "tsh, "z 	34.69%	
+AWIYA (35) 	"dz, "l, "n, "r[, "s, "t, "ts, "z 	22.86%	
+AZERBAIJANI (33) 	"l 	3.03%	
+BAI (29) 	"s, "ts, "tsh 	10.34%	
+BAKAIRI (29) 	"d, "l, "n, "rr, "s, "t, "z 	24.14%	
+BASQUE (28) 	"d, "l, "n, "r, "r[, "s, "t, "ts 	28.57%	
+BATAK (21) 	"d, "l, "n, "s, "t 	23.81%	
+BEJA (26) 	"l, "rr 	7.69%	
+BELLA COOLA (31) 	"hlF, "l, "tlF' 	9.68%	
+BERTA (29) 	"d, "d<, "l, "n, "nd, "r, "s, "s' 	27.59%	
+BORORO (20) 	"d, "n, "rr, "t 	20.00%	
+BRAHUI (33) 	"hlF 	3.03%	
+BRAO (31) 	"l 	3.23%	
+BRIBRI (27) 	"d, "n, "rr, "s, "t, "ts, "z 	25.93%	
+BRUU (42) 	"d, "l, "n, "rr, "s, "t, "th 	16.67%	
+BURMESE (46) 	"d, "hl, "hn, "l, "n, "s, "sh, "t, "th, "z 	21.74%	
+BURUSHASKI (43) 	"d, "l, "n, "rr, "s, "t, "th, "ts, "tsh, "z 	23.26%	
+CADDO (23) 	"d, "n, "s, "t, "t', "ts, "ts' 	30.43%	
+CARIB (22) 	"d, "n, "s, "t 	18.18%	
+CHAMORRO (26) 	"s 	3.85%	
+CHANGZHOU (34) 	"l, "n, "s, "t, "th, "thh, "ts, "tsh, "tshh, "z 	29.41%	
+CHATINO (25) 	"d, "l, "n, "rr, "s, "t 	24.00%	
+CHIPEWYAN (52) 	"hl, "l, "n, "r, "s, "t, "t', "t-h, "tlF, "tlF', "tlFh, "ts, "ts', "tsh, "z 	28.85%	
+CHUKCHI (22) 	"hlF, "n, "sJ, "t, "ts 	22.73%	
+CHUVASH (30) 	"d, "l, "n, "r, "s, "t, "ts, "z 	26.67%	
+COFAN (35) 	"d, "n, "rr, "s, "t, "th 	17.14%	
+CUBEO (23) 	"l[ 	4.35%	
+CUNA (21) 	"d, "l, "n, "r[, "s, "t 	28.57%	
+DAFLA (24) 	"d, "n, "s, "t 	16.67%	
+DAGBANI (29) 	"d, "l, "n, "s, "t, "z 	20.69%	
+DAGUR (29) 	"d, "l, "n, "rr, "t 	17.24%	
+DAHALO (59) 	"dlF, "hlF, "l, "tlF, "tlF' 	8.47%	
+DAKOTA (36) 	"l, "n, "s, "s', "t, "t', "th, "z 	22.22%	
+DANGALEAT (28) 	"d, "d<, "n, "r, "t 	17.86%	
+DANI (24) 	"l, "n, "s, "t 	16.67%	
+DERA (17) 	"d, "n, "t 	17.65%	
+DIZI (30) 	"d, "l, "n, "rr, "s, "t, "t', "ts', "z 	30.00%	
+DOAYO (34) 	"d, "d<, "l, "n, "rr, "s, "t, "z 	23.53%	
+DOGON (28) 	"d, "l, "n, "s, "t 	17.86%	
+EVEN (27) 	"d, "l, "n, "r, "t 	18.52%	
+EWE (40) 	"l, "n, "s, "z 	10.00%	
+EYAK (45) 	"d, "dlF, "dz, "hlF, "l, "n, "s, "t', "th, "tlF', "tlFh, "ts', "tsh 	28.89%	
+FE?FE? (25) 	"d, "n, "s, "t, "z 	20.00%	
+FINNISH (25) 	"r 	4.00%	
+FUZHOU (21) 	"l, "n, "s, "t, "th, "ts, "tsh 	33.33%	
+GADSUP (15) 	"n 	6.67%	
+GELAO (43) 	"l, "n, "nt, "nts, "s, "t, "th, "ts, "tsh, "z 	23.26%	
+GEORGIAN (34) 	"l-, "n, "r 	8.82%	
+GUAJIRO (26) 	"l[, "n, "r, "s, "t 	19.23%	
+GUARANI (36) 	"rF 	2.78%	
+GUGU-YALANDYI (16) 	"l, "n, "rr, "t 	25.00%	
+HAIDA (49) 	"dlF, "hlF, "l, "l*, "n, "n*, "t, "t', "th, "tlF, "tlF' 	22.45%	
+HAKKA (22) 	"l, "nd, "s, "t, "th, "ts, "tsh 	31.82%	
+HAWAIIAN (13) 	"l, "n 	15.38%	
+HIGHLAND CHINANTEC (41) 	"6, "dz, "hl, "hn, "l, "n, "t, "ts 	19.51%	
+HINDI-URDU (61) 	"l, "lh, "r, "s, "z 	8.20%	
+HUARI (32) 	"d, "dz, "n, "s, "t, "ts 	18.75%	
+HUAVE (29) 	"6, "d, "l, "n, "nd, "r, "r[, "s, "t, "ts 	34.48%	
+IAI (52) 	"d, "n, "s, "t 	7.69%	
+IATE (30) 	"l, "n, "t, "th, "ts, "tsh 	20.00%	
+IGBO (59) 	"d, "dh, "l, "n, "r[, "r[J, "s, "t, "th, "z 	16.95%	
+IK (44) 	"hlF, "l, "lF, "tlF' 	9.09%	
+INUIT (22) 	"s, "ts 	9.09%	
+IRANXE (39) 	"d, "l, "n, "r[, "s, "t, "tW 	17.95%	
+IRARUTU (19) 	"r[ 	5.26%	
+ISLAND CARIB (27) 	"d, "l, "n, "r[, "s, "t 	22.22%	
+ITELMEN (32) 	"n, "nJ, "r, "s, "t, "t', "ts', "z 	25.00%	
+ITONAMA (25) 	"d, "l, "n, "r[, "s, "t, "t', "tJ 	32.00%	
+JAPRERIA (24) 	"n, "t 	8.33%	
+JAVANESE (29) 	"l, "n 	6.90%	
+JINGPHO (30) 	"d, "dz, "l, "n, "rr, "s, "t, "th, "ts 	30.00%	
+JIVARO (23) 	"n, "r[, "s, "t, "ts 	21.74%	
+KALIAI (21) 	"l, "n, "nd, "s, "t 	23.81%	
+KAREN (36) 	"d<, "n, "s, "sh, "t, "th, "z 	19.44%	
+KAROK (27) 	"n, "t 	7.41%	
+KAWAIISU (31) 	"d, "l, "n, "r[, "s, "t, "ts, "z 	25.81%	
+KEFA (27) 	"d, "l, "n, "rr, "t, "t' 	22.22%	
+KET (25) 	"d, "dJ, "l-, "lJ, "n, "s, "sJ, "t, "tJ 	36.00%	
+KHALKHA (33) 	"d, "dz, "hl, "l, "n, "r, "s, "th, "tsh 	27.27%	
+KHANTY (32) 	"l, "n, "r, "s, "t 	15.62%	
+KHARIA (36) 	"l, "n, "s 	8.33%	
+KHASI (29) 	"d, "n, "r, "s, "t, "th 	20.69%	
+KHMER (42) 	"d<, "l-, "n, "s, "t, "th 	14.29%	
+KHMU? (41) 	"d<, "l, "n, "r, "s, "t, "th 	17.07%	
+KLAO (27) 	"d, "s, "t 	11.11%	
+KOMI (33) 	"d, "l, "n, "r, "s, "t, "z 	21.21%	
+KORYAK (21) 	"l, "n, "r, "t 	19.05%	
+KULLO (29) 	"d, "d<, "l, "n, "rr, "s, "t, "t', "ts, "ts', "z 	37.93%	
+KUNIMAIPA (20) 	"l, "n, "s, "t, "z 	25.00%	
+KURDISH (47) 	"l, "r, "r[ 	6.38%	
+KURUKH (32) 	"d, "l, "n, "r, "s, "t 	18.75%	
+LAHU (35) 	"d, "l, "n, "t, "th 	14.29%	
+LAI (52) 	"hlF, "hlFJ, "l, "lJ, "n, "nd, "ndJ, "s, "sJ, "t, "tJ, "tJh, "th 	25.00%	
+LAK (69) 	"d, "l, "n, "r, "s, "s:, "t', "t:, "th, "ts', "ts:, "tsW', "tsW:, "tsWh, "tsh, "z 	23.19%	
+LAKKIA (55) 	"hl, "hn, "l, "n, "t, "th, "ts, "tsh 	14.55%	
+LITHUANIAN (52) 	"d, "dJ, "dz, "t, "tJ, "ts, "tsJ 	13.46%	
+LUISENO (26) 	"r 	3.85%	
+LUNGCHOW (32) 	"d*, "hlF, "l, "n, "t, "th 	18.75%	
+MABA (29) 	"d, "t 	6.90%	
+MALAGASY (25) 	"l, "n, "r, "s, "z 	20.00%	
+MANCHU (25) 	"r 	4.00%	
+MANDARIN (32) 	"l, "s, "t, "th, "ts, "tsh 	18.75%	
+MARI (33) 	"l, "n, "r[, "s, "sJ, "t, "tJ, "ts, "z 	27.27%	
+MAZAHUA (60) 	"d<, "hn, "l, "n, "rr, "s, "s', "sh, "t, "t', "th, "ts, "ts', "tsh, "z 	25.00%	
+MAZATEC (33) 	"l, "nd, "r, "s, "t 	15.15%	
+MBA-NE (31) 	"d, "d<, "l, "n, "nd, "t 	19.35%	
+MBABARAM (24) 	"d, "l, "n, "nd, "r 	20.83%	
+MIEN (41) 	"dz, "hl, "l, "s, "ts, "tsh 	14.63%	
+MIXTEC (25) 	"l, "r, "s, "t 	16.00%	
+MOGHOL (29) 	"d, "l, "n, "r, "s, "t, "z 	24.14%	
+MONGUOR (28) 	"d, "dz, "l, "n, "r, "s, "t, "z 	28.57%	
+MOR (19) 	"n, "nd, "rr, "s, "t 	26.32%	
+MURSI (26) 	"d, "d<, "l, "n, "r, "t 	23.08%	
+NAMBAKAENGO (47) 	"l, "n, "nJ, "nW, "nd, "ndW, "s, "t, "tJ, "tW, "th 	23.40%	
+NANAI (24) 	"d, "l, "n, "r, "s, "t 	25.00%	
+NASIOI (13) 	"n, "r[, "t 	23.08%	
+NAVAJO (47) 	"dlF, "hlF, "l, "n, "s, "t, "t', "th, "tlF, "tlF', "ts, "ts', "tsh, "z 	29.79%	
+NDUT (34) 	"d, "d<, "l, "n, "nd, "rr, "s, "t 	23.53%	
+NENETS (35) 	"l, "lJ, "n, "nJ, "r, "rJ, "s, "sJ, "t, "tJ, "ts, "tsJ 	34.29%	
+NERA (22) 	"d, "l, "n, "r, "s, "t 	27.27%	
+NEWARI (32) 	"d, "dh, "dz, "dzh, "l, "lh, "n, "nh, "s, "t, "th, "ts, "tsh 	40.62%	
+NGANASAN (29) 	"d, "l, "n, "r, "s, "t 	20.69%	
+NONI (33) 	"d, "l, "n, "s, "t 	15.15%	
+NUBIAN (21) 	"l 	4.76%	
+NYAH KUR (50) 	"d, "hl, "hn, "hrr, "l, "n, "rr, "t, "th 	18.00%	
+OGBIA (34) 	"d, "d<, "l, "n, "nW, "rr, "s, "t, "z 	26.47%	
+OJIBWA (27) 	"hs, "l, "s 	11.11%	
+ORMURI (31) 	"d, "dz, "l, "n, "r, "s, "t, "ts, "z 	29.03%	
+PAIWAN (26) 	"d, "dJ, "lJ, "n, "r, "t, "tJ 	26.92%	
+PANARE (25) 	"n, "rr, "t, "ts 	16.00%	
+PARAUK (77) 	"d, "dh, "l, "lh, "n, "nh, "t, "th 	10.39%	
+PAYA (28) 	"l, "n, "r, "r[, "s, "t 	21.43%	
+PICURIS (38) 	"d, "hlF, "l, "n, "rr, "s, "t, "t', "th 	23.68%	
+PIRAHA (11) 	"s, "t 	18.18%	
+PO-AI (35) 	"hlF, "l, "n, "t, "th 	14.29%	
+POMO (32) 	"l, "n, "r[, "s 	12.50%	
+QUECHUA (36) 	"l, "n, "r, "r[, "s, "t, "t', "th 	22.22%	
+RUTUL (64) 	"d, "dz, "l, "n, "r, "s, "sW, "t', "th, "ts', "tsW', "tsWh, "tsh, "z 	21.88%	
+SAAMI (45) 	"d, "dJ, "dz, "dzJ, "l, "lJ, "n, "nJ, "r, "rJ, "s, "sJ, "t, "tJ, "ts, "tsJ 	35.56%	
+SAMA (32) 	"d, "l, "n, "ns, "nt, "r, "s, "t 	25.00%	
+SANGO (37) 	"d, "n, "nd, "t 	10.81%	
+SEBEI (26) 	"l, "n, "r, "r[, "s, "t 	23.08%	
+SEDANG (55) 	"d*, "hl, "hn, "hr, "l, "l*, "n, "n*, "nd, "r, "r*, "s, "t, "th 	25.45%	
+SELKUP (34) 	"l, "lJ, "n, "rr, "s, "t, "tJ 	20.59%	
+SENADI (36) 	"d, "dJ, "l, "n, "s, "sJ, "t, "tJ, "z, "zJ 	27.78%	
+SENECA (19) 	"dz, "n, "s, "t 	21.05%	
+SENTANI (17) 	"d, "n, "t 	17.65%	
+SHASTA (21) 	"n, "rr, "s, "t, "t' 	23.81%	
+SHILHA (31) 	"d, "d9, "l, "l9, "n, "r, "r9, "s, "s9, "t, "t9, "z, "z9 	41.94%	
+SHIRIANA (25) 	"n, "r[, "s, "t, "th 	20.00%	
+SHUSWAP (44) 	"hlF, "l, "l*, "n, "n*, "t, "tlF* 	15.91%	
+SIRIONO (28) 	"nd, "r[, "s, "t 	14.29%	
+SOCOTRI (34) 	"d, "hlF, "l, "l*, "lF, "n, "rr, "rr*, "s, "s', "t, "t', "z 	38.24%	
+SOUTHERN KIWAI (19) 	"d, "n, "rr, "s, "t 	26.32%	
+SOUTHERN NAMBIQUARA (43) 	"d<, "n*, "th 	6.98%	
+SUENA (18) 	"d, "dz, "n, "r[, "s, "t 	33.33%	
+SUI (54) 	"d, "d*, "hn, "l, "n, "n*, "s, "t, "th, "z 	18.52%	
+TAISHAN (25) 	"hl, "l, "n, "t, "th 	20.00%	
+TAORIPI (14) 	"l, "s, "t 	21.43%	
+TARASCAN (39) 	"l, "n, "s 	7.69%	
+TAROK (32) 	"d, "d<, "l, "n, "rr, "s, "t, "z 	25.00%	
+TELUGU (43) 	"dh 	2.33%	
+TETUN (19) 	"d, "l, "n, "r, "s, "t 	31.58%	
+THAI (30) 	"l 	3.33%	
+TICUNA (29) 	"d, "n, "r[, "s, "t 	17.24%	
+TLAPANEC (30) 	"l 	3.33%	
+TLINGIT (48) 	"d, "dlF, "dz, "hlF, "hlF', "n, "s, "s', "t, "t', "tlF, "tlF', "ts, "ts' 	29.17%	
+TOL (28) 	"l, "n, "t, "t*, "th 	17.86%	
+TONKAWA (25) 	"s, "t, "ts 	12.00%	
+TSESHAHT (42) 	"hlF, "n, "n*, "tlF, "tlF' 	11.90%	
+TSOU (21) 	"l*, "n, "t 	14.29%	
+TURKISH (33) 	"l 	3.03%	
+UPPER CHEHALIS (34) 	"hlF, "l, "tlF' 	8.82%	
+WANTOAT (21) 	"n, "nd, "nz, "s, "t 	23.81%	
+WAPPO (35) 	"l, "l*, "n, "n*, "rr, "rr*, "s, "ts, "ts' 	25.71%	
+WARIS (22) 	"l, "nd, "rr, "s, "t 	22.73%	
+WEST MAKIAN (23) 	"l, "r, "s 	13.04%	
+WICHITA (29) 	"n, "n:, "rr*, "s, "s', "s:, "t, "th, "ts, "ts', "ts: 	37.93%	
+WIYOT (29) 	"hlF, "l, "n, "s, "t, "th, "ts, "tsh 	27.59%	
+WOISIKA (28) 	"d, "l, "n, "r, "s, "t 	21.43%	
+WOLOF (40) 	"r[ 	2.50%	
+XIAMEN (25) 	"d, "dz, "n, "s, "t, "th, "ts, "tsh 	32.00%	
+YAKUT (34) 	"d, "l-, "r, "t 	11.76%	
+YANA (30) 	"l, "rr 	6.67%	
+YAY (34) 	"d, "l, "n, "rr, "s, "t, "th 	20.59%	
+YUCATEC (30) 	"n, "t, "t' 	10.00%	
+YUCHI (46) 	"d, "dz, "hlF, "hlF', "l, "l*, "n, "n*, "s, "s', "t, "t', "th, "ts, "ts', "tsh 	34.78%	
+YUKAGHIR (26) 	"d, "l, "l-, "n, "r-, "s, "t 	26.92%	
+YUPIK (36) 	"hl, "hn, "hrA, "l, "n, "rA, "s, "t, "z 	25.00%	
+ZUNI (25) 	"hlF, "l, "n, "s, "t, "ts', "tsh 	28.00%	
+
+These 207 languages are 45.90% of all languages in UPSID.
+
+
+The criterion 'dental/alveolar' matches with these sounds:
+
+
+Sound	Description	Sound occurs in % of UPSID's languages
+"6 	voiced dental/alveolar fricative 	0.44%
+"d 	voiced dental/alveolar plosive 	20.18%
+"d* 	laryngealized voiced dental/alveolar plosive 	0.67%
+"d9 	pharyngealized voiced dental/alveolar plosive 	0.22%
+"d< 	voiced dental/alveolar implosive 	3.10%
+"dJ 	palatalized voiced dental/alveolar plosive 	1.11%
+"dW 	labialized voiced dental/alveolar plosive 	0.22%
+"dh 	breathy voiced dental/alveolar plosive 	0.89%
+"dlF 	voiced dental/alveolar lateral affricate 	1.11%
+"dz 	voiced dental/alveolar sibilant affricate 	4.43%
+"dzJ 	palatalized voiced dental/alveolar sibilant affricate 	0.22%
+"dzh 	breathy voiced dental/alveolar sibilant affricate 	0.22%
+"hl 	voiceless dental/alveolar lateral approximant 	2.22%
+"hlF 	voiceless dental/alveolar lateral fricative 	5.32%
+"hlF' 	voiceless dental/alveolar lateral ejective fricative 	0.44%
+"hlF: 	long voiceless dental/alveolar lateral fricative 	0.44%
+"hlFJ 	palatalized voiceless dental/alveolar lateral fricative 	0.22%
+"hlFW 	labialized voiceless dental/alveolar lateral fricative 	0.22%
+"hlFW: 	long labialized voiceless dental/alveolar lateral fricative 	0.22%
+"hn 	voiceless dental/alveolar nasal 	2.00%
+"hr 	voiceless dental/alveolar trill 	0.22%
+"hrA 	voiceless dental/alveolar approximant 	0.22%
+"hrr 	voiceless dental/alveolar r-sound 	0.22%
+"hs 	voiceless preaspirated dental/alveolar sibilant fricative 	0.22%
+"l 	voiced dental/alveolar lateral approximant 	30.16%
+"l* 	laryngealized voiced dental/alveolar lateral approximant 	1.55%
+"l- 	velarized voiced dental/alveolar lateral approximant 	1.11%
+"l9 	pharyngealized voiced dental/alveolar lateral approximant 	0.22%
+"lF 	voiced dental/alveolar lateral fricative 	0.67%
+"lJ 	palatalized voiced dental/alveolar lateral approximant 	1.33%
+"l[ 	voiced dental/alveolar lateral flap 	0.67%
+"lh 	breathy voiced dental/alveolar lateral approximant 	0.67%
+"n 	voiced dental/alveolar nasal 	35.48%
+"n* 	laryngealized voiced dental/alveolar nasal 	1.77%
+"n: 	long voiced dental/alveolar nasal 	0.22%
+"nJ 	palatalized voiced dental/alveolar nasal 	0.89%
+"nW 	labialized voiced dental/alveolar nasal 	0.44%
+"nd 	prenasalized voiced dental/alveolar plosive 	3.77%
+"ndJ 	prenasalized palatalized voiced dental/alveolar plosive 	0.22%
+"ndW 	prenasalized labialized voiced dental/alveolar plosive 	0.22%
+"nh 	breathy voiced dental/alveolar nasal 	0.44%
+"ns 	prenasalized voiceless dental/alveolar sibilant fricative 	0.22%
+"nt 	prenasalized voiceless dental/alveolar plosive 	0.44%
+"nts 	prenasalized voiceless dental/alveolar sibilant affricate 	0.22%
+"nz 	prenasalized voiced dental/alveolar sibilant fricative 	0.22%
+"r 	voiced dental/alveolar trill 	11.31%
+"r* 	laryngealized voiced dental/alveolar trill 	0.22%
+"r- 	velarized voiced dental/alveolar trill 	0.22%
+"r9 	pharyngealized voiced dental/alveolar trill 	0.22%
+"rA 	voiced dental/alveolar approximant 	0.44%
+"rF 	voiced dental/alveolar fricative trill 	0.22%
+"rJ 	palatalized voiced dental/alveolar trill 	0.44%
+"r[ 	voiced dental/alveolar flap 	5.76%
+"r[J 	palatalized voiced dental/alveolar flap 	0.22%
+"rr 	voiced dental/alveolar r-sound 	7.98%
+"rr* 	laryngealized voiced dental/alveolar r-sound 	0.67%
+"s 	voiceless dental/alveolar sibilant fricative 	29.93%
+"s' 	voiceless dental/alveolar sibilant ejective fricative 	1.55%
+"s9 	pharyngealized voiceless dental/alveolar sibilant fricative 	0.22%
+"s: 	long voiceless dental/alveolar sibilant fricative 	0.89%
+"sJ 	palatalized voiceless dental/alveolar sibilant fricative 	1.55%
+"sW 	labialized voiceless dental/alveolar sibilant fricative 	0.67%
+"sW: 	long labialized voiceless dental/alveolar sibilant fricative 	0.22%
+"sh 	voiceless aspirated dental/alveolar sibilant fricative 	0.67%
+"t 	voiceless dental/alveolar plosive 	33.70%
+"t' 	voiceless dental/alveolar ejective stop 	5.32%
+"t* 	laryngealized voiceless dental/alveolar plosive 	0.44%
+"t-h 	velarized voiceless aspirated dental/alveolar plosive 	0.22%
+"t9 	pharyngealized voiceless dental/alveolar plosive 	0.22%
+"t: 	long voiceless dental/alveolar plosive 	0.44%
+"tJ 	palatalized voiceless dental/alveolar plosive 	2.44%
+"tJh 	palatalized voiceless aspirated dental/alveolar plosive 	0.22%
+"tW 	labialized voiceless dental/alveolar plosive 	0.44%
+"tWh 	labialized voiceless aspirated dental/alveolar plosive 	0.22%
+"th 	voiceless aspirated dental/alveolar plosive 	10.86%
+"thh 	voiceless dental/alveolar plosive with breathy release 	0.22%
+"tlF 	voiceless dental/alveolar lateral affricate 	1.33%
+"tlF' 	voiceless dental/alveolar lateral ejective affricate 	2.44%
+"tlF': 	long voiceless dental/alveolar lateral ejective affricate 	0.22%
+"tlF* 	laryngealized voiceless dental/alveolar lateral affricate 	0.22%
+"tlF: 	long voiceless dental/alveolar lateral affricate 	0.22%
+"tlFW' 	labialized voiceless dental/alveolar lateral ejective affricate 	0.22%
+"tlFWh 	labialized voiceless aspirated dental/alveolar lateral affricate 	0.22%
+"tlFh 	voiceless aspirated dental/alveolar lateral affricate 	0.67%
+"ts 	voiceless dental/alveolar sibilant affricate 	9.98%
+"ts' 	voiceless dental/alveolar sibilant ejective affricate 	3.77%
+"ts': 	long voiceless dental/alveolar sibilant ejective affricate 	0.44%
+"ts* 	laryngealized voiceless dental/alveolar sibilant affricate 	0.22%
+"ts: 	long voiceless dental/alveolar sibilant affricate 	0.67%
+"tsJ 	palatalized voiceless dental/alveolar sibilant affricate 	0.67%
+"tsW' 	labialized voiceless dental/alveolar sibilant ejective affricate 	0.67%
+"tsW: 	long labialized voiceless dental/alveolar sibilant affricate 	0.22%
+"tsWh 	labialized voiceless aspirated dental/alveolar sibilant affricate 	0.67%
+"tsh 	voiceless aspirated dental/alveolar sibilant affricate 	5.54%
+"tshh 	voiceless dental/alveolar sibilant affricate with breathy release 	0.22%
+"z 	voiced dental/alveolar sibilant fricative 	9.53%
+"z9 	pharyngealized voiced dental/alveolar sibilant fricative 	0.22%
+"zJ 	palatalized voiced dental/alveolar sibilant fricative 	0.22%
+"zW 	labialized voiced dental/alveolar sibilant fricative 	0.22%
+
+These 99 sounds make 10.77% of all 919 sounds in UPSID
+
